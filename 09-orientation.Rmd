@@ -1,0 +1,26 @@
+# New Student Orientation {-#orientation}
+
+There are multiple orientation sessions that new graduate students can attend. We would like to recommend attending them all as each provides new students with great information and highlights the UBC resources available to you during you time as a student at UBC. 
+
+Using your CWL information log into your UBC instructure account [https://ubc.instructure.com/](https://ubc.instructure.com/) where you will be able to enroll in an assortment of [courses](https://wpl.ubc.ca/):
+
+1)	New student orientation This orientation power point can also be found in the Conservation decisions Lab dropbox folder here. 
+2)	Forestry Graduate Programs Canvas Course This link directs you to the Forestry Graduate Program Hub where you can connect with your peers and colleagues across departments; share and receive wellness and organizational tips; join and participate in stress-lowering online activities and events; and, network with others in multiple ways as we all move through the pandemic together.
+
+## Workplace Training {-#workplacetraining}
+
+There are a number of mandatory online training modules staff and students must complete. They are:
+
+* New Worker Safety Orientation
+* Preventing and Addressing Workplace Bullying and Harassment Training
+* Workplace Violence Prevention Training
+* Privacy & Information Security Fundamentals Training
+
+You can view and complete these modules and a variety of other [optional courses here](https://wpl.ubc.ca/). 
+
+For students that will have field work as a component of their program we recommend the [Safety Supervision at UBC course](https://wpl.ubc.ca/browse/srs/mandatory/courses/wpl-srs-supert. For more information of [field work safety](#fieldworkprep).
+
+## Ethics Training {-#ethicstraining}
+
+Ethics training is a requirement for anyone needing ethics approval for a project. For research involving humans, this is the TCPS2 2018 tutorial through the UBC Office of Research Ethics, found [here](https://ethics.research.ubc.ca/education-training/online-tutorials-training). For research involving animals, the [CCAC Experimental Animal User Training Program](https://animalcare.ubc.ca/training/ccac-online-ethics) must be completed through the UBC Animal Care and Use Program.
+

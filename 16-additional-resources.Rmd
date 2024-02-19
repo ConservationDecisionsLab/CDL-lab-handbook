@@ -1,0 +1,7 @@
+# Additional Resources {-#additionalresources}
+
+Coursera is an online training resource that can be an option for additional learning. Some suggested courses include:
+
+* Python for Everybody ([https://www.coursera.org/specializations/python](https://www.coursera.org/specializations/python))
+* Bayesian Statistics ([https://www.coursera.org/learn/bayesian-statistics](https://www.coursera.org/learn/bayesian-statistics))
+

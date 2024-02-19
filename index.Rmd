@@ -1,0 +1,72 @@
+--- 
+title: "Conservation Decisions Lab Handbook"
+author: "Conservation Decisions Lab"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  This is the development version of the online version of
+  Conservation Decision Lab Handbook.
+  
+link-citations: yes
+github-repo: ConservationDecisionsLab/CDL-lab-handbook
+output:
+  bookdown::gitbook:
+    includes:
+      in_header: header.html
+
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+```{r htmlTemplate, echo=FALSE}
+# Create the external file
+img <- htmltools::img(src = here::here("img/logo.png"), 
+               alt = 'logo', 
+               style = 'position:absolute; top:100px; right:5%; height:60px; max-width:100%; z-index:3;')
+
+htmlhead <- paste0('
+<script>
+document.write(\'<div class="logos">',img,'</div>\')
+</script>
+')
+
+readr::write_lines(htmlhead, file = "header.html")
+
+```
+
+---
+# Overview {-#overview}
+
+```{r, echo=FALSE, out.width="50%",fig.align = 'center'}
+knitr::include_graphics(here::here("img/cdl-lab-banner.jpg"))
+```
+
+This document is a brief introduction to the Conservation Decisions Lab. It provides:
+
+* Insight into [lab values](#diversity) and [expectations](#expectations)
+
+* Need to know details about your [workstation](#computers)
+
+* Information about [safety](#safety) in the lab and in the field
+
+* Common practices for [working in the lab and from home](#working)
+
+* The [social](#social) atmosphere in the lab
+
+* The lab [vehicle](#vehicle) and when/how it can be used
+
+* All things related to your [thesis](#thesis) and how to get ahead of the curve
+
+* [Resources](#resources) for anyone new to UBC or Vancouver
+
+
+

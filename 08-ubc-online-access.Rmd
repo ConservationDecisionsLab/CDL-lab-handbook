@@ -1,0 +1,11 @@
+# UBC Online Access {-#ubconlineaccess}
+
+Once you have received your student number and your first-time sign in information visit The [University of British Columbia](https://activate.id.ubc.ca/iamweb/) to establish your UBC Campus Wide Login (CWL). This CWL is your one place sign in for all of the UBC portals that will be at your disposal. 
+
+The CDLab manager will send IT (Norm Hodges) and email requesting that you obtain access to the Forestry drives of UBC. They will Cc you in this email as your CWL will be required. 
+
+The Forestry drives of UBC will give you access to secure data storage spaces and access to the shared lab Z drive. [Here is a link](https://it.ubc.ca/services/web-servers-storage/home-drive-storage-service/mapping-or-mounting-your-home-drive-0) to how you can map to this shared drive space.
+
+Be aware that some UBC software, like ArcGIS, only functions when using the UBC VPN – Cisco AnyConnect Secure Mobility Client. [Here is a guide](https://it.ubc.ca/services/email-voice-internet/myvpn/setup-documents) as to how to set up your VPN for remote access away from the UBC campus. 
+
+For more information on how to access the IT services of UBC (see section 2.1)

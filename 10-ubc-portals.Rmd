@@ -1,0 +1,20 @@
+# UBC Portals {-#ubcportals}
+
+## WorkDay {-#workday}
+
+In November of 2020 UBC transitioned from the admin/HR MSP system to [Workday](https://hr.ubc.ca/working-ubc/welcome-workday) which is now used as the central hub for HR and administration processes. 
+
+Be sure to partake in all of the Workday training opportunities that can be found [here](https://irp.ubc.ca/training) and [here](https://wpl.ubc.ca/browse/irp-training/), this system is effective but not entirely intuitive. Please contact IT services to report any issues or to request clarification on necessary Workday actions. 
+
+Your main processes within Workday will include approving out of pocket [expense reports](#reimbursements).
+
+## RISe {-#rise}
+
+[Research Information Systems (RISe)](https://www.rise.ubc.ca/) is an online portal that allows researchers and administrators to manage and track applications online through to approval, certification and awarding of funds.
+
+One of the main uses for RISe is ethics application and approval. Information on completing a UBC Behavioral Research Ethics Board application can be found [here](https://ethics.research.ubc.ca/behavioural-research-ethics/breb-guidance-notes).
+
+## One Drive {-#onedrive}
+
+Since August 2020 all UBC faculty, staff, and students have access to OneDrive as a shared storage space. CDL lab members and admin generally utilize either DropBox or the shared Forestry Z drive for [digital storage and sharing](#shareddigital) although personal preference differs among members. Regardless of which storage option lab members utilize we all have access to OneDrive.
+

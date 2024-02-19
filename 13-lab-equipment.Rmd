@@ -1,0 +1,54 @@
+# Lab Equipment [-#labequipment]
+
+## General Field Equipment {-#fieldequipment}
+
+The CDLab field equipment inventory can be found [here](https://www.dropbox.com/home/Conservation%20Decisions%20Lab/01_Equipment?preview=Equipment+inventory.xlsx). This list is a work in progress and will be kept up to date as more items are purchased. If you require the use of any equipment please ensure that you alert the CDLab manager prior to your field work excursions to ensure that the equipment is up to date on repairs and servicing and is accessible to you (is the equipment on Salt Spring or in Vancouver).
+
+Dr. Tara Martin, depending on the equipment in question and its function is willing to discuss the purchase of more equipment that could contribute to the overall function of the lab as a whole.
+
+Please note that all lab equipment will be inspected before an after use and please use this equipment with care and as if it was your own. Thank you.
+
+## Laptop Computers {-#laptops}
+
+The CDLab has a number of laptops currently in circulation (see equipment inventory list), along with desktop monitors, wireless keyboards, mice, and HDMI cords. At the beginning of your appointment please alert the CDLab manager of your computer needs if not prompted.
+
+Funding can be made available to purchase additional hardware space, RAM, and higher functioning devices if need be. A list of the devices that are most commonly ordered through UBC can be found [here](https://it.ubc.ca/services/desktop-print-services/desktop-and-laptop-setup-and-support/desktop-laptop-and-hardware). 
+
+When a device is being readied to go to a new student you will be asked to provide a list of software that you would like installed. Norm Hodges will pre-load all of the software that he is able to install before you receive this device. 
+
+While you are in possession of a CDLab/UBC owned and operated laptop you are expected to ensure proper care of the device by observing the following best practices. In general, if you’re prompted to update software, don’t ignore the prompts indefinitely.
+
+* On the weekend after the second Tuesday of the month (otherwise known as Microsoft Patch Tuesday), do the following:
+  * Start > Settings > Update & Security > Check for updates, allow the laptop to update and restart. 
+* If a laptop user doesn’t routinely connect to the UBC VPN, they should connect for an hour or so every couple weeks to ensure Windows and Office licenses are updated and to ensure malware protection is updated.
+* Otherwise, just remember the laptop is a fairly expensive piece of equipment. It’s not a hammer or a crowbar
+
+## Lab Truck {-#labtruck}
+
+The field truck is available for use by lab members for fieldwork. It is a 2017 Toyota Tacoma 4x4 with lockable canopy. The designated parking stall in the parking lot below Forestry is #19, but the truck is often stored at Dr. Tara Martin’s lab space on Salt Spring Island and so arrangements to bring it to the mainland for work must be made in advance.
+
+There is a UBC fuel card that should be used to fill up the vehicle, and is kept in a plastic sleeve in the glovebox. The purchase will then be charged to the designated project fund upon reconciliation. 
+
+When using the vehicle, please remember the following:
+* Fill with fuel at end of use (a use may be multiple days)
+* Use fuel card in glovebox to fill up and keep receipts
+
+Fill out logbook in glovebox at end of use.
+
+## Research Vessel 
+
+The lab’s research vessel is a 6.26m outboard Silverstream with a 150 horsepower (HP) Yamaha engine and a 9.9 HP kicker engine dubbed ‘Sea Blush’. The vessel is moored on Salt Spring Island at a private marina in the Fulford Harbor. The vessel will only be operated by qualified operators, Dr. Tara Martin or CDLab manager Abbie Sherwood. 
+
+When budgeting the use of the research vessel for a project use the ratio of 1 nautical mile to 1$ of gas and maintenance. Marine engines should only be filled with mid-grade gasoline. Please take this information into consideration when budgeting for vessel use during project planning. 
+
+## Projectors
+
+The CDLab owns two projectors: a portable one and a ceiling-mounted system in the lab room. The portable projector can be used for meetings and gatherings as needed. The ceiling-mounted projector includes an electronic screen, and both are controlled from the panel to the right of the whiteboard. Contact [UBC AV services](https://it.ubc.ca/got-question-about-it-products-and-support#avhelpdesk) for any issues with the lab projector set up.
+
+## UBC Storage Locker
+
+The storage lockers are located in the basement in room 0711. The CDLab shares storage space with Dr. Lori Daniels and Dr. Peter Arcese. In the Martin-Daniels locker there are boxes of supplies for hosting workshops. In the Arcese locker is field gear. Ask the CDLab manager for access to this space.
+
+## Specimen Fridge and Freezer
+
+There is a specimen fridge and freezer in the lab room that are available for storing biological samples. The fridge for storing food is under the bench in the kitchen area. Please keep food and samples separate.

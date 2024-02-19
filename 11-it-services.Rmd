@@ -1,0 +1,33 @@
+# IT Services {-#itservices}
+
+[IT services website](https://it.ubc.ca/) will provide you with countless pieces of vital information about how UBC’s IT system functions.
+
+Norman Hodges ([norman.hodges@ubc.ca](mailto:norman.hodges@ubc.ca)) is the IT Technician for Forestry. When first arriving in the Department, some things that Norm may be able to help with are found below, however please do ensure that you first visit the IT services website and or [submit a service ticket](https://ubc.service-now.com/selfservice) if necessary before contacting Norm directly. Please remember that you may contact the CDLab manager who will be willing and able to direct you to the best resources for the most efficient assistance. 
+
+* Ordering computer hardware
+* Installing software (eg. ArcGIS, R, Mendeley)
+* Setting up a connection to the wifi and VPN
+* Mapping the shared network drive 
+* Adding devices such as printers
+
+Do note that if you are using a UBC owned and operated laptop you will be unable to install software without Norm accessing your desktop remotely and providing admin access to install software.  
+
+Also note that UBC has strict rules (often under BC law) concerning some types of applications and software, and as such you can expect restricted access to some software.
+
+## Lab Website {-#labwebsite}
+
+The Martin Conservation Decisions lab website is [www.taramartin.org](www.taramartin.org)
+
+The website is kept up to date regularly by [Liljana](mailto:liljanameadmartin@gmail.com). Speak to her if you would like to update your bio on the People page, or post about news and publications.
+
+## Email lists {-#emaillists}
+
+You will be automatically added to the appropriate email list for Forestry communications, such as newsletters and the Wednesday Seminar Series. If you think you are not receiving these emails, contact Natasha in FCS Reception ([natasha.thompson@ubc.ca](mailto:natasha.thompson@ubc.ca)).
+
+The Zoology Department hosts many email lists that are relevant to Forestry grad students and post-docs. To subscribe to the zoology email lists send a blank email with ‘subscribe’ as the subject line to as many of the list servers as you like. Some examples are listed below, and more can be found [here](https://www.zoology.ubc.ca/~bio310/noticeboard_files/listservs.htm).  
+
+* Seminars, talks and defenses ([seminars-request@zoology.ubc.ca](mailto:seminars-request@zoology.ubc.ca))
+* Research topics, requests for chemicals and equipment, collaboration requests etc. ([research-request@zoology.ubc.ca](mailto:research-request@zoology.ubc.ca))
+* Grad life, including Biodiversity Beers and other events, housing requests, furniture for sale etc. ([grads-request@zoology.ubc.ca](grads-request@zoology.ubc.ca))
+* Conservation Discussion Group ([conservation-request@zoology.ubc.ca](conservation-request@zoology.ubc.ca))
+
