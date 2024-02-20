@@ -1,4 +1,4 @@
-# New to UBC {#newtoubc .unnumbered}
+# New to UBC {-#newtoubc}
 
 We recommend that all graduate students keep the [GRADBOOK](https://forestry.ubc.ca/files/2023/04/Forestry-Gradbook.pdf) close at hand. This document outlines the policies and procedures for Forestry graduate students.
 
@@ -16,7 +16,7 @@ Forestry and Conservation Sciences (FCS)
 Vancouver
 B.C. V6T 1Z4
 
-## Building Access
+## Building Access {-#buildingaccess}
 
 Access to individual offices requires a key, which will be requested by FCS reception and issued by the Access Desk at the Bookstore, with a $20 security deposit (this information is from the 2020 academic year). Most students will not be provided with an office but will use the lab space as work stations. 
 
@@ -54,7 +54,7 @@ Biodiversity Beers is a social event held in the atrium of the Biodiversity Buil
 
 Notifications for the event come through the zoology [email list](#emaillists).
 
-## Hazardous Waste 
+## Hazardous Waste {-#hazerdouswaste}
 
 Information about hazardous waste disposal at UBC can be found [here](https://srs.ubc.ca/environment/hazardous-waste-management/hazardous-waste-manual/).
 

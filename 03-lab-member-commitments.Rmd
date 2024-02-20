@@ -1,6 +1,6 @@
-# Lab Member Commitments
+# Lab Member Commitments {-#commitments}
 
-## Lab Meetings
+## Lab Meetings {-#labmeetings}
 
 All lab members are expected to attend our lab meetings which take place every three weeks. Meetings are held in our lab room and off campus students are able to join virtually. When the lab meetings are hosted at UBC, it is expected that all lab members are to attend face-to-face in order ensure that all lab members have the opportunity to socialize with other members, however we understand that exceptions must be made due to circumstance. 
 
@@ -12,6 +12,6 @@ The lab meetings will be scheduled with every new semester and will be timed acc
 
 As part of the commitment that our lab community has made in our EDI statement these lab meetings will commonly be used as a time and platform for EDI related conversations. This is a safe and confidential space where lab members are welcome to ask hard questions, be met with compassionate and difficult answers and to explore new and deeper components of our own experience through conversation within community. Please remember that during these difficult and vital conversations you are not expected to adhere your boundaries to anyone else’s but that if you are comfortable to expand your comfort zone this is an excellent and safe space with which to do so.
 
-## 1-on-1 Meetings
+## 1-on-1 Meetings {-#1on1}
 
 Mentees will meet with Dr. Tara Martin for a 1-on-1 meeting every three weeks. The default length of these meetings are 30 minutes although an extended meeting is available upon request. The CDLab manager will schedule these meetings at the beginning of each semester and will send out event invites and zoom links when meetings will be held virtually and in person. Please direct any scheduling questions to the CDLab manager. 

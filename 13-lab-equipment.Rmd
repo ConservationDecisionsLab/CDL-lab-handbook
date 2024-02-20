@@ -1,4 +1,4 @@
-# Lab Equipment [-#labequipment]
+# Lab Equipment {-#labequipment}
 
 ## General Field Equipment {-#fieldequipment}
 
@@ -35,20 +35,20 @@ When using the vehicle, please remember the following:
 
 Fill out logbook in glovebox at end of use.
 
-## Research Vessel 
+## Research Vessel {-#researchvessel}
 
 The lab’s research vessel is a 6.26m outboard Silverstream with a 150 horsepower (HP) Yamaha engine and a 9.9 HP kicker engine dubbed ‘Sea Blush’. The vessel is moored on Salt Spring Island at a private marina in the Fulford Harbor. The vessel will only be operated by qualified operators, Dr. Tara Martin or CDLab manager Abbie Sherwood. 
 
 When budgeting the use of the research vessel for a project use the ratio of 1 nautical mile to 1$ of gas and maintenance. Marine engines should only be filled with mid-grade gasoline. Please take this information into consideration when budgeting for vessel use during project planning. 
 
-## Projectors
+## Projectors {-#projectors}
 
 The CDLab owns two projectors: a portable one and a ceiling-mounted system in the lab room. The portable projector can be used for meetings and gatherings as needed. The ceiling-mounted projector includes an electronic screen, and both are controlled from the panel to the right of the whiteboard. Contact [UBC AV services](https://it.ubc.ca/got-question-about-it-products-and-support#avhelpdesk) for any issues with the lab projector set up.
 
-## UBC Storage Locker
+## UBC Storage Locker {-#storagelocker}
 
 The storage lockers are located in the basement in room 0711. The CDLab shares storage space with Dr. Lori Daniels and Dr. Peter Arcese. In the Martin-Daniels locker there are boxes of supplies for hosting workshops. In the Arcese locker is field gear. Ask the CDLab manager for access to this space.
 
-## Specimen Fridge and Freezer
+## Specimen Fridge and Freezer {-#specimenfreezer}
 
 There is a specimen fridge and freezer in the lab room that are available for storing biological samples. The fridge for storing food is under the bench in the kitchen area. Please keep food and samples separate.

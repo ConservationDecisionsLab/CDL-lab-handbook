@@ -1,6 +1,6 @@
 # Getting to UBC {-#transportation}
 
-## Bus
+## Bus {-#bus}
 
 Buses that run between downtown and UBC include the 44, 4 and 14. The 99 B-line service also terminates at UBC. Many buses will take you to nearby Skytrain stations, such as VCC-Clark and Bridgeport. 
 
@@ -12,16 +12,16 @@ A useful public transport app is ‘Transit’, which can be downloaded for free
 
 <insert map showing bus stops>
 
-## Car
+## Car {-#car}
 
 Car parking is available next to Forestry on Agronomy Road ($20/day). Parking permits can be purchased [here](https://parking.ubc.ca/permits-rates). Designated parking stalls are available for car share services.
 
 Uber or Lyft are ride sharing apps that can be used as an alternative.
 
-## Bike
+## Bike {-#bike}
 
 Public bike racks are available outside of the FSC building. Unfortunately bicycle theft is a problem in Vancouver and at UBC so please keep your bike safe with a lock. The FSC complex also has secured bike racks in room 0711 in the basement. Space is limited, inquire at FCS Reception.
 
-## From Vancouver Island
+## From Vancouver Island {-#ferry}
 
 The 480 bus to Bridgeport station will link up with buses that go to Tsawwassen Ferry Terminal. Buses 44, 4 and 14 stop at Waterfront Station, linking up with buses that go to Horseshoe Bay Ferry Terminal. The seaplane terminal is also a short walk from Waterfront Station.

@@ -2,11 +2,11 @@
 
 [Here](https://it.ubc.ca/services/desktop-support-services/software-licensing) is a link to the Software Licensing UBC IT page where you can find lists of the software licenses available to students.
 
-## ArcGIS
+## ArcGIS {-#arcgis}
 
 If you are using a UBC owned and operated laptop ArcGIS can easily be installed prior to laptop delegation. We also encourage the installation of QGIS as a great open source alternative to ArcGIS. When using personally owned devices students are eligible for the student one-year license, renewable after previous license expires and just for a single device, at a cost of $30. 
 
-## Zoom
+## Zoom {-#zoom}
 
 [Here](https://it.ubc.ca/services/teaching-learning-tools/zoom-video-conferencing) are the instructions for establishing an UBC Zoom account. If you are unable to successfully achieve a unlimited UBC license through the website contact the CDLab manager who will be able to submit a service ticket requesting a full license which allows for unlimited Zoom use. 
 

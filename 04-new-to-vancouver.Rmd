@@ -24,7 +24,7 @@ There are many [festivals and events throughout the year in Vancouver](https://w
 * Westward Music festival (September)
 * Vancouver Christmas Market (November-December)
 
-## Statutory Holidays {-$statutory}
+## Statutory Holidays {-#statutory}
 
 Statutory holidays recognized as paid holidays by UBC can be found listed [here](https://hr.ubc.ca/working-ubc/statutory-holidays).
 

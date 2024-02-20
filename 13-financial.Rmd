@@ -8,6 +8,6 @@ To claim a reimbursement, you must have a copy of the original receipts and a sp
 
 Please note that when charging kilometers driven please include a google map of the route that you took to prove the Kms stated on the expense form. 
 
-## Small Scale Suppliers
+## Small Scale Suppliers {-#smallscale}
 
 When hiring or working with external contractors during projects please ensure that you contact the CDLab manager early and before the contractor begins work. The process of setting up an external supplier or vendor can take up to 6 weeks. Please speak to the CDLab manager for more information.

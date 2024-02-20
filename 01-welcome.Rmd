@@ -1,4 +1,4 @@
-# Welcome {#welcome .unnumbered}
+# Welcome {-#welcome}
 
 Welcome to the [Conservation Decisions lab](https://www.taramartin.org/) (CDLab) where your supervisor, Dr. Tara Martin aspires to inspire innovation, excellence in critical thinking, excellent quantitative skills and the ability to think and work across disciplines as conservation practitioners.
 
