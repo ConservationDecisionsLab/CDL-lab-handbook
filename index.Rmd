@@ -35,7 +35,7 @@ knitr::include_graphics(here::here("img/cdl-lab-banner.jpg"))
 
 This document is a brief introduction to the Conservation Decisions Lab. It provides:
 
-* Insight into [lab values](#diversity) and [expectations](#expectations)
+* Insight into [lab values](#diversity) and [expectations](#commitments)
 
 * Need to know details about your [workstation](#computers)
 
@@ -45,7 +45,7 @@ This document is a brief introduction to the Conservation Decisions Lab. It prov
 
 * The [social](#social) atmosphere in the lab
 
-* The lab [vehicle](#vehicle) and when/how it can be used
+* The lab [vehicle](#truck) and when/how it can be used
 
 * All things related to your [thesis](#thesis) and how to get ahead of the curve
 
