@@ -45,7 +45,7 @@ This document is a brief introduction to the Conservation Decisions Lab. It prov
 
 * The [social](#vancouverevents) atmosphere in the lab
 
-* The lab [vehicle](#truck) and when/how it can be used
+* The lab [vehicle](#labtruck) and when/how it can be used
 
 * All things related to your [thesis](#thesis) and how to get ahead of the curve
 
