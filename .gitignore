@@ -50,3 +50,6 @@ rsconnect/
 
 # Other
 test/*
+_book/*
+*.tex
+
