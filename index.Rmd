@@ -16,7 +16,7 @@ github-repo: ConservationDecisionsLab/CDL-lab-handbook
 output:
   bookdown::gitbook:
     includes:
-      in_header: header.html
+#      in_header: header.html
 
 ---
 
@@ -43,13 +43,13 @@ This document is a brief introduction to the Conservation Decisions Lab. It prov
 
 * Common practices for [working in the lab and from home](#working)
 
-* The [social](#social) atmosphere in the lab
+* The [social](#vancouverevents) atmosphere in the lab
 
 * The lab [vehicle](#truck) and when/how it can be used
 
 * All things related to your [thesis](#thesis) and how to get ahead of the curve
 
-* [Resources](#resources) for anyone new to UBC or Vancouver
+* [Resources](#newvancouver) for anyone new to UBC or Vancouver
 
 
 
