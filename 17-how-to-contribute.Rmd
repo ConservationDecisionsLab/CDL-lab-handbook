@@ -1,4 +1,4 @@
-# How to Contribute to the Manual {-#howtocontribute}
+# How to Contribute to the Handbook {-#howtocontribute}
 
 ### 1. Download GitHub Desktop {-#downloadgithub}
 
