@@ -4,12 +4,12 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>UBC Software Licensing | Conservation Decisions Lab Handbook</title>
+  <title>How to Contribute to the Manual | Conservation Decisions Lab Handbook</title>
   <meta name="description" content="<p>This is the development version of the online version of
 Conservation Decision Lab Handbook.</p>" />
   <meta name="generator" content="bookdown 0.37 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="UBC Software Licensing | Conservation Decisions Lab Handbook" />
+  <meta property="og:title" content="How to Contribute to the Manual | Conservation Decisions Lab Handbook" />
   <meta property="og:type" content="book" />
   
   <meta property="og:description" content="<p>This is the development version of the online version of
@@ -17,7 +17,7 @@ Conservation Decision Lab Handbook.</p>" />
   <meta name="github-repo" content="ConservationDecisionsLab/CDL-lab-handbook" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="UBC Software Licensing | Conservation Decisions Lab Handbook" />
+  <meta name="twitter:title" content="How to Contribute to the Manual | Conservation Decisions Lab Handbook" />
   
   <meta name="twitter:description" content="<p>This is the development version of the online version of
 Conservation Decision Lab Handbook.</p>" />
@@ -33,8 +33,8 @@ Conservation Decision Lab Handbook.</p>" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-<link rel="prev" href="labequipment.html"/>
-<link rel="next" href="fieldworkprep.html"/>
+<link rel="prev" href="additionalresources.html"/>
+
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -204,16 +204,74 @@ Conservation Decision Lab Handbook.</p>" />
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="softwarelicenses" class="section level1 unnumbered hasAnchor">
-<h1>UBC Software Licensing<a href="softwarelicenses.html#softwarelicenses" class="anchor-section" aria-label="Anchor link to header"></a></h1>
-<p><a href="https://it.ubc.ca/services/desktop-support-services/software-licensing">Here</a> is a link to the Software Licensing UBC IT page where you can find lists of the software licenses available to students.</p>
-<div id="arcgis" class="section level2 unnumbered hasAnchor">
-<h2>ArcGIS<a href="softwarelicenses.html#arcgis" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>If you are using a UBC owned and operated laptop ArcGIS can easily be installed prior to laptop delegation. We also encourage the installation of QGIS as a great open source alternative to ArcGIS. When using personally owned devices students are eligible for the student one-year license, renewable after previous license expires and just for a single device, at a cost of $30.</p>
+<div id="howtocontribute" class="section level1 unnumbered hasAnchor">
+<h1>How to Contribute to the Manual<a href="howtocontribute.html#howtocontribute" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<div id="downloadgithub" class="section level3 unnumbered hasAnchor">
+<h3>1. Download GitHub Desktop<a href="howtocontribute.html#downloadgithub" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>I use the desktop version of GitHub. I find it is the most intuitive way to work with the program and the website. There is an installation tutorial <a href="https://docs.github.com/en/desktop/overview/getting-started-with-github-desktop">here</a>.</p>
 </div>
-<div id="zoom" class="section level2 unnumbered hasAnchor">
-<h2>Zoom<a href="softwarelicenses.html#zoom" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p><a href="https://it.ubc.ca/services/teaching-learning-tools/zoom-video-conferencing">Here</a> are the instructions for establishing an UBC Zoom account. If you are unable to successfully achieve a unlimited UBC license through the website contact the CDLab manager who will be able to submit a service ticket requesting a full license which allows for unlimited Zoom use.</p>
+<div id="clone" class="section level3 unnumbered hasAnchor">
+<h3>2. Clone the Handbook Repository<a href="howtocontribute.html#clone" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>The first time you download a repository from a remote location you are creating a clone (Figure 1). This is the local version of the repository that lives on your computer. It is analogous to adding a shared folder in Dropbox.</p>
+<p><img src="img/clone_1.png" width="50%" style="display: block; margin: auto;" />
+Figure 1: Cloning the repository to the local device.</p>
+<p>You will need to be part of the Conservation Decisions Lab Organization to see the available repositories. When you click on the ‘ConservationDecisionsLab/CDL-lab-handbook’ repository it will allow you to select where you would like to save the files locally (Figure 2). This is where you will be working with contents of the Handbook.</p>
+<p><img src="img/clone_2.png" width="50%" style="display: block; margin: auto;" />
+Figure 2: Selecting the handbook repository and a storage location for the files on your device. Here I am saving the repository in my Documents/Analysis folder.</p>
+<p>Once you’ve cloned repository you are ready to start editing the files!</p>
+</div>
+<div id="editingthebook" class="section level3 unnumbered hasAnchor">
+<h3>3. Workflow for Editing the Handbook<a href="howtocontribute.html#editingthebook" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<div id="pull" class="section level4 unnumbered hasAnchor">
+<h4>3.1 Pull the latest version of repository<a href="howtocontribute.html#pull" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<p>This should always be your first step when you are beginning to work on a new edit for the manual. This step essentially downloads any changes that may have been made by others. You can think of it like manually asking Dropbox for the latest version of a document that was edited by a collaborator, but rather than one specific document, GitHub tracks changes across the entire repository. In GitHub Desktop you can sync your files by clicking on <em>Fetch origin</em> (Figure 3).</p>
+<p><img src="img/fetch_origin.png" width="50%" style="display: block; margin: auto;" />
+Figure 3: Fetch origin should always be the place to start to make sure you are working with the latest version of the handbook.</p>
+</div>
+<div id="editfiles" class="section level4 unnumbered hasAnchor">
+<h4>3.2 Edit the Files<a href="howtocontribute.html#editfiles" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<p>Editing the manual requires some basic understanding of R Studio, Markdown, and Bookdown. These tools allow us to build the web document. The file structure and names are important for functionality of the book. The key elements are highlighted and explained in Figure 4. Each Chapter is its own Markdown (.rmd) file, its number determines its place in the book. The index file acts as the welcome page and defines the formatting of the book.</p>
+<p>Larger edits to the structure of the book can be done through a re-numbering of the contributing files. Edits to the content of the Chapters themselves can be done by opening the R Project File ‘CDL-lab-handbook’. This will launch RStudio where the individual chapters can be opened and edited.</p>
+<p><img src="img/file_structure.png" width="50%" style="display: block; margin: auto;" />
+Figure 4: File structure for the lab handbook.</p>
+<div id="rstudiomarkdown" class="section level5 unnumbered hasAnchor">
+<h5>R Studio and Markdown<a href="howtocontribute.html#rstudiomarkdown" class="anchor-section" aria-label="Anchor link to header"></a></h5>
+<p>The content of the handbook is written in Markdown using RStudio (Figure 5). Markdown is a simple language for editing text. It provides simple conventions for defining headers, incorporating links, inline code, images and more. Markdown relies on a system of symbols to indicate the formatting, rather than applying the formatting and editing the content at the same time like in Word. The formatting is then complied into HTML for visualization at the end.</p>
+<p>For the purposes of the Lab Handbook we really only need to understand the basics like headers, lists, and images. A helpful guide for the basics of writing in Markdown can be found <a href="https://www.markdownguide.org/basic-syntax/">here</a>. It can also be useful to look at how the existing chapters look in R and see how this translates to the version of the Handbook that is currently online.</p>
+<p><img src="img/rstudio.png" width="50%" style="display: block; margin: auto;" />
+Figure 5: Editing the content of the Handbook within RStudio.</p>
+</div>
+<div id="bookdown" class="section level5 unnumbered hasAnchor">
+<h5>Bookdown<a href="howtocontribute.html#bookdown" class="anchor-section" aria-label="Anchor link to header"></a></h5>
+<p>Bookdown is the R package that is used to compile all the chapters and format the webpage. When editing for the first time you will have to download this package you can do this through the ‘Packages Tab’ in RStudio or running the command ‘install.packages(“bookdown”)’ in the console (Figure 6).</p>
+<p><img src="img/install_bookdown.png" width="50%" style="display: block; margin: auto;" />
+Figure 6: How to install the Bookdown package (only required the first time).</p>
+<p>With Bookdown installed the final step of adding the changes to the Lab Manual after saving the edits to the .rmd is to recompile the book. You can do this by clicking on ‘Build’ in the top right pane, and then clicking ‘Build Book’ (Figure 7). This takes the changes that have been applied to the Markdown files and generates new HTML files that can be viewed online. Once the book has been built it will open in a pop-up screen and you can check to make sure everything looks right.</p>
+<p><img src="img/build%20book.png" width="50%" style="display: block; margin: auto;" />
+Figure 7: Building the book compiles the changes made to the individual .rmd files and generates html documents that can be visualized online.</p>
+</div>
+</div>
+<div id="push" class="section level4 unnumbered hasAnchor">
+<h4>3.3 Push Edits to the Main Branch<a href="howtocontribute.html#push" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<p>After making edits and compiling the book, GitHub desktop should show which files have been changed and what those changes are. In Figure 8, you can see that the paragraph that was edited has been highlighted and duplicated in red and green. The red version shows the previous text and the green version shows what it has been changed to. You can see I’ve changed the wording from ‘critical’ to ‘essential’ and that is highlighted within those paragraphs. You will also notice that all the files in the ‘docs/’ folder have been updated. This is due to the Bookdown compilation creating a new version of each file. The actual edits made will only be reflected in the corresponding html document for Chapter 2.</p>
+<p><img src="img/diffs.png" width="50%" style="display: block; margin: auto;" />
+Figure 8: Example of changes recorded in GitHub Desktop.</p>
+<p>The final step before committing and pushing our changes to the remote repository is to write a short comment about the changes that were made (Figure 9). This will help keep track of what was changed and when.</p>
+<p><img src="img/git_comment.png" width="50%" style="display: block; margin: auto;" />
+Figure 9: Example comment to contextualize the changes that have been made.</p>
+<p>After noting the changes I’ve made, I can commit the change to the repository by clicking ‘Commit to main’. With the change committed you can now ‘push’ that change to the Remote Repository by clicking ‘Push origin’ (Figure 10). Now others will be able to see the changes that have been made.</p>
+<p><img src="img/push.png" width="50%" style="display: block; margin: auto;" />
+Figure 10: Push the change to the remote repository. You can create multiple commits before pushing them all at once if you have multiple discrete editing tasks that you would like to accomplish.</p>
+</div>
+</div>
+<div id="collab" class="section level3 unnumbered hasAnchor">
+<h3>4. Collaboration and Conflicts<a href="howtocontribute.html#collab" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Just like Dropbox can produce conflicted copies when two people are editing the same document, conflicts can occur in Git. To be honest, I’ve never used GitHub collaboratively so I don’t have the best handle on how this works. As long as two people don’t make different edits to the same section of text, GitHub should be able to integrate edits made to different components of the book. There shouldn’t be to many problems with simultaneous editing as, but it will be a learning experience for all of us and we can add what we learn to this section.</p>
+</div>
+<div id="dropboxcompare" class="section level3 unnumbered hasAnchor">
+<h3>A Comparative example with Dropbox<a href="howtocontribute.html#dropboxcompare" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Below is a table that outlines the steps of collaborating on a document through GitHub and compares them to the functionality of Dropbox. Hopefully this example will help elucidate the general workflow of GitHub, and how the steps provide control over each step of making edits.</p>
+<p><img src="img/dropbox_compare.png" width="50%" style="display: block; margin: auto;" /></p>
 
 </div>
 </div>
@@ -222,8 +280,8 @@ Conservation Decision Lab Handbook.</p>" />
           </div>
         </div>
       </div>
-<a href="labequipment.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="fieldworkprep.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="additionalresources.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
