@@ -57,7 +57,7 @@ We commit to translating these values into action and carrying them out in our w
 
 ## Best Practices in Research {-#researchpractices}
 
-We are committed to building our fluency and capacity in the following areas to facilitate best practices in EDI in our research:
+We are committed to building our fluency and capacity in the following areas to facilitate best practices in JEDI in our research:
 
 * Acknowledging power and vulnerabilities
   *	Follow best practices in JEDI in hiring and retainment, and encourage the department to follow suite
