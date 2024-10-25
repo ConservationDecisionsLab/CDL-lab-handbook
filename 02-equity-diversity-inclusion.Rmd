@@ -1,6 +1,10 @@
 # Justice Equity Diversity and Inclusion Policy {-#diversity}
 
-To begin we would like to introduce [our justice, equity, diversity and inclusion (JEDI) policy](https://www.taramartin.org/equity-diversity-and-inclusion/). The Conservation Decisions Lab and the Arcese Lab at the University of British Columbia---led by Dr. Tara Martin and Dr. Peter Arcese, respectively---have worked together to develop this Justice, Equity, Diversity, and Inclusion (JEDI) Statement. We recognize the colonial contexts of conservation and academia, both past and present, and the systemic inequities that prevail. We see it as our responsibility to encourage, include, and make way for underrepresented and marginalized voices and perspectives; meaningfully collaborate with and support the work of Indigenous communities; and communicate our research to a broad cross-section of society across all demographics. 
+The Conservation Decisions Lab and the Arcese Lab at the University of British Columbia---led by Dr. Tara Martin and Dr. Peter Arcese, respectively---have worked together to develop this [Justice, Equity, Diversity, and Inclusion (JEDI) policy](https://www.taramartin.org/equity-diversity-and-inclusion/). Each year, we come together to review the policy and make changes in response to changing needs, social and cultural contexts, and understanding of JEDI principles and how they apply to our work and our daily lives. Throughout the year, lab members also engage in  discussions and share information about available learning opportunities, such as articles, seminars, workshops, or resources, to deepen our understanding of these principles and how to embody them in our actions.
+
+## Our Statement {-#statement}
+
+We recognize the colonial contexts of conservation and academia, both past and present, and the systemic inequities that prevail. We see it as our responsibility to encourage, include, and make way for underrepresented and marginalized voices and perspectives; meaningfully collaborate with and support the work of Indigenous communities; and communicate our research to a broad cross-section of society across all demographics. 
 
 We commit to decolonizing the work that we do, from the questions that we pose to the manner in which we undertake our research and communicate the outcomes. We commit to using our privilege to actively address any barriers or injustices witnessed in our work and daily life. We commit to working in a self-reflective and critical manner, and adapting and improving our actions to ensure our impacts align with the values of Justice, Equity, Diversity, and Inclusion.
 
@@ -10,9 +14,7 @@ We acknowledge that our labs---centered at UBC Vancouver---are located on the tr
 
 We acknowledge that each of us may be at different points throughout our journey in learning, listening, and cultivating an inclusive academic environment and that mistakes can be made. We also understand how important it is to learn from those mistakes and to not let fear of making a mistake be an excuse for inaction. To guide our journey, we are committed to continuously revisiting these values and updating this JEDI statement as a living document. 
 
-We welcome feedback and inquiries concerning this statement. If you are a prospective student or collaborator and would like to know more about our lab policies, please reach out to our lab manager Abbie Sherwood (<abbie.sherwood@ubc.ca>) with any comments or to discuss any aspect of JEDI related to our labs.
-
-## Our JEDI Values {-#values}
+## Our Values {-#values}
 
 We value diversity of identities, knowledge systems, and worldviews in our lab and community. 
 
@@ -26,7 +28,7 @@ We value an ongoing and iterative journey of learning. We recognize the continuo
 
 We commit to translating these values into action and carrying them out in our work and daily life. 
 
-## Actions {-#jediactions}
+## Our Commitment to Action {-#jediactions}
 
 ### Individual Actions {-#individualactions}
 
