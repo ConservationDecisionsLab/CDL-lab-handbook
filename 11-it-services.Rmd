@@ -1,8 +1,8 @@
 # IT Services {-#itservices}
 
-[IT services website](https://it.ubc.ca/) will provide you with countless pieces of vital information about how UBC’s IT system functions.
+[IT services website](https://it.ubc.ca/) will provide you with countless pieces of vital information about how UBC's IT system functions.
 
-Norman Hodges ([norman.hodges@ubc.ca](mailto:norman.hodges@ubc.ca)) is the IT Technician for Forestry. When first arriving in the Department, some things that Norm may be able to help with are found below, however please do ensure that you first visit the IT services website and or [submit a service ticket](https://ubc.service-now.com/selfservice) if necessary before contacting Norm directly. Please remember that you may contact the CDLab manager who will be willing and able to direct you to the best resources for the most efficient assistance. 
+However, Norman Hodges ([norman.hodges@ubc.ca](mailto:norman.hodges@ubc.ca)) will likely be your most useful resource (especially if you are using a computer owned by the department). Norm is the IT Technician for Forestry. When first arriving in the Department, some things that Norm may be able to help with are found below, however please do ensure that you first visit the IT services website and or [submit a service ticket](https://ubc.service-now.com/selfservice) if necessary before contacting Norm directly. NEED TO ADD SECTION ABOUT WHEN TO USE UBC IT VS NORM
 
 * Ordering computer hardware
 * Installing software (eg. ArcGIS, R, Mendeley)
@@ -10,9 +10,29 @@ Norman Hodges ([norman.hodges@ubc.ca](mailto:norman.hodges@ubc.ca)) is the IT Te
 * Mapping the shared network drive 
 * Adding devices such as printers
 
-Do note that if you are using a UBC owned and operated laptop you will be unable to install software without Norm accessing your desktop remotely and providing admin access to install software.  
+Do note that if you are using a UBC owned and operated laptop you will be unable to install software without Norm accessing your desktop remotely (or you taking it to him) and providing admin access to install software.  
 
 Also note that UBC has strict rules (often under BC law) concerning some types of applications and software, and as such you can expect restricted access to some software.
+
+## Software dowloads 
+
+To download software through UBC visit the [UBC software downloads portal](https://it.ubc.ca/services/desktop-support-services/software-licensing/software-downloads). You will also visit the same portal when re licensing software, but you will be prompted by email to do so. 
+
+## Adobe products
+
+UBC is no longer going to cover costs for Adobe Acrobat Pro and Adobe Acrobat Creative Cloud. For those who need Adobe Acrobat Pro (offers you the ability to read and edit PDFs), Tara is happy to cover that annual cost. You will need to purchase an annual subscription (see instructions below) and then submit an out of pocket expense. 
+
+Please email Madeline to get the correct code to charge this purchase to before proceeding. 
+
+If you use and need Adobe Creative Cloud, please let Tara or I know and we'll work with you to figure out how to pay for that.
+
+The annual cost for users will be:
+
+- Adobe Acrobat Reader: Free
+- Adobe Acrobat Pro: $25 USD (~$37.50 CAD)
+- Adobe Creative Cloud: $85 USD (~$126.50 CAD)
+
+For Adobe downloads visit the [UBC software downloads portal](https://it.ubc.ca/services/desktop-support-services/software-licensing/software-downloads) 
 
 ## Lab Website {-#labwebsite}
 
@@ -21,6 +41,27 @@ The Martin Conservation Decisions lab website is [www.taramartin.org](https://ta
 The website is kept up to date regularly by [Liljana](mailto:liljanameadmartin@gmail.com). Speak to her if you would like to update your bio on the People page, or post about news and publications.
 
 ## Email lists {-#emaillists}
+
+### Lab email lists {-#labemail}
+
+We have two email lists so we can ensure everyone is receiving every email they need to. 
+
+- The first one is the CDLARCESEMOORE-LAB list which includes our lab, [The Peter Arcese Lab](https://arcese.forestry.ubc.ca/) and the [Moore Inclusive Conservation Lab](https://www.inclusiveconservationlab.com/) our partner labs whose members sometimes join our lab meetings. 
+- The second one is the CONSERVATION-DECISIONSLAB list which only includes members of our lab. 
+
+Once you subscribe through UBC Mailing Lists [dashboard](https://lists.ubc.ca) you’ll receive all of the emails and events that are sent out to either of the lists. 
+
+You are able to subscribe using your UBC email address AND your other emails such as Gmail. When you are subscribing using your UBC email, sign with your UBC email address and your current CWL password. If you are subscribing using your Gmail be sure not to sign in using your UBC email and CWL or you wont be given the option to subscribe using your Gmail.
+
+Once on the lists dashboard, copy and paste CONSERVATION-DECISIONSLAB or CDLARCESEMOORE-LAB into the “Access unlisted lists” search bar. This will take you to the page for this mailing list. In the top right corner there will be a button (three lines) which contains a dropdown menu. Select "Subscribe or Unsubscribe" and you will be brought to the subscription page. Enter your name and preferred email address, choose 'regular subscription', and then hit subscribe. You will then need to click the link sent to your preferred inbox to confirm your subscription (Gmail users be sure to check your spam/junk).
+
+Both of these are unrestricted lists so you may send emails or event invitations to subscribers using the following contacts:
+
+- CONSERVATION-DECISIONSLAB@lists.ubc.ca
+- CDLARCESEMOORE-LAB@lists.ubc.ca
+
+
+### Other email lists {-#otheremails}
 
 You will be automatically added to the appropriate email list for Forestry communications, such as newsletters and the Wednesday Seminar Series. If you think you are not receiving these emails, contact Natasha in FCS Reception ([natasha.thompson@ubc.ca](mailto:natasha.thompson@ubc.ca)).
 

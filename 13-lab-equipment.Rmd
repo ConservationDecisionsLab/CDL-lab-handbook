@@ -2,7 +2,7 @@
 
 ## General Field Equipment {-#fieldequipment}
 
-The CDLab field equipment inventory can be found [here](https://www.dropbox.com/home/Conservation%20Decisions%20Lab/01_Equipment?preview=Equipment+inventory.xlsx). This list is a work in progress and will be kept up to date as more items are purchased. If you require the use of any equipment please ensure that you alert the CDLab manager prior to your field work excursions to ensure that the equipment is up to date on repairs and servicing and is accessible to you (is the equipment on Salt Spring or in Vancouver).
+The CDLab field equipment inventory can be found [here](https://www.dropbox.com/home/Conservation%20Decisions%20Lab/01_Equipment?preview=Equipment+inventory.xlsx). This list is currently not up to date and if you are wondering about what equipment is avialble please reach out to Aidan for the time being until the list is updated. If you require the use of any equipment please ensure that you alert Aidan prior to your field work excursions to ensure that the equipment is up to date on repairs and servicing and is accessible to you (is the equipment on Salt Spring or in Vancouver).
 
 Dr. Tara Martin, depending on the equipment in question and its function is willing to discuss the purchase of more equipment that could contribute to the overall function of the lab as a whole.
 
@@ -25,7 +25,7 @@ While you are in possession of a CDLab/UBC owned and operated laptop you are exp
 
 ## Lab Truck {-#labtruck}
 
-The field truck is available for use by lab members for fieldwork. It is a 2017 Toyota Tacoma 4x4 with lockable canopy. The designated parking stall in the parking lot below Forestry is #19, but the truck is often stored at Dr. Tara Martin’s lab space on Salt Spring Island and so arrangements to bring it to the mainland for work must be made in advance.
+The field truck is available for use by lab members for fieldwork (at a cost to cover gas/maintenance), please discuss with Tara if you think you may want to use it. It is a 2017 Toyota Tacoma 4x4 with lockable canopy. The designated parking stall in the parking lot below Forestry is #19, but the truck is often stored at Dr. Tara Martin’s lab space on Salt Spring Island and so arrangements to bring it to the mainland for work must be made in advance.
 
 There is a UBC fuel card that should be used to fill up the vehicle, and is kept in a plastic sleeve in the glovebox. The purchase will then be charged to the designated project fund upon reconciliation. 
 
@@ -47,7 +47,7 @@ The CDLab owns two projectors: a portable one and a ceiling-mounted system in th
 
 ## UBC Storage Locker {-#storagelocker}
 
-The storage lockers are located in the basement in room 0711. The CDLab shares storage space with Dr. Lori Daniels and Dr. Peter Arcese. In the Martin-Daniels locker there are boxes of supplies for hosting workshops. In the Arcese locker is field gear. Ask the CDLab manager for access to this space.
+The lab has a storage locker in the basement of the forestry building. Ask Aidan for access to this space.
 
 ## Specimen Fridge and Freezer {-#specimenfreezer}
 

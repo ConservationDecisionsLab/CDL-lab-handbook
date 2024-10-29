@@ -1,6 +1,6 @@
 # New to UBC {-#newtoubc}
 
-We recommend that all graduate students keep the [GRADBOOK](https://forestry.ubc.ca/files/2023/04/Forestry-Gradbook.pdf) close at hand. This document outlines the policies and procedures for Forestry graduate students.
+We recommend that all graduate students keep the [GRADBOOK](https://forestry.ubc.ca/files/2023/09/Forestry-Gradbook.pdf) close at hand. This document outlines the policies and procedures for Forestry graduate students.
 
 Here is a link to the [graduate student portal](https://forestry.ubc.ca/students/graduate-student-portal/) where you will find links to [graduate studies advising](https://forestry.ubc.ca/students/graduate-student-portal/graduate-student-advising/) and links to [financial support opportunities](https://forestry.ubc.ca/students/graduate-student-portal/financial-support/) among many other resources.
 
@@ -16,22 +16,39 @@ Forestry and Conservation Sciences (FCS)
 Vancouver
 B.C. V6T 1Z4
 
+This will go to the FCS reception, so you should talk to [Natasha Thompson](#contacts) prior to shipping anything to that address (especially large or expensive items).
+
 ## Building Access {-#buildingaccess}
 
-Access to individual offices requires a key, which will be requested by FCS reception and issued by the Access Desk at the Bookstore, with a $20 security deposit (this information is from the 2020 academic year). Most students will not be provided with an office but will use the lab space as work stations. 
+Access to individual offices requires a key, which will be requested by FCS reception (see [Natasha Thompson](#contacts)) and issued by the Access Desk at the Bookstore, with a $20 security deposit. Students should be provided with an office and should talk to [Natasha Thompson](#contacts) for office related inquiries. 
 
-Since 2020, the FCS building has undergone a change of key system. As September 2021 approaches all lab members will receive an updated email from the FCS reception desk and the CDLab manager regarding new access processes which will utilize student/employee key cards. 
-
-For card configuration issues see [Andrea Chan](#contacts). 
+For access to the building (after hours) as well as the lab room (all hours) and other key-card access rooms, you will need a physical [UBC student or staff card](https://ubccard.ubc.ca/). 
+Once you have obtained a physical UBC card, see [Natasha Thompson](#contacts) to have it programmed to access the lab room and other rooms you should have access to. 
 
 For after hours access issues call Campus Security 604 822 2222.
 
 ## Lab Room {-#labroom}
 
-Our lab room 3202 and includes the kitchen facilities, lounge, desks and conference table. Please be considerate of anyone using the desks in the lab room.
+Our lab room IS 3202 and includes the kitchen facilities, lounge, desks and conference table. Please be considerate of anyone using the desks in the lab room, but feel free to use the room. See above section for access to the lab room - however most of the time a lab member will be in the lab room and you can always knock if you don't have your UBC card yet! 
 
-The main meeting rooms used by the lab are rooms 3003 and 3101 (known as ‘The Fishbowl’). Room 3003 includes a TV and webcam that can be connected to a laptop via HDMI. Room 3101 has wall space for a projector, which can be borrowed from FCS Reception (try to book in advance). These rooms must be booked in advance through [Natasha Thompson](#contacts) at the FCS reception, and a key obtained from her at time of use.
+## Meeting Rooms {-#meetingrooms}
 
+Meeting rooms and TA pods can be booked through your UBC Outlook Calendar (web mail or outlook on PC/Mac, will not work on your phone). A list of rooms that are allowed to be booked self-serve is sent out monthly to your UBC email and includes the tech equipment for each room, currently (2024-10-29) this includes: 
+
+- 2101 Meeting room, 8 people
+- 3003 Meeting room, 10 people
+- 3101 Meeting room, 8 people
+- 4001 Meeting room, 18 people
+- 4101 Meeting room, 8 people
+- 2500A/B/C TA Pods
+
+In your Outlook calendar you simply fill out the “Location” field (search using “Forestry” as the keyword and then check if room is available). To ensure your booking is accepted, it is recommended that you:
+
+- to include a brief descriptor for their meeting (i.e. MSc/PhD committee meeting, research lab meeting, etc.)
+- to include their department name and/or supervisor’s name
+- to include their department admin in the CC/Optional Recipient field to assist with granting access to the meeting space (esp. for FSC 4001)
+
+ 
 ## Common Spaces {-#commonspaces}
 
 The kitchen on level 3 is room 3039. This is available to all staff, students and faculty, but is closed at 4:30 each day. There is a kitchen and dining area on level 4 (room 4003) that is for staff and faculty use only, unless it is booked for an event. 
@@ -40,15 +57,21 @@ Desks and lounge areas include the level 3 landing, and the Treehouse, which is 
 
 ## Printing/Copying {-#printing}
 
-Room 3005 is the copy room for FCS. The photocopy code assigned to Tara and the lab is 426520, which is charged to Tara’s start-up fund.
+Room 3005 is the copy room for FCS. The printing code assigned to Tara and the lab is 426520, which is charged to Tara’s start-up fund. You may use this code when you need to print something as long as it is a reasonable amount of printing, for very large printing needs talk to Tara or Madeline first. Scanning is free. 
+
+The easiest way to use the printer/scanner is to use a thumb drive plugged directly into the printer/scanner and using the print/scan to USB mode on the printer. It will print PDFs but not Word docs. 
+
+For after hours use when the door is locked you can access the key to the printer room by using your key card to get into the lock-box located at the far end of the hallway from the lab room. 
 
 ## UBC Social Events {-#ubcsocial}
 
-### Seminars
+### Seminars {-#seminars}
 
-There are regular seminars held during the school year by the Department and open to staff, students and faculty. These include the [Comparative Physiology seminar series](https://zoology.ubc.ca/events/weekly-seminars/friday-comparative-physiology-invited-speaker-seminar) and the FCS Wednesday seminar series. Notification of the FCS seminar is emailed to all staff, faculty and grad students. To be notified of other seminars and discussions, join email lists (see section 2.1.2).
+There are regular seminars held during the school year by the Department and open to staff, students and faculty. These include the FCS Wednesday seminar series (and social with coffee!), the IRES (Institute for Resources, Environment and Sustainability) seminar series. Both of these are emailed to all FCS Forestry staff, faculty and grad students. Lab members have also enjoyed some of the [BRC (Biodiversity Research Center) seminar series](https://biodiversity.ubc.ca/events/biodiversity-research-seminar-series). 
 
-### Biodiversity Beers
+To be notified of other seminars and discussions, join email lists [email list](#emaillists).
+
+### Biodiversity Beers {-#biobeers}
 
 Biodiversity Beers is a social event held in the atrium of the Biodiversity Building every Friday at 5pm. All are welcome to attend, and also to [volunteer for the buying/serving of drinks ](https://blogs.ubc.ca/biodiversitysocial/volunteer-information/).
 
@@ -56,7 +79,7 @@ Notifications for the event come through the zoology [email list](#emaillists).
 
 ## Hazardous Waste {-#hazerdouswaste}
 
-Information about hazardous waste disposal at UBC can be found [here](https://srs.ubc.ca/environment/hazardous-waste-management/hazardous-waste-manual/).
+Information about hazardous waste disposal at UBC can be found [here](https://srs.ubc.ca/environment/hazardous-waste-management/hazardous-waste-disposal-guide/#How%20does%20one%20access%20the%20chemical%20waste%20inventory%20system?).
 
 Some items/substances that may be used in the lab and are subject to safe disposal protocols are:
 * Sharps (syringes, razors, blades)
