@@ -6,7 +6,7 @@ The following terms of use apply to all images, media, and content shared with t
 Decisions Lab, as agreed upon with the photographers or media partners. Each project partner
 must review and approve the terms of use that best fit their needs before sharing any content.
 
-The following options are based on Creative Commons licensing, each has varying levels of
+The following options are based on [Creative Commons licensing](https://creativecommons.org/share-your-work/cclicenses/), each has varying levels of
 permissions and protections.
 
 ### General Guidelines for Lab &amp; Media Partners: A Checklist {-#generalguidelines}
