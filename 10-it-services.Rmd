@@ -1,18 +1,21 @@
 # IT Services {-#itservices}
 
-[IT services website](https://it.ubc.ca/) will provide you with countless pieces of vital information about how UBC's IT system functions.
+[IT services website](https://it.ubc.ca/) will provide you with countless pieces of vital information about how UBC's IT system functions. They are the central authority and set rules relating to IT and cyber-security. 
 
-However, Norman Hodges ([norman.hodges@ubc.ca](mailto:norman.hodges@ubc.ca)) will likely be your most useful resource (especially if you are using a computer owned by the department). Norm is the IT Technician for Forestry. When first arriving in the Department, some things that Norm may be able to help with are found below, however please do ensure that you first visit the IT services website and or [submit a service ticket](https://ubc.service-now.com/selfservice) if necessary before contacting Norm directly. NEED TO ADD SECTION ABOUT WHEN TO USE UBC IT VS NORM
+However, Norman Hodges ([norman.hodges@ubc.ca](mailto:norman.hodges@ubc.ca)) will likely be your most useful resource (especially if you are using a computer owned by the department). Norm is the IT Technician for our department (FCS) within Forestry and can support you when you first join the department in getting your software/laptop set up and if you require support in the future. Some of the main things that Norm may be able to help with include:
 
 * Ordering computer hardware
 * Installing software (eg. ArcGIS, R, Mendeley)
 * Setting up a connection to the wifi and VPN
 * Mapping the shared network drive 
 * Adding devices such as printers
+* Required software updates that you don't have permission to install
 
-Do note that if you are using a UBC owned and operated laptop you will be unable to install software without Norm accessing your desktop remotely (or you taking it to him) and providing admin access to install software.  
+Do note that if you are using a UBC owned and operated laptop you will be unable to install (some) software without Norm accessing your desktop remotely (or you taking it to him) and providing admin access to install software.  
 
 Also note that UBC has strict rules (often under BC law) concerning some types of applications and software, and as such you can expect restricted access to some software.
+
+If Norm is unavailable, or you require other support you can reach out to [UBC IT](https://it.ubc.ca/got-question-about-it-products-and-support) or Forestry IT (forestry.ithelp@ubc.ca) the Faculty wide IT service. It is worth noting, however, that Norm's understanding of our lab-owned computers, the needs within our Faculty, and the specific software many of us use, means more often than not he is the most useful resource when it comes to IT.   
 
 ## Software dowloads 
 
