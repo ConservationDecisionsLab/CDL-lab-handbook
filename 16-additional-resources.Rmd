@@ -1,7 +1,7 @@
 # Other Training Resources {-#additionalresources}
 
 ## Research and data analysis {-#research}
-The UBC Library Research Commons offers a variety of [training workshops] (https://researchcommons.library.ubc.ca/workshops/) on data analysis and visualization, GIS, research data and citation management, and various software and online tools, including R, Python, and GitHub.
+The UBC Library Research Commons offers a variety of [training workshops](https://researchcommons.library.ubc.ca/workshops/) on data analysis and visualization, GIS, research data and citation management, and various software and online tools, including R, Python, and GitHub.
 
 - [Python for Everybody](https://www.coursera.org/specializations/python)
 
