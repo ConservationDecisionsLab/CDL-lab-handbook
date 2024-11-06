@@ -3,6 +3,8 @@
 ## Research and data analysis {-#research}
 The UBC Library Research Commons offers a variety of [training workshops](https://researchcommons.library.ubc.ca/workshops/) on data analysis and visualization, GIS, research data and citation management, and various software and online tools, including R, Python, and GitHub.
 
+Coursera is an online training resource that can be an option for additional learning. Some suggested courses include:
+
 - [Python for Everybody](https://www.coursera.org/specializations/python)
 
 - [Bayesian Statistics](https://www.coursera.org/learn/bayesian-statistics) 
