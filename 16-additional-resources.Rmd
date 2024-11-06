@@ -4,7 +4,9 @@
 
 The UBC Library Research Commons offers a variety of [training workshops](https://researchcommons.library.ubc.ca/workshops/) on data analysis and visualization, GIS, research data and citation management, and various software and online tools, including R, Python, and GitHub.
 
-Coursera is an online training resource that can be an option for additional learning. Some suggested courses include:
+## Research and data analysis {-#research}
+
+The UBC Library Research Commons offers a variety of [training workshops] (https://researchcommons.library.ubc.ca/workshops/) on data analysis and visualization, GIS, research data and citation management, and various software and online tools, including R, Python, and GitHub.
 
 - [Python for Everybody](https://www.coursera.org/specializations/python)
 
@@ -26,13 +28,41 @@ The UBC Centre for Teaching, Learning, and Technology offers [Instructional Skil
 ## Communication and Facilitation {-#communications}
 [Compass](https://www.compassscicomm.org/) has some training resources on how to use the [Message Box](https://www.compassscicomm.org/leadership-development/the-message-box/) to help better communicate our science to different audiences. 
 
-
 ## Other professional development training {-#profdevel}
 The [UBC Graduate School](https://www.grad.ubc.ca/current-students/professional-development) and the [Postdoctoral Fellows Office](https://www.postdocs.ubc.ca/professional-development-events) offers professional development training opportunities throughout the year. 
 
 Staff also have access to various learning resources from [UBC Human Resources](https://hr.ubc.ca/career-development/workplace-learning-opportunities), and may be eligible for some [professional development funding](https://hr.ubc.ca/career-development/professional-development-funding). 
 
 Many academic societies, such as the [Society for Conservation Biology](https://conbio.org/professional-development/), the [Canadian Society for Ecology and Evolution](https://csee-scee.ca/workshops/), and the [Ecological Society of America](https://www.esa.org/career-development/professional-development-from-esa/), offer online workshops or webinars for members. Information on upcoming workshops or webinars are often sent by email to society members, and may also be available on their websites. In-person workshops and short courses are also offered as part of the annual meetings/conferences of these societies.
+
+The Biodiversity Research Centre sometimes offers training courses on various research skills - subscribe to their email newsletter to hear about these opportunities as they come up.
+
+Coursera is an online training resource that can be an option for additional learning. Some suggested courses include:
+* Python for Everybody ([https://www.coursera.org/specializations/python](https://www.coursera.org/specializations/python))
+* Bayesian Statistics ([https://www.coursera.org/learn/bayesian-statistics](https://www.coursera.org/learn/bayesian-statistics))
+
+## Research Ethics {-#ethics}
+If you are planning to conduct research involving animals, including fieldwork, you will need to undergo the [CCAC Experimental Animal User Training Program] (https://animalcare.ubc.ca/training) before applying for research ethics approval.
+
+Similarly, if you will be conducting research involving humans, including surveys/questionnaires, interviews, or workshops, you will need to do the [TCPS 2 Course on Research Ethics tutorial] (https://tcps2core.ca/welcome) before applying for research ethics approval. 
+
+## Decision Science {-#sdm}
+The US Fish and Wildlife Service offers both [online resources] (https://www.fws.gov/training/learning-resources) and in-person [training] (https://www.fws.gov/training) on various topics, including Decision Analysis.
+
+[Compass Resource Management] (https://compassrm.com/) also offers some online resources on [Structured Decision Making] (https://www.structureddecisionmaking.org/)
+
+## Teaching and Learning {-#teaching}
+The UBC Centre for Teaching, Learning, and Technology offers [Instructional Skills Workshops for Grads and Postdocs] (https://ctlt.ubc.ca/programs/all-our-programs/instructional-skills-workshops/), along with other teaching and learning [programs] (https://ctlt.ubc.ca/programs/graduate-student-ta-programs/) and [resources] (https://ctlt.ubc.ca/resources/)
+
+## Communication and Facilitation {-#communications}
+[Compass] (https://www.compassscicomm.org/) has some training resources on how to use the Message Box (https://www.compassscicomm.org/leadership-development/the-message-box/) to help better communicate our science to different audiences. 
+
+## Other professional development training {-#profdevel}
+The [UBC Graduate School] (https://www.grad.ubc.ca/current-students/professional-development) and the [Postdoctoral Fellows Office] (https://www.postdocs.ubc.ca/professional-development-events) offers professional development training opportunities throughout the year. 
+
+Staff also have access to various learning resources from [UBC Human Resources] (https://hr.ubc.ca/career-development/workplace-learning-opportunities), and may be eligible for some [professional development funding] (https://hr.ubc.ca/career-development/professional-development-funding). 
+
+Many academic societies, such as the [Society for Conservation Biology]  (https://conbio.org/professional-development/), the [Canadian Society for Ecology and Evolution] (https://csee-scee.ca/workshops/), and the [Ecological Society of America] (https://www.esa.org/career-development/professional-development-from-esa/), offer online workshops or webinars for members. Information on upcoming workshops or webinars are often sent by email to society members, and may also be available on their websites. In-person workshops and short courses are also offered as part of the annual meetings/conferences of these societies.
 
 The Biodiversity Research Centre sometimes offers training courses on various research skills - subscribe to their email newsletter to hear about these opportunities as they come up.
 
