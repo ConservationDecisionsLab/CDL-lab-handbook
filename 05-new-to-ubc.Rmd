@@ -48,7 +48,6 @@ In your Outlook calendar you simply fill out the “Location” field (search us
 - to include their department name and/or supervisor’s name
 - to include their department admin in the CC/Optional Recipient field to assist with granting access to the meeting space (esp. for FSC 4001)
 
- 
 ## Common Spaces {-#commonspaces}
 
 The kitchen on level 3 is room 3039. This is available to all staff, students and faculty, but is closed at 4:30 each day. There is a kitchen and dining area on level 4 (room 4003) that is for staff and faculty use only, unless it is booked for an event. 
@@ -62,6 +61,18 @@ Room 3005 is the copy room for FCS. The printing code assigned to Tara and the l
 The easiest way to use the printer/scanner is to use a thumb drive plugged directly into the printer/scanner and using the print/scan to USB mode on the printer. It will print PDFs but not Word docs. 
 
 For after hours use when the door is locked you can access the key to the printer room by using your key card to get into the lock-box located at the far end of the hallway from the lab room. 
+
+## UBC Online Access {-#ubconlineaccess}
+
+Once you have received your student number and your first-time sign in information visit The [University of British Columbia](https://activate.id.ubc.ca/iamweb/) to establish your UBC Campus Wide Login (CWL). This CWL is your one place sign in for all of the UBC portals that will be at your disposal. 
+
+The CDLab manager will send IT (Norm Hodges) and email requesting that you obtain access to the Forestry drives of UBC. They will Cc you in this email as your CWL will be required. 
+
+The Forestry drives of UBC will give you access to secure data storage spaces and access to the shared lab Z drive. [Here is a link](https://it.ubc.ca/services/web-servers-storage/home-drive-storage-service/mapping-or-mounting-your-home-drive-0) to how you can map to this shared drive space. See [Shared Digital Workspaces for more details](#shareddigital).
+
+Be aware that some UBC software, like ArcGIS, only functions when using the UBC VPN – Cisco AnyConnect Secure Mobility Client. [Here is a guide](https://it.ubc.ca/services/email-voice-internet/myvpn/setup-documents) as to how to set up your VPN for remote access away from the UBC campus. 
+
+For more information on how to access the IT services of UBC (see section 2.1)
 
 ## UBC Social Events {-#ubcsocial}
 
