@@ -1,0 +1,40 @@
+# Data Management {-#datamgmt}
+
+When planning and conducting research, it is good practice to also think about and develop a system for managing your data. Research data management generally refers to how researchers structure, organize, document, use, preserve, and share data throughout the [research life cycle](https://researchsupport.harvard.edu/research-lifecycle). Good data management can help reduce errors, minimize confusion, and improve the quality of your data and the efficiency of your analysis. Data that are well-organized and documented will also be easier to share and archive for future use, allowing others to understand and make use of your data and/or [reproduce](https://doi.org/10.1002/bes2.1801) your research. 
+
+## Principles and best practices {-#principles}
+
+How to best organize and manage your data will depend on the type of data and analysis, as well as your (and your collaborators’) preferences. Here are some brief guides and primers on best practices in data management, to help you get started:
+
+- [Good Enough Research Data Management–A Very Brief Guide](https://osf.io/zjpqx)  
+- British Ecological Society (BES) guides to [Data Management](https://www.britishecologicalsociety.org/wp-content/uploads/2019/06/BES-Guide-Data-Management-2019.pdf?utm_source=web&utm_medium=web&utm_campaign=better_science) and [Reproducible Code](https://www.britishecologicalsociety.org/wp-content/uploads/2019/06/BES-Guide-Reproducible-Code-2019.pdf?utm_source=web&utm_medium=web&utm_campaign=better_science)  
+- [Directory structure](https://osf.io/5br6a) and [File naming](https://osf.io/pfweq) guidelines  
+- Spreadsheet best practices from the [University of Pennsylvania](https://guides.library.upenn.edu/datamgmt/spreadsheet) and [UC Davis]([https://ucd-cepb.github.io/R-DAVIS/lesson_04_spreadsheets_condensed.html)  
+- Kristin Briney’s blog [post](http://dataabinitio.com/?p=378) about README files and UBC’s [Creating a README for your dataset](https://osf.io/aqxw3)  
+- [Codebooks & Data Dictionaries](https://guides.library.upenn.edu/c.php?g=564157&p=9554907) and [template](https://repository.upenn.edu/entities/publication/0430ccdd-cbd8-4404-9f54-11cb81d5b3b1)  
+- [How to make a data dictionary](https://help.osf.io/article/217-how-to-make-a-data-dictionary)  
+
+For more information about the principles of Research Data Management, check out the following resources:
+
+- Online text on [Research Data Management in the Canadian Context](https://ecampusontario.pressbooks.pub/canadardm/)  
+- UBC Library Research Data Management [guide](https://osf.io/yujkv) and other [online resources](https://researchdata.library.ubc.ca/learn/)  
+- Tri-Agency [Statement of Principles on Digital Data Management](https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/research-data-management/tri-agency-statement-principles-digital-data-management)  
+
+## Data Management Plans {-#dmp}
+
+Generally, data management plans provide information on:
+
+* how data will be collected, documented, formatted, protected and preserved; 
+* how existing datasets will be used and what new data will be created over the course of the research project; 
+* whether and how data will be shared; and 
+* where data will be deposited.
+
+Creating a data management plan is particularly useful when working collaboratively with others on a project and sharing or preserving data for future use. Data management plans are also important components of research ethics applications. In some cases, a formal Data Management Plan document may be required for some grant applications, including from [NSERC or SSHRC](https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/research-data-management/tri-agency-research-data-management-policy). 
+
+See the following for additional resources and tools to help you develop a data management plan:
+
+- [Guide](https://www.sshrc-crsh.gc.ca/funding-financement/apply-demande/guides/guide_preparing_data_management_plan-guide_preparation_plan_gestion_donnees-eng.aspx) from Canada’s Social Sciences and Humanities Research Council (SSHRC)  
+- [Creating a Data Management Plan Document](https://help.osf.io/article/144-creating-a-data-management-plan-dmp-document) guide from the Center for Open Science  
+- NCEAS Learning Hub’s coreR Course [chapter on data management plans](https://learning.nceas.ucsb.edu/2023-04-coreR/session_14.html)  
+- [DMP Assistant](https://dmp-pgd.ca/) online tool for developing data management plans that meet the requirements for Canada’s federal research funding agency grants. See the UBC Library Research Data Management [website](https://researchdata.library.ubc.ca/plan/dmp-assistant/) to learn more.  
+- Digital Research Alliance of Canada [training resources](https://alliancecan.ca/en/services/research-data-management/learning-and-training/training-resources). 
