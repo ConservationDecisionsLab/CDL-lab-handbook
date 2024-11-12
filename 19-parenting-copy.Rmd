@@ -1,18 +1,24 @@
 # Parenting Information {-#labmedia}
+The CDL is dedicated to providing equal opportunities for parents. This includes accommodating parental demands, and inviting children and family members to participate in lab events wherever possible.
 
-The CDL is dedicated to providing equal opportunities for parents. This includes accommodating parental demands, and inviting children and family members to participate in lab events wherever possible.  
+##Accomodating Parental Demands
+We understand that parents face unique challenges, and the lab endeavors to provide support wherever possible. Parents and ca
 
-## Parental Leave
-Paid parental leave is largely dependent on research funders. 
+##Parental Leave
+Paid parental leave is largely dependent on research funding source and the Faculty of Forestry. 
 
+###NSERC
 Those funded by NSERC grants are invited to review parental leave policies [here](https://www.nserc-crsng.gc.ca/NSERC-CRSNG/policies-politiques/Wleave-Fconges_eng.asp). Depending on the grantee’s circumstances, the options include:
 
 *extending the period for using the current grant funds by up to two years
 *adding up to two years of funding at the same level as the current grant
 *deferring the submission of a renewal application
 
-To those who are funded by Mitacs, parental leave includes 8 weeks of leave paid at a rate of 90% of the employee’s salary (Employment Insurance and Mitacs top up combined equals 90% salary) as well as an additional 17 weeks paid at a rate of 40% of the employee’s salary. 
+###Mitacs
+To those who are funded through Mitacs internships, currently no paid parental leave is provided. The only option provided by Mitacs is to pause the intern participation in the program when it's agreed to with the professor and sponsor agency.
 
+###Faculty of Forestry
+MA/Sc and PhD student with funding packages (awards and/or stipends) being suspended for Parental Leave may apply to the Graduate Program for funding replacement coverage up to 12 consecutive months. Students who are self-funded are not eligible for this funding, nor are students whose stipends and/or awards have already expired. Students must first receive any Parental Leave funding they may be eligible for through other sources (e.g., NSERC - see above). Students should review the Forestry Graduate Student Gradbook for more details. 
 
 
 
