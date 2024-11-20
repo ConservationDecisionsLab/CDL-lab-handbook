@@ -33,9 +33,9 @@ We commit to translating these values into action and carrying them out in our w
 ### Individual Actions {-#individualactions}
 
 * Recognize and reflect on one's own bias and privilege. Recognize privilege (e.g., status or experience) as a responsibility to provide space for underrepresented or overlooked contributors before ourselves. 
-* Devote time to continue learning about JEDI issues, working through provided JEDI materials, sourcing new materials, and contributing to the lab’s [EDI materials library.](https://docs.google.com/document/d/102fsqZL8UVf22TX1kTZ1WjQu2U9SrFjEBbQ9NipedXA/edit#heading=h.axugsem4agey)
+* Devote time to continue learning about JEDI issues, working through provided JEDI materials, sourcing new materials, and contributing to the lab’s [JEDI resource library.](https://docs.google.com/document/d/102fsqZL8UVf22TX1kTZ1WjQu2U9SrFjEBbQ9NipedXA/edit#heading=h.axugsem4agey)
 * Practice deep listening to ensure we are working with peers and collaborators in a meaningful way, rather than dictating or projecting our needs onto others.
-* Welcome critiques of our words and actions, and remain open to engaging in uncomfortable conversations that are integral to change. Complete UBC’s conflict engagement course [here.](https://wpl.ubc.ca/browse/conflict-theatre/courses/wpl-pd-icsd)
+* Welcome critiques of our words and actions, and remain open to engaging in uncomfortable conversations that are integral to change. Complete UBC’s conflict engagement course [here](https://wpl.ubc.ca/browse/conflict-theatre/courses/wpl-pd-icsd).
 * Invite speakers, panels, authorship, and committees to better represent the diversity of perspectives and lived experiences.
 * Include local knowledge holders, practitioners, and scientists from other disciplines in our research during study design, questions, analyses, and writing.
 * Communicate and provide research outputs to those involved in and affected by the research and possible decisions influenced by this research. 
@@ -55,7 +55,7 @@ We commit to translating these values into action and carrying them out in our w
 *Invite speakers, panels, authorship, and committees to better represent a diversity of perspectives and lived experiences.
 * Facilitate discussion aimed to educate and encourage lab members on the best practices of including local knowledge holders, community groups, practitioners, and scientists from other disciplines in our research.
 * Ensure that lab events are inclusive, accessible and safe for all lab members by providing multiple event options for venues and activities.
-* Discuss one’s own and other’s research in the context of our JEDI values to ensure our research aligns with the values and best practices outlined in this document.
+* Discuss one’s own and others' research in the context of our JEDI values to ensure our research aligns with the values and best practices outlined in this document.
 
 ## Best Practices in Research {-#researchpractices}
 
@@ -94,7 +94,12 @@ We are committed to building our fluency and capacity in the following areas to 
 
 ## Resources {-#jediresources}
 
-As a part of our JEDI commitment we have established an [online resources center](https://docs.google.com/document/d/102fsqZL8UVf22TX1kTZ1WjQu2U9SrFjEBbQ9NipedXA/edit#heading=h.axugsem4agey) for JEDI related materials. This is by no means a complete or exhaustive list. We encourage all lab members to add to this resource pool. Thank you in advance for contributing material that you believe will assist in our collective education. 
+As a part of our JEDI commitment we have curated a [list](https://docs.google.com/document/d/102fsqZL8UVf22TX1kTZ1WjQu2U9SrFjEBbQ9NipedXA/edit#heading=h.axugsem4agey) of JEDI-related learning resources. This is by no means a complete or exhaustive list. We encourage all lab members to add to this list. Thank you in advance for contributing material that you believe will assist in our collective education. 
 
+UBC also provides a variety of resources and support:
 
+* The Faculty of Forestry has a number of [JEDI Initiatives](https://forestry.ubc.ca/about/our-faculty-today/initiatives/equity-diversity-inclusion/), provides resources and steps for [harassment or discrimination complaints](https://forestry.ubc.ca/about/equity-diversity-inclusion/have-a-harassment-or-discrimination-complaint/), and curates a list of self-directed JEDI [learning resources](https://forestry.ubc.ca/about/equity-diversity-inclusion/read-watch-listen/).
 
+* The [Equity and Inclusion Office](https://equity.ubc.ca/) provides info and links to services, help, and resources available to the UBC community.
+
+* The Centre for Teaching and Learning offers [Anti-Racist Teaching and Learning](https://ctlt.ubc.ca/programs/all-our-programs/anti-racist-teaching-and-learning-programming/) programming for staff and faculty, including a list of [resources](https://ctlt.ubc.ca/programs/all-our-programs/anti-racist-teaching-and-learning-programming/ecosystem/).
