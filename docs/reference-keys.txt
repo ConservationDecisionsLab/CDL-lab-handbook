@@ -1,5 +1,3 @@
-software-dowloads
-adobe-products
 useful-settings
 other-things-to-know
 logging-outdisconnecting

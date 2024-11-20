@@ -17,11 +17,11 @@ Also note that UBC has strict rules (often under BC law) concerning some types o
 
 If Norm is unavailable, or you require other support you can reach out to [UBC IT](https://it.ubc.ca/got-question-about-it-products-and-support) or Forestry IT (forestry.ithelp@ubc.ca) the Faculty wide IT service. It is worth noting, however, that Norm's understanding of our lab-owned computers, the needs within our Faculty, and the specific software many of us use, means more often than not he is the most useful resource when it comes to IT.   
 
-## Software dowloads 
+## Software dowloads {-}
 
 To download software through UBC visit the [UBC software downloads portal](https://it.ubc.ca/services/desktop-support-services/software-licensing/software-downloads). You will also visit the same portal when re licensing software, but you will be prompted by email to do so. 
 
-## Adobe products
+### Adobe products {.unlisted .unnumbered}
 
 UBC is no longer going to cover costs for Adobe Acrobat Pro and Adobe Acrobat Creative Cloud. For those who need Adobe Acrobat Pro (offers you the ability to read and edit PDFs), Tara is happy to cover that annual cost. You will need to purchase an annual subscription (see instructions below) and then submit an out of pocket expense. 
 
@@ -63,15 +63,8 @@ Both of these are unrestricted lists so you may send emails or event invitations
 - CONSERVATION-DECISIONSLAB@lists.ubc.ca
 - CDLARCESEMOORE-LAB@lists.ubc.ca
 
-
 ### Other email lists {-#otheremails}
 
 You will be automatically added to the appropriate email list for Forestry communications, such as newsletters and the Wednesday Seminar Series. If you think you are not receiving these emails, contact Natasha in FCS Reception ([natasha.thompson@ubc.ca](mailto:natasha.thompson@ubc.ca)).
 
-The Zoology Department hosts many email lists that are relevant to Forestry grad students and post-docs. To subscribe to the zoology email lists send a blank email with ‘subscribe’ as the subject line to as many of the list servers as you like. Some examples are listed below, and more can be found [here](https://www.zoology.ubc.ca/~bio310/noticeboard_files/listservs.htm).  
-
-* Seminars, talks and defenses ([seminars-request@zoology.ubc.ca](mailto:seminars-request@zoology.ubc.ca))
-* Research topics, requests for chemicals and equipment, collaboration requests etc. ([research-request@zoology.ubc.ca](mailto:research-request@zoology.ubc.ca))
-* Grad life, including Biodiversity Beers and other events, housing requests, furniture for sale etc. ([grads-request@zoology.ubc.ca](grads-request@zoology.ubc.ca))
-* Conservation Discussion Group ([conservation-request@zoology.ubc.ca](conservation-request@zoology.ubc.ca))
-
+The Biodiversity Research Centre (BRC) hosts seminars, workshops, discussion groups, and other events that may be relevant to Forestry grad students and post-docs. To get updates and other BRC announcements, you can self-subscribe to the BIODIVERSITY-RESEARCH@LISTS.UBC.CA mailing list by sending an email to [listserv@lists.ubc.ca](mailto:listserv@lists.ubc.ca) from your own account with "subscribe biodiversity-research" in the body with no quotation marks (and nothing else, make sure to delete your signature!). Follow the same pattern to subscribe to the other lists as needed. You may also contact BRC Administrator Katie Beall [katie.beall@ubc.ca](mailto:katie.beall@ubc.ca) to join the lists.
