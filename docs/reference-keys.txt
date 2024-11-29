@@ -2,4 +2,8 @@ useful-settings
 other-things-to-know
 logging-outdisconnecting
 lab-media-guidelines--
-section
+parenting-information
+parental-leave
+nserc
+mitacs
+faculty-of-forestry

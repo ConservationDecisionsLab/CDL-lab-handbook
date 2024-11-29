@@ -33,7 +33,7 @@ We commit to translating these values into action and carrying them out in our w
 ### Individual Actions {-#individualactions}
 
 * Recognize and reflect on one's own bias and privilege. Recognize privilege (e.g., status or experience) as a responsibility to provide space for underrepresented or overlooked contributors before ourselves. 
-* Devote time to continue learning about JEDI issues, working through provided JEDI materials, sourcing new materials, and contributing to the lab’s [JEDI resource library.](https://docs.google.com/document/d/102fsqZL8UVf22TX1kTZ1WjQu2U9SrFjEBbQ9NipedXA/edit#heading=h.axugsem4agey)
+* Devote time to continue learning about JEDI issues, working through provided JEDI materials, sourcing new materials, and contributing to the lab’s [JEDI resource library.](https://docs.google.com/document/d/1fazg-XYuaX7g0mDGTt_2n5DTSDN2JnjvzRZ3UuAx0jw/edit?usp=sharing)
 * Practice deep listening to ensure we are working with peers and collaborators in a meaningful way, rather than dictating or projecting our needs onto others.
 * Welcome critiques of our words and actions, and remain open to engaging in uncomfortable conversations that are integral to change. Complete UBC’s conflict engagement course [here](https://wpl.ubc.ca/browse/conflict-theatre/courses/wpl-pd-icsd).
 * Invite speakers, panels, authorship, and committees to better represent the diversity of perspectives and lived experiences.
@@ -92,9 +92,19 @@ We are committed to building our fluency and capacity in the following areas to 
     *	Openly discussing / holding space for health and wellness obstacles, personally and professionally (i.e., in academic spaces) 
     *	Celebrating success beyond the h-index and the awards list! 
 
-## Resources {-#jediresources}
+## Cultural Awareness {#vancouverculture .unnumbered}
 
-As a part of our JEDI commitment we have curated a [list](https://docs.google.com/document/d/102fsqZL8UVf22TX1kTZ1WjQu2U9SrFjEBbQ9NipedXA/edit#heading=h.axugsem4agey) of JEDI-related learning resources. This is by no means a complete or exhaustive list. We encourage all lab members to add to this list. Thank you in advance for contributing material that you believe will assist in our collective education. 
+Dr. Tara Martin encourages and supports lab members to take time to learn about the many cultures within and around Vancouver and the Point Grey Campus, as well as the areas wherein research is conducted and beyond.
+
+You will notice that a land acknowledgment is common practice during introductions. UBC provides [a guide](https://guides.library.ubc.ca/distance-research-xwi7xwa/landacknowledgements) to assist those new to the land acknowledgment practice, and we encourage all lab members to participate in this brief yet vital ‘Respect, Sincerity & Responsibility: Land Acknowledgements \@ UBC’ course. Enroll [here](https://wpl.ubc.ca/browse/orientation-and-onboarding/courses/wpl-oo-ilpla). This course is part of the UBC Centre for Teaching and Learning's [Indigenous Learning Pathways](https://indigenousinitiatives.ctlt.ubc.ca/programming/ilp/) program, which aims to support new employees to meaningfully and respectfully engage with Indigenous histories, knowledges, perspectives, and realities in their role at UBC. For additional guides on land acknowledgements, see our [JEDI resource list](https://docs.google.com/document/d/1fazg-XYuaX7g0mDGTt_2n5DTSDN2JnjvzRZ3UuAx0jw/edit?usp=sharing).
+
+We also highly recommend and encourage enrolling in the ‘[Indigenous Canada](https://www.coursera.org/learn/indigenous-canada)’ course offered by the University of Alberta and hosted by Coursera, which provides effective context to Canada’s history of colonization. This is a great course and is expected to take 21 hours to complete.
+
+For those looking to learn about and improve their cultural competence, the [Cultural Competence Training](https://www.culturalcompetencetraining.ca/home) site may also be a useful starting point for your journey.
+
+## Additional Resources {-#jediresources}
+
+As a part of our JEDI commitment we have curated a [list](https://docs.google.com/document/d/1fazg-XYuaX7g0mDGTt_2n5DTSDN2JnjvzRZ3UuAx0jw/edit?usp=sharing) of JEDI-related learning resources. This is by no means a complete or exhaustive list. We encourage all lab members to add to this list. Thank you in advance for contributing material that you believe will assist in our collective education. 
 
 UBC also provides a variety of resources and support:
 
