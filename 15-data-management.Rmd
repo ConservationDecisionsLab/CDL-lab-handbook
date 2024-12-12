@@ -38,3 +38,32 @@ See the following for additional resources and tools to help you develop a data 
 - NCEAS Learning Hub’s coreR Course [chapter on data management plans](https://learning.nceas.ucsb.edu/2023-04-coreR/session_14.html)  
 - [DMP Assistant](https://dmp-pgd.ca/) online tool for developing data management plans that meet the requirements for Canada’s federal research funding agency grants. See the UBC Library Research Data Management [website](https://researchdata.library.ubc.ca/plan/dmp-assistant/) to learn more.  
 - Digital Research Alliance of Canada [training resources](https://alliancecan.ca/en/services/research-data-management/learning-and-training/training-resources). 
+
+## Lab Archive {-#archive}
+
+(Draft for lab discussion and approval by Tara)
+
+Once your research has been completed, you are expected to leave an archive of your data and analysis code with the lab, along with any additional documentation needed for others to understand how your data was collected, processed, and analyzed, and how the data should be managed, shared, and/or used in the future. 
+
+### Recommended content {.unlisted .unnumbered}
+
+When archiving, we strongly recommend following [best practices](#principles) in data management and reproducible code, and ask that you include:
+
+- a copy of the raw (unprocessed) data files, if possible. In many cases, this may consist simply of data collected from field sampling or compiled from expert elicitations or systematic literature reviews
+- where applicable, the source of the data - e.g., image or video files from camera traps or bioacoustic monitoring devices, audio/video recordings of interviews/workshops, copies of survey responses, spatial data files, etc. If (physical) field samples were collected and stored in the lab for future analyses, include an inventory list of the samples, where and when they were collected, and where and how they are stored.
+- the code used to process and analyze the data and generate any figures. If data cleaning/formatting was done manually (i.e., not using R or other programming software), then a detailed description of how input files for the analysis were derived from the raw data files should also be included 
+- a data [dictionary/codebook](#principles) that defines the variables and describes the structure, content, and layout of the dataset. Include the names of individuals that collected the data and the date and location of data collection if these were not already included in the dataset or the in the report/manuscript (see next item),
+- a copy of the final report, thesis or thesis chapter, or scientific manuscript that describes the data collection methods, equipment and materials used, and the analysis. - any additional documentation needed to allow for replication of the study if needed
+- permits or approvals needed for experimental or field data collection, or for any research involving humans (e.g., expert elicitations, interviews, workshops) 
+- data use/ownership agreements (if applicable), copyright licenses (e.g., [Creative Commons](https://creativecommons.org/share-your-work/)), and protocols that govern how the data should be used, managed, stored, or shared in the future.
+
+In addition, we also encourage you to archive copies of field/workshop photos or videos, presentations about the project, and copies of (or links to) any media articles that featured the study. Documents related to project administration, such as grant applications/agreements and contracts, budgets, progress reports, invoices, contact lists, etc. should also be included in the archive in a separate ‘admin’ subfolder.
+
+Make sure to include _read me_ files that describe the contents of each subfolder or group of subfolders. Consult the links provided [above](#principles) as well as this [guide from Cornell University](https://data.research.cornell.edu/data-management/sharing/readme/) to learn more about _read me_ files.
+
+### Directory structure {.unlisted .unnumbered}
+
+Your data and other project documents should be archived in the Conservation Decision Lab’s shared network drive (add link to relevant section of lab manual). See below for more information on where to store and how to structure your project archive.
+
+(to be continued...)
+
