@@ -1,6 +1,21 @@
-# Financial {#financial .unnumbered}
+# Financial {#financial}
 
-## Funding and Awards {#fundingandawards .unnumbered}
+## Student Budgeting {#studentbudgeting}
+
+### Proposal Development & Budgeting {#budgetdevelopment}
+
+Learning how to budget is an important part of your graduate student or research experience.  As you develop your research proposal for your MSc or PhD, create a budget for your project.  This budget should include all expected expenses associated with you graduate student project including field work, equipment, research assistants, honoraria, accommodation, field vehicles costs including mileage, attendance at conferences, publishing Open Access fees. Please try to be as comprehensive as possible.  Throughout your degree, it is your responsibility to keep this budget up to date and be proactive in seeking additional resources where needed. 
+
+For vehicle and field boat use the mileage calculations are shown below. 
+-	UBC mileage reimbursement rate: **$0.60/km for the first 5,000 kilometers** (the rate will be a little lower beyond 5,000 kilometers, closer to $0.58/km); Workday automatically calculates the up-to-date reimbursement rate when you are submitting your claim. This information is current as of January 2025.
+-	Budgeting for use of research vessel: **$1.5 per nautical mile**
+
+### Grant Management {#grantmanagement}
+
+Each of you are likely to have different streams of funding and it is your responsibility to keep track of your expenditure versus incoming funds.  
+Please ensure, Tara and Madeline have documentation relating to your funding sources (admit funding package agreement, funding source agreements – e.g., Mitacs, NSERC) and that you keep track of expense receipts.
+
+### Funding and Awards {#fundingandawards}
 
 Internal UBC & Faculty of Forestry Award Options can be found [here](https://forestry.ubc.ca/students/graduate-student-portal/financial-support/), described in great detail and with links. Below we have included a list of the awards, along with who is eligible, general dates, and overall value:
 
@@ -80,14 +95,33 @@ Here are some fantastic options for external awards (also make sure to continuou
 | Aerin Jacob                        | Various               | Various              | [List](http://www.aerinjacob.ca/funding--awards.html)                                                                                                                  |
 +------------------------------------+-----------------------+----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-## Out of Pocket Reimbursements {#reimbursements .unnumbered}
+## Expenses {#expenses}
 
-The two common types of reimbursements are travel and non-travel expenses. Copies of the reimbursement request forms can be obtained from Forest and Conservation Sciences Reception (rm 3041), and are also available in digital form for print on the shared drive and in the shared dropbox folder found [here](https://www.dropbox.com/home/Conservation%20Decisions%20Lab/07_Reimbursement%20forms).
+Throughout your time in the lab, it is likely you will need to submit a reimbursement claim at some point for a work expense you have personally incurred (e.g., travel, equipment, etc.) which should instead be paid for by a grant held by the lab. For students, in most cases this expense will come out of your own grant (e.g., a student might have a budget for “Material and Research Costs” within their Mitacs which can be used to pay for equipment costs). However, there may also be certain cases where the lab covers the expense.  If you anticipate this situation, please discuss with Tara before incurring the expense and then inform Madeline of the agreement you and Tara have reached (email Madeline, CC Tara, and include the cost or an approximation). 
 
-To claim a reimbursement, you must have a copy of the original receipts and a speedchart (four-letter code) indicating which grant the claim will be charged to. You will need to send the completed forms and receipts to the CDLab manager who will review the information and will submit the reimbursement request to Christine Mutia. Each grant under Dr. Tara Martin’s name has a separate speed chart, please ensure that you have the correct speed chart information before submitting a request.
+For staff, all work related expenses are covered by the lab. These include: 
 
-Please note that when charging kilometers driven please include a google map of the route that you took to prove the Kms stated on the expense form.
+-	Work-related travel expenses (ferry, airfare, vehicle mileage) 
+-	Meals when travelling out of town for meetings, workshops
+-	Mileage to cover driving to field sites
+-	Equipment and computing software – as agreed with Tara
 
-## Small Scale Suppliers {#smallscale .unnumbered}
 
-When hiring or working with external contractors during projects please ensure that you contact the CDLab manager early and before the contractor begins work. The process of setting up an external supplier or vendor can take up to 6 weeks. Please speak to the CDLab manager for more information.
+### Small Scale Suppliers {#smallscale}
+
+If your project requires hiring and/or paying external contractors and you plan to file a reimbursement claim for this expense through UBC, please ensure that you contact Madeline about this as early as possible and most importantly before the contractor begins work. The process of setting up an external supplier or vendor takes about 6 weeks and requires paperwork involving all parties.
+
+### Submitting a Reimbursement Claim {#reimbursement}
+
+1.	Email Madeline Woodley (<madelinewoodley22@gmail.com>) with the expense amount and expense type (brief description). You can either include this directly in your email or fill out the form on the next page (saved in the Lab’s Dropbox and Google Drive). Madeline will respond with the fund type (i.e., grant, gift, project, program) and worktag number to which you can charge your expense. If Madeline is unavailable, email Tara (<tara.martin@ubc.ca>) or Aidan Haigh (<aidanhaigh@gmail.com>). 
+2.	Go to the Expenses Hub in Workday and select **“Create Expense Report”**.
+3.	Use the following articles to help you fill out the expense report. If you cannot access the articles via the hyperlinks included below, go to the [Integrated Services Centre] (https://isc.ubc.ca/resources/workday-knowledge-base), follow the link to the [Workday Knowledge Base] (https://ubc.service-now.com/selfservice?id=kb_view2&kb_knowledge_base=af5ffe361b8ad4105edd43b4bd4bcb09) and sign in with CWL if prompted. Once in the Workday Knowledge Base, select "Workday Finance", and enter "Create Out of Pocket Expense Report", “Create an Expense Report for Mileage”, or “Create an Expense Report for Student” (depending on which article you require) using the search bar. Follow the link that shows up to take you to the relevant article.
+-	[Create an Out of Pocket Expense Report] (https://ubc.service-now.com/selfservice?sys_kb_id=322e4bfe930392905a9f30edfaba1044&id=kb_article_view&sysparm_rank=1&sysparm_tsqueryId=57e9db6d93575650d557b2f17cba10cf)
+  - For all out of pocket reimbursements claimed by staff, faculty or student employees. If you are claiming a reimbursement for work-related driving, see the next article.
+-	[Create an Expense Report for Mileage] (https://ubc.service-now.com/selfservice?sys_kb_id=ae260e0a93cbd614d557b2f17cba1043&id=kb_article_view&sysparm_rank=1&sysparm_tsqueryId=37dadfa193975650d557b2f17cba1008)
+  - Only use if claiming a reimbursement for work-related driving. Please confirm with Tara before submitting a mileage claim.
+-	[Create an Expense Report for Student] (https://ubc.service-now.com/selfservice?sys_kb_id=4fbbd3b6938392905a9f30edfaba10cc&id=kb_article_view&sysparm_rank=4&sysparm_tsqueryId=a9fa5be193975650d557b2f17cba10a1)
+  - This article is explicitly for out of pocket reimbursements for students (specifically those who don't have GRA or TA appointments). Email Madeline if you have questions and she will clarify with UBC Finance!
+  - Staff, you should always use the first two articles!
+4.	Once you have finished filling out your expense report, select **“Save for Later”** and then email Christine Mutia (<christine.mutia@ubc.ca>) with your EXP #. She will check over your reimbursement claim to make sure everything looks good and then either ask you to submit or submit it directly herself. Once you have had some practice submitting personal reimbursements, Christine will let you or Madeline know that can stop sending her the EXP #s and just submit claims directly yourself!
+

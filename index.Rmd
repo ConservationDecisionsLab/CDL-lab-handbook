@@ -33,23 +33,9 @@ knitr::opts_chunk$set(echo = FALSE)
 knitr::include_graphics(here::here("img/cdl-lab-banner.jpg"))
 ```
 
-This document is a brief introduction to the Conservation Decisions Lab. It provides:
+This document acts as a comprehensive reference material for members of the Conservation Decisions Lab. This document should be reviewed in its entirety when you first join the lab and from then on used as a first point of reference for any questions that might come up during your time with the lab.
 
-* Insight into [lab values](#diversity) and [expectations](#commitments)
 
-* Need to know details about your [workstation](#computers)
-
-* Information about [safety](#safety) in the lab and in the field
-
-* Common practices for [working in the lab and from home](#working)
-
-* The [social](#vancouverevents) atmosphere in the lab
-
-* The lab [vehicle](#labtruck) and when/how it can be used
-
-* All things related to your [thesis](#thesis) and how to get ahead of the curve
-
-* [Resources](#newvancouver) for anyone new to UBC or Vancouver
 
 
 
