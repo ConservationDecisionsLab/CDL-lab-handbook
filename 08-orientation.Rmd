@@ -2,19 +2,19 @@
 
 ## Onboarding Reference Materials {-#onboardingreferences}
 
-Graduate students should review the [Graduate Student Portal] (https://forestry.ubc.ca/students/graduate-student-portal/) and the [Graduate Student Handbook] (https://forestry.ubc.ca/files/2023/09/Forestry-Gradbook.pdf) created by UBC Forestry. Staff should review the [UBC onboarding checklist] (https://hr.ubc.ca/sites/default/files/documents/New_Hire_Onboarding_Checklist.pdf).
+Graduate students should review the [Graduate Student Portal](https://forestry.ubc.ca/students/graduate-student-portal/) and the [Graduate Student Handbook](https://forestry.ubc.ca/files/2023/09/Forestry-Gradbook.pdf) created by UBC Forestry. Staff should review the [UBC onboarding checklist](https://hr.ubc.ca/sites/default/files/documents/New_Hire_Onboarding_Checklist.pdf).
 
 ## Setting up CWL and FASmail {-#CWLFasmail}
 
-Students will have created a CWL account when applying to UBC, but should ensure their student email accounts are working, if they wish to use them. Contact Forestry IT (<forestry.ithelp@ubc.ca> or using the [UBC Self Service Portal] (https://ubc.service-now.com/selfservice?id=kb_article_view&sys_kb_id=1736823d939686105a9f30edfaba1089)) if you encounter problems or have questions.
+Students will have created a CWL account when applying to UBC, but should ensure their student email accounts are working, if they wish to use them. Contact Forestry IT (<forestry.ithelp@ubc.ca> or using the [UBC Self Service Portal](https://ubc.service-now.com/selfservice?id=kb_article_view&sys_kb_id=1736823d939686105a9f30edfaba1089)) if you encounter problems or have questions.
 
-Staff who are new to UBC will need to create a CWL account; you will receive an email from UBC IT with instructions to create this account once your employment agreement has been signed. For staff who have previously been employed by UBC, your old CWL account will be reactivated once you employment agreement has been signed. In both cases, you will also receive an email from IT regarding your FASmail account (staff email account, hosted by Outlook) which you can access [here] (https://outlook.office.com/mail/) by logging in with your CWL credentials.
+Staff who are new to UBC will need to create a CWL account; you will receive an email from UBC IT with instructions to create this account once your employment agreement has been signed. For staff who have previously been employed by UBC, your old CWL account will be reactivated once you employment agreement has been signed. In both cases, you will also receive an email from IT regarding your FASmail account (staff email account, hosted by Outlook) which you can access [here](https://outlook.office.com/mail/) by logging in with your CWL credentials.
 
 ## UBC Card & Building Access (and ubc bookstore account for staff) {-#access}
 
 Both staff and students will need to apply for a UBC card if they do not already have one.
 
-Students can apply for a UBC student card [here] (https://ubccard.ubc.ca/obtaining-a-ubccard/students). Note that UBC now offers students both digital and physical cards. Staff can apply for a UBC staff card [here] (https://ubccard.ubc.ca/obtaining-a-ubccard/faculty-staff).
+Students can apply for a UBC student card [here](https://ubccard.ubc.ca/obtaining-a-ubccard/students). Note that UBC now offers students both digital and physical cards. Staff can apply for a UBC staff card [here](https://ubccard.ubc.ca/obtaining-a-ubccard/faculty-staff).
 
 Once you have obtained your card, you will need to contact Natasha Thompson (<natasha.thompson@ubc.ca>) to get the necessary building access (you will at least need access to the FSC building, lab room in FSC 3202, 3rd floor kitchen, and 3rd floor printing room). Tara will need to approve your access so either CC her in your email to Natasha or have Tara email Natasha directly.
 
@@ -22,7 +22,7 @@ If appropriate to your role, staff should also talk to Tara about being added to
 
 ## Workday {-#workday}
 
-Since 2024, [Workday] (https://hr.ubc.ca/working-ubc/welcome-workday) has become the primary platform for UBC processes. This is where you will register for courses, complete necessary workplace training, and submit reimbursement claims, among other things.
+Since 2024, [Workday](https://hr.ubc.ca/working-ubc/welcome-workday) has become the primary platform for UBC processes. This is where you will register for courses, complete necessary workplace training, and submit reimbursement claims, among other things.
 
 ### Workday Onboarding & Training {-#workdaytraining}
 
@@ -30,13 +30,13 @@ At the start of your appointment, you will receive emails from Workday prompting
 
 ### Benefit Elections (Staff) {-#staffbenefits}
 
-For staff, it is important that at the start of your appointment you enroll in benefits and complete your benefit elections. Workday, and Natasha, will prompt you to do so, but you should still be aware that this is a necessary step and must be completed early on in your appointment. To review what benefits you are eligible for, visit the [UBC HR website] (https://hr.ubc.ca/benefits) and explore the [plan associated with your employment group] (https://hr.ubc.ca/benefits/eligibility-enrolment/employee-groups).
+For staff, it is important that at the start of your appointment you enroll in benefits and complete your benefit elections. Workday, and Natasha, will prompt you to do so, but you should still be aware that this is a necessary step and must be completed early on in your appointment. To review what benefits you are eligible for, visit the [UBC HR website](https://hr.ubc.ca/benefits) and explore the [plan associated with your employment group](https://hr.ubc.ca/benefits/eligibility-enrolment/employee-groups).
 
-Also, you should familiarize yourself with [UBC Perks for Faculty & Staff] (https://hr.ubc.ca/health-and-wellbeing/physical-wellbeing/ubc-perks-faculty-and-staff).
+Also, you should familiarize yourself with [UBC Perks for Faculty & Staff](https://hr.ubc.ca/health-and-wellbeing/physical-wellbeing/ubc-perks-faculty-and-staff).
 
 ## FSC Building Orientation {-#buildingorientation}
 
-If based in Vancouver, you will spend a great deal of your time in the [Forest Sciences Centre] (https://www.google.com/maps/place/UBC+Faculty+of+Forestry/@49.2608897,-123.2505023,17z/data=!4m6!3m5!1s0x548672cbc1b06175:0xcf03ffb2c3a1dafb!8m2!3d49.2604859!4d-123.2488265!16s%2Fg%2F11bw_6ls11?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D). This is the home of UBC's Faculty of Forestry and houses our lab room (FSC 3202), Tara's office (FSC 4607), Forestry grad student offices, study spaces, lecture theatres, and more. The Conservation Decisions Lab belongs to the Forest & Conservation Sciences (FCS) department and primarily occupy the 3rd floor.
+If based in Vancouver, you will spend a great deal of your time in the [Forest Sciences Centre](https://www.google.com/maps/place/UBC+Faculty+of+Forestry/@49.2608897,-123.2505023,17z/data=!4m6!3m5!1s0x548672cbc1b06175:0xcf03ffb2c3a1dafb!8m2!3d49.2604859!4d-123.2488265!16s%2Fg%2F11bw_6ls11?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D). This is the home of UBC's Faculty of Forestry and houses our lab room (FSC 3202), Tara's office (FSC 4607), Forestry grad student offices, study spaces, lecture theatres, and more. The Conservation Decisions Lab belongs to the Forest & Conservation Sciences (FCS) department and primarily occupy the 3rd floor.
 
 ### Lab Room (FSC 3202) {-#labroom}
 

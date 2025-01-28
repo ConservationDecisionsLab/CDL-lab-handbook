@@ -1,12 +1,12 @@
 # Welcome {-#welcome}
 
-Welcome to the [Conservation Decisions Lab] (https://www.taramartin.org/) (CDL)! As a team of researchers, graduate students, and educators, led by Dr. Tara Martin, we aspire to use our skills to support biodiversity conservation, cultural revitalization and thriving communities.
+Welcome to the [Conservation Decisions Lab](https://www.taramartin.org/) (CDL)! As a team of researchers, graduate students, and educators, led by Dr. Tara Martin, we aspire to use our skills to support biodiversity conservation, cultural revitalization and thriving communities.
 
 This handbook has been designed to be a landing page for all lab members. For incoming team members, this handbook provides a useful overview to how our lab functions, and offers helpful resources to make the transition to Vancouver, UBC and/or our team as smooth as possible! For current team members, this handbook will continue to be and should be treated as a primary point of reference as you move through your time in the lab. 
 
 As a key reference material, this document outlines various UBC and CDL processes & procedures associated with your graduate student journey and employment, and details on accessing relevant information. In addition to this handbook, our research technician and lab manager, Madeline Woodley (<madelinewoodley22@gmail.com>), is available to answer any questions you might have during your time with the lab.
 
-This handbook is a living document. If you find any information to be missing or outdated, you can either add/edit the handbook on Github yourself by following the instructions at the end of this handbook (see [“How to Contribute to the Handbook”] (#howtocontribute)), or email your changes to research techs Riley Finn (<riley.finn@ubc.ca>) or Aidan Haigh (<aidanhaigh@gmail.com>) and they will enter your updates via Github. 
+This handbook is a living document. If you find any information to be missing or outdated, you can either add/edit the handbook on Github yourself by following the instructions at the end of this handbook (see [“How to Contribute to the Handbook”](#howtocontribute)), or email your changes to research techs Riley Finn (<riley.finn@ubc.ca>) or Aidan Haigh (<aidanhaigh@gmail.com>) and they will enter your updates via Github. 
 
 Please read this document in its entirety before, or at the start of, your appointment to ensure that as a new lab member you are aware of the resources at your disposal and what is expected of each and every lab member. Dr. Tara Martin has committed to creating an active community within her lab space where she encourages the development of good collaborators and lab citizens. Within this space we commit to being intelligent, curious, motivated, compassionate, and hard-working.
 
