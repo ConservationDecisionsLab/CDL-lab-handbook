@@ -16,7 +16,7 @@ Both staff and students will need to apply for a UBC card if they do not already
 
 Students can apply for a UBC student card [here](https://ubccard.ubc.ca/obtaining-a-ubccard/students). Note that UBC now offers students both digital and physical cards. Staff can apply for a UBC staff card [here](https://ubccard.ubc.ca/obtaining-a-ubccard/faculty-staff).
 
-Once you have obtained your card, you will need to contact Natasha Thompson (<natasha.thompson@ubc.ca>) to get the necessary building access (you will at least need access to the FSC building, lab room in FSC 3202, 3rd floor kitchen, and 3rd floor printing room). Tara will need to approve your access so either CC her in your email to Natasha or have Tara email Natasha directly.
+Once you have obtained your card, you will need to contact Pedro Ribeiro (<pedro.ribeiro@ubc.ca>) to get the necessary building access (you will at least need access to the FSC building, storage cage in the basement of FSC, lab room in FSC 3202, shared wet lab space in FSC 3231, 3rd floor kitchen, and 3rd floor printing room). Tara will need to approve your access so either CC her in your email to Pedro or have Tara email Pedro directly.
 
 If appropriate to your role, staff should also talk to Tara about being added to her faculty account with the UBC Bookstore (can be used to restock lab supplies at a discount).
 
@@ -28,61 +28,75 @@ Since 2024, [Workday](https://hr.ubc.ca/working-ubc/welcome-workday) has become 
 
 ### Workday Onboarding & Training {-#workdaytraining}
 
-At the start of your appointment, you will receive emails from Workday prompting you to complete the necessary onboarding tasks and workplace training modules.
+At the start of your appointment, you will receive emails from Workday (and Pedro) prompting you to complete the necessary onboarding tasks and workplace training modules.
 
 ### Benefit Elections (Staff) {-#staffbenefits}
 
-For staff, it is important that at the start of your appointment you enroll in benefits and complete your benefit elections. Workday, and Natasha, will prompt you to do so, but you should still be aware that this is a necessary step and must be completed early on in your appointment. To review what benefits you are eligible for, visit the [UBC HR website](https://hr.ubc.ca/benefits) and explore the [plan associated with your employment group](https://hr.ubc.ca/benefits/eligibility-enrolment/employee-groups).
+For staff, it is important that at the start of your appointment you enroll in benefits and complete your benefit elections. Workday, and Pedro, will prompt you to do so, but you should still be aware that this is a necessary step and must be completed early on in your appointment. To review what benefits you are eligible for, visit the [UBC HR website](https://hr.ubc.ca/benefits) and explore the [plan associated with your employment group](https://hr.ubc.ca/benefits/eligibility-enrolment/employee-groups).
 
 Also, you should familiarize yourself with [UBC Perks for Faculty & Staff](https://hr.ubc.ca/health-and-wellbeing/physical-wellbeing/ubc-perks-faculty-and-staff).
 
 ## FSC Building Orientation {-#buildingorientation}
 
-If based in Vancouver, you will spend a great deal of your time in the [Forest Sciences Centre](https://www.google.com/maps/place/UBC+Faculty+of+Forestry/@49.2608897,-123.2505023,17z/data=!4m6!3m5!1s0x548672cbc1b06175:0xcf03ffb2c3a1dafb!8m2!3d49.2604859!4d-123.2488265!16s%2Fg%2F11bw_6ls11?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D). This is the home of UBC's Faculty of Forestry and houses our lab room (FSC 3202), Tara's office (FSC 4607), Forestry grad student offices, study spaces, lecture theatres, and more. The Conservation Decisions Lab belongs to the Forest & Conservation Sciences (FCS) department and primarily occupy the 3rd floor.
+If based in Vancouver, you will spend a great deal of your time in the [Forest Sciences Centre](https://www.google.com/maps/place/UBC+Faculty+of+Forestry/@49.2608897,-123.2505023,17z/data=!4m6!3m5!1s0x548672cbc1b06175:0xcf03ffb2c3a1dafb!8m2!3d49.2604859!4d-123.2488265!16s%2Fg%2F11bw_6ls11?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D). This is the home of UBC's Faculty of Forestry and houses our lab room (FSC 3202), our shared wet lab space (FSC 3231), Tara's office (FSC 4607), Forestry grad student offices, study spaces, lecture theatres, and more. The Conservation Decisions Lab belongs to the Forest & Conservation Sciences (FCS) department and primarily occupy the 3rd floor.
 
-Natasha Thompson (<natasha.thompson@ubc.ca>) also offers incoming staff/student/faculty tours of the Forestry building if desired. You can also ask Madeline for a tour of the building if you've not already been offered one.
+Pedro Ribeiro (<pedro.ribeiro@ubc.ca>) also offers incoming staff/student/faculty tours of the Forestry building if desired. You can also ask Madeline for a tour of the building if you've not already been offered one.
 
 ### Lab Room (FSC 3202) {-#labroom}
 
-The lab room (FSC 3202) is a shared workplace and all lab members should feel welcome to use the space, with the understanding that our research techs (Riley, Aidan & Madeline) use this room as their shared office. Please be respectful of this by being quiet if folks are working and/or in meetings, cleaning up after yourself, and helping replenish supplies you use often (honour system).
+The lab room (FSC 3202) is a shared workplace and all lab members should feel welcome to use the space, with the understanding that our research techs (Riley, Aidan, Madeline & Megan) use this room as their shared office. Please be respectful of this by being quiet if folks are working and/or in meetings, cleaning up after yourself, and helping replenish supplies you use often (honour system).
 
 The lab room has a kitchen space with various appliances, including a fridge, kettle, microwave, panini press, drip coffee machine, and espresso machine. Generally, the room is also stocked with milk, coffee (caffeinated & decaf), tea, honey, and chocolate. All lab members are welcome and encouraged to use these supplies, but please contribute by keeping things clean and restocked!
 
-In terms of work-related supplies/equipment, the lab room is equipped with a white-board and projector, and currently houses a colour printer which can be useful for after-hours printing (and prints on write-in-the-rain paper). The lab room also hosts the lab computer which can be helpful when running large datasets and can be accessed remotely. This is available to all lab members, just make sure it is not in use before accessing it. For more information, ask Riley (<riley.finn@ubc.ca>). There are also a host of office supplies and tech accessories in the lab room – cupboards & drawers are labelled, and you can ask the research techs if you require something specific.
+In terms of work-related supplies/equipment, the lab room is equipped with a white-board and projector. The lab room also hosts two high-powered desktop computers which can be helpful when running large datasets and can be accessed remotely. This is available to all lab members, just make sure it is not in use before accessing it. For more information, ask Riley (<riley.finn@ubc.ca>). There are also a host of office supplies and tech accessories in the lab room – cupboards & drawers are labelled, and you can ask the research techs if you require something specific.
 
-Finally, the lab room houses our lab library (shelves on the wall above Madeline & Aidan’s workspaces). Folks are welcome to borrow from this library and use the sign-out sheet on the fridge when you borrow/return a book.
+Finally, the lab room houses our lab library (shelves on the wall above Madeline & Aidan’s workspaces). Folks are welcome to borrow from this library and use the sign-out sheet on the freezer when you borrow/return a book.
 
 ### Tara's Office (FSC 4607) {-#taraoffice}
 
 Tara's office is located on the fourth floor (FSC 4607). This is where you will go to have your 1-on-1 meeting, unless Tara is joining via Zoom.
 
+### Shared Wet Lab Space (FSC 3231) {-#wetlab}
+
+We have recently been welcomed by Dr. Jennifer Grenz (Indigenous Ecology Lab) and Dr. Tahia Devisscher (Resilient & Innovative Societies & Ecosystems Lab, or RISE Lab) to share their wet lab space in FSC 3231. This is a new development and we are early in the process of working out sharing agreements amongst the three labs. If you require access to the wet lab space, please connect with Tara and Madeline to discuss.
+
 ### Student Offices {-#studentoffices}
 
-If you are not automatically set up with an office space, talk to Natasha Thompson (<natasha.thompson@ubc.ca>).
+All graduate students should receive their own desk in one of the shared student offices in FSC. Currently CDL occupies two office spaces on the third floor (not including the lab room). It is advised that students first reach out to Madeline to see whether there is a desk space available in one of these two rooms, and if not students should connect with Pedro Ribeiro (<pedro.ribeiro@ubc.ca>) to get set up with a desk space on the third floor.
 
 ### Common Spaces {-#commonspaces}
 
 **Forestry Graduate Student Lounge (FSC 1715)**
 
+The FGSA has a small student lounge (FSC 1715) on the main floor of the building, toward the end of the long hallway behind the Tim Horton’s Restaurant. This room is exclusively for Forestry grad student use. The lounge has comfortable seating, as well as an eating area and small kitchen. FGSA funds have been used to furnish and maintain this room. Please respect the space and your graduate colleagues by leaving the room cleaner than you found it, particularly in the kitchen area. UBC custodial staff do not clean or maintain the lounge. The lounge door has a coded lock and this room is only for Forestry graduate  students. If you need the code, please email <forestry.cbm@ubc.ca>
+
 **Forestry Staff Lounge (FSC 4003)**
+
+The staff lounge is located on the fourth floor in FSC 4003. This space is equipped with a kitchen and seating for use by staff. Please be respectful as this is a shared space. This room is often booked for events, so make sure to keep an eye our for emails from Forestry Reception regarding lounge & kitchen availability.
 
 **Kitchen & Mail Room (FSC 3039)**
 
-**Printing/Copying Room (FSC 3005)**
+The third floor kitchen (FSC 3039) is available to students, staff and faculty in the Forest & Conservation Sciences Department. This room is equipped with a fridge, sink and microwave for shared use. Please be respectful as this is a shared space. This also serves as the mail room, should staff need to pick up anything on Tara's behalf. Should you require access to this room after 5pm, see [After Hours Access](#afterhoursaccess) for information. 
+
+**Printing Room (FSC 3005)**
+
+FSC 3005 is home to a shared printer machine for use by members of the Forest & Conservation Sciences Department. Scanning is free but printing will require a code which charges ink and paper costs to a Worktag associated with each lab. Our printing code is 4-2-6-5-2-0. Please use printing services consciously and let Tara or Madeline know if you anticipate incurring high printing costs. Should you require access to this room after 5pm, see [After Hours Access](#afterhoursaccess) for information. 
 
 ### After Hours Access {-#afterhoursaccess}
 
+The FSC building is locked after 5pm - this includes exterior and interior doors. All students and staff should automatically receive after hours access with their UBC cards, but should confirm with Pedro. Shared rooms, such as the third floor printing room and kitchen are also locked at 5pm and are not accessible by key cards. To access these two rooms after hours, you will need to visit the lockbox located outside FSC 3301 (on your left at the end of the hallway from our lab room (FSC 3202), headed East). There you will find a big grey box mounted on the wall. To access the key to the mail and printer rooms, use the black card scanner to scan your UBC card and unlock the lockbox. When you open the cabinet door, the keys you have access will light up in red and the screen outside the lockbox will tell you which rooms they are associated with. For most people, only the one key will light up and will show up as PRINT/KIT/MAIL. Pull this key out and close the cabinet door. Use this key to unlock whichever of the rooms you require and make sure the door is locked when you are finished. Scan your card to open the lockbox and insert the key back in its designated spot (highlighted in red) and close the lockbox door. If you do not return the key, FCS admin will contact you as your name will register as the last person to have accessed the key.
 
+## Work Supplies & Technology {-#worksupplies}
 
-## Work Supplies {-#worksupplies}
+Each lab member should ensure they have the necessary work materials/equipment (email Madeline/Tara if you require a work computer, monitor, or other work equipment). 
 
-### Technology {-#techsupplies}
+There are several on-campus options for acquiring necessary work supplies (i.e., stationary, tech accessories), including Staples (101-2135 Allison Rd) and the UBC Bookstore (6200 University Boulevard).
 
-Ensure you have the necessary work materials/equipment (email Madeline/Tara if you require a work computer, monitor, or other work equipment). Norman Hodges (<norman.hodges@ubc.ca>) keeps an up-to-date record of available laptops & tech accessories for our lab.
+Norman Hodges (<norman.hodges@ubc.ca>) keeps an up-to-date record of available laptops for our lab. If you are using a lab-owned computer, Norm has admin privileges and will oversee maintenance so please direct questions to him. If you are working remotely, it is possible to request admin privileges but you will need to coordinate this with Norm. 
 
 ### Software {-#softwaresupplies}
 
-Download necessary softwares from the [UBC On the Hub](https://ubc.onthehub.com/WebStore/Welcome.aspx) website. Talk to Tara & Madeline if you require a software that is not offered for free through UBC and requires payment.
+Download necessary softwares from the [UBC On the Hub](https://ubc.onthehub.com/WebStore/Welcome.aspx) website. Talk to Tara & Madeline if you require a software that is not offered for free through UBC and requires payment. If you are using a lab-owned computer, you will need to let Norm Hodges (<norman.hodges@ubc.ca>) know what software you require so he can use his admin privileges to approve installation. As mentioned above, if you are using a lab-owned computer but work remotely it is possible to request admin privileges for the computer, but you will need to coordinate this with Norm.
 
 ## Academic Calendar {-#academiccalendar}
 
@@ -92,9 +106,11 @@ See here to view [statutory holidays](https://hr.ubc.ca/working-ubc/statutory-ho
 
 ## Waste Management {-#wastemanagement}
 
-### Non-Hazardous Waste {-#wastenonhazard}
+The FSC building has compost, recycling, and garbage programs which are managed by the University. Bins are located in hallways throughout the building and have signage to inform sorting. Garbage bins in office and lab rooms are emptied by janitorial staff, but compost and recycling must be emptied by room occupants into the relevant hallway bins.
 
-### Hazardous Waste {-#wastehazardous}
+If disposing of hazardous waste (e.g., sharps), please contact Pedro Ribeiro (<pedro.ribeiro@ubc.ca>) or Rolando Descalzo (<rolando.descalzo@ubc.ca>) for guidance on appropriate procedures.
+
+If offloading items that are still in working condition but no longer required, there are a couple of avenues for rehoming. For items that have high relevance to other Forestry members, a first step would be to contact Pedro about circulating an email out to Faculty of Forestry mailing lists to gauge interest. Other options include [Rheaply](https://app.rheaply.com/login?returnurl=%2F), which can be signed into with your UBC email, Facebook Marketplace, or a local thrift store.
 
 ## Probationary Assessment (Staff) {-#probationaryassessment}
 
