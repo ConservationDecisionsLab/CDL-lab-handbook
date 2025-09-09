@@ -10,7 +10,7 @@ Students will have created a CWL account when applying to UBC, but should ensure
 
 Staff who are new to UBC will need to create a CWL account; you will receive an email from UBC IT with instructions to create this account once your employment agreement has been signed. For staff who have previously been employed by UBC, your old CWL account will be reactivated once you employment agreement has been signed. In both cases, you will also receive an email from IT regarding your FASmail account (staff email account, hosted by Outlook) which you can access [here](https://outlook.office.com/mail/) by logging in with your CWL credentials.
 
-## UBC Card & Building Access (and ubc bookstore account for staff) {-#access}
+## UBC Card & Building Access {-#access}
 
 Both staff and students will need to apply for a UBC card if they do not already have one.
 
@@ -19,6 +19,8 @@ Students can apply for a UBC student card [here](https://ubccard.ubc.ca/obtainin
 Once you have obtained your card, you will need to contact Natasha Thompson (<natasha.thompson@ubc.ca>) to get the necessary building access (you will at least need access to the FSC building, lab room in FSC 3202, 3rd floor kitchen, and 3rd floor printing room). Tara will need to approve your access so either CC her in your email to Natasha or have Tara email Natasha directly.
 
 If appropriate to your role, staff should also talk to Tara about being added to her faculty account with the UBC Bookstore (can be used to restock lab supplies at a discount).
+
+Generally, the Forest Sciences Center (FSC) requires card access after 5pm and on weekends. See [After Hours Access](#afterhoursaccess) for more information.
 
 ## Workday {-#workday}
 
@@ -38,21 +40,55 @@ Also, you should familiarize yourself with [UBC Perks for Faculty & Staff](https
 
 If based in Vancouver, you will spend a great deal of your time in the [Forest Sciences Centre](https://www.google.com/maps/place/UBC+Faculty+of+Forestry/@49.2608897,-123.2505023,17z/data=!4m6!3m5!1s0x548672cbc1b06175:0xcf03ffb2c3a1dafb!8m2!3d49.2604859!4d-123.2488265!16s%2Fg%2F11bw_6ls11?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D). This is the home of UBC's Faculty of Forestry and houses our lab room (FSC 3202), Tara's office (FSC 4607), Forestry grad student offices, study spaces, lecture theatres, and more. The Conservation Decisions Lab belongs to the Forest & Conservation Sciences (FCS) department and primarily occupy the 3rd floor.
 
+Natasha Thompson (<natasha.thompson@ubc.ca>) also offers incoming staff/student/faculty tours of the Forestry building if desired. You can also ask Madeline for a tour of the building if you've not already been offered one.
+
 ### Lab Room (FSC 3202) {-#labroom}
+
+The lab room (FSC 3202) is a shared workplace and all lab members should feel welcome to use the space, with the understanding that our research techs (Riley, Aidan & Madeline) use this room as their shared office. Please be respectful of this by being quiet if folks are working and/or in meetings, cleaning up after yourself, and helping replenish supplies you use often (honour system).
+
+The lab room has a kitchen space with various appliances, including a fridge, kettle, microwave, panini press, drip coffee machine, and espresso machine. Generally, the room is also stocked with milk, coffee (caffeinated & decaf), tea, honey, and chocolate. All lab members are welcome and encouraged to use these supplies, but please contribute by keeping things clean and restocked!
+
+In terms of work-related supplies/equipment, the lab room is equipped with a white-board and projector, and currently houses a colour printer which can be useful for after-hours printing (and prints on write-in-the-rain paper). The lab room also hosts the lab computer which can be helpful when running large datasets and can be accessed remotely. This is available to all lab members, just make sure it is not in use before accessing it. For more information, ask Riley (<riley.finn@ubc.ca>). There are also a host of office supplies and tech accessories in the lab room – cupboards & drawers are labelled, and you can ask the research techs if you require something specific.
+
+Finally, the lab room houses our lab library (shelves on the wall above Madeline & Aidan’s workspaces). Folks are welcome to borrow from this library and use the sign-out sheet on the fridge when you borrow/return a book.
 
 ### Tara's Office (FSC 4607) {-#taraoffice}
 
+Tara's office is located on the fourth floor (FSC 4607). This is where you will go to have your 1-on-1 meeting, unless Tara is joining via Zoom.
+
 ### Student Offices {-#studentoffices}
 
-### Common Spaces (talk about after hours access) {-#commonspaces}
+If you are not automatically set up with an office space, talk to Natasha Thompson (<natasha.thompson@ubc.ca>).
+
+### Common Spaces {-#commonspaces}
+
+**Forestry Graduate Student Lounge (FSC 1715)**
+
+**Forestry Staff Lounge (FSC 4003)**
+
+**Kitchen & Mail Room (FSC 3039)**
+
+**Printing/Copying Room (FSC 3005)**
+
+### After Hours Access {-#afterhoursaccess}
+
+
 
 ## Work Supplies {-#worksupplies}
 
 ### Technology {-#techsupplies}
 
+Ensure you have the necessary work materials/equipment (email Madeline/Tara if you require a work computer, monitor, or other work equipment). Norman Hodges (<norman.hodges@ubc.ca>) keeps an up-to-date record of available laptops & tech accessories for our lab.
+
 ### Software {-#softwaresupplies}
 
+Download necessary softwares from the [UBC On the Hub](https://ubc.onthehub.com/WebStore/Welcome.aspx) website. Talk to Tara & Madeline if you require a software that is not offered for free through UBC and requires payment.
+
 ## Academic Calendar {-#academiccalendar}
+
+The [UBC Academic Calendar](https://vancouver.calendar.ubc.ca/dates-and-deadlines) outlines term start/end dates, course drop/withdrawal deadlines, exam periods, and fall/spring reading break dates.
+
+See here to view [statutory holidays](https://hr.ubc.ca/working-ubc/statutory-holidays) observed by UBC.
 
 ## Waste Management {-#wastemanagement}
 
@@ -61,3 +97,5 @@ If based in Vancouver, you will spend a great deal of your time in the [Forest S
 ### Hazardous Waste {-#wastehazardous}
 
 ## Probationary Assessment (Staff) {-#probationaryassessment}
+
+If your contract extends beyond one year, ensure you complete a probationary assessment with Tara at the start of your renewed contract. Talk to Tara about this if you have not been prompted on this.
