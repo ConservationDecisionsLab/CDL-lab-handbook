@@ -53,3 +53,5 @@ test/*
 _book/*
 cdl-handbook.tex
 
+# docs
+*.docx
