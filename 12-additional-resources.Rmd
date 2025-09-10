@@ -9,11 +9,6 @@ Coursera is an online training resource that can be an option for additional lea
 
 - [Bayesian Statistics](https://www.coursera.org/learn/bayesian-statistics) 
 
-## Research Ethics {-#ethics}
-If you are planning to conduct research involving animals, including fieldwork, you will need to undergo the [CCAC Experimental Animal User Training Program](https://animalcare.ubc.ca/training) before applying for research ethics approval.
-
-Similarly, if you will be conducting research involving humans, including surveys/questionnaires, interviews, or workshops, you will need to do the [TCPS 2 Course on Research Ethics tutorial](https://tcps2core.ca/welcome) before applying for research ethics approval. 
-
 ## Decision Science {-#sdm}
 The US Fish and Wildlife Service offers both [online resources](https://www.fws.gov/training/learning-resources) and in-person or online [courses](https://www.fws.gov/training) on various topics, including Decision Analysis. These are open to others outside the US Dept of the Interior, but note that the fees for in-person training can be expensive for external learners. 
 

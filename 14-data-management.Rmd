@@ -41,7 +41,7 @@ See the following for additional resources and tools to help you develop a data 
 
 ## Lab Archive {-#archive}
 
-(Draft for lab discussion and approval by Tara)
+*Please note that the following section is a work in progress as we are working through a plan for data archiving - updates will be reflected here, but please connect with Tara when needing to archive data*
 
 Once your research has been completed, you are expected to leave an archive of your data and analysis code with the lab, along with any additional documentation needed for others to understand how your data was collected, processed, and analyzed, and how the data should be managed, shared, and/or used in the future. 
 
@@ -63,7 +63,7 @@ Make sure to include _read me_ files that describe the contents of each subfolde
 
 ### Directory structure {.unlisted .unnumbered}
 
-Your data and other project documents should be archived in the Conservation Decision Lab’s shared network drive (add link to relevant section of lab manual). See below for more information on where to store and how to structure your project archive.
+Your data and other project documents should be archived in the Conservation Decision Lab’s [shared network drive](#sharednetworkdrive). See below for more information on where to store and how to structure your project archive.
 
-(to be continued...)
+*(to be continued...)*
 

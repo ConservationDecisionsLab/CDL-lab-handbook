@@ -1,0 +1,58 @@
+# Getting to & around UBC {-#transportation}
+
+## Getting to UBC
+
+### Bus {-#bus}
+
+Buses that run between downtown and UBC include the 44, 4 and 14. The 99 B-line service also terminates at UBC. Many buses will take you to nearby Skytrain stations, such as VCC-Clark and Bridgeport. 
+
+The information about U-Pass BC/Compass card which provides UBC students with universal, accessible and affordable access to public transit across the Metro Vancouver Region can be found [here](https://planning.ubc.ca/transportation/transit/u-pass-compass-card). UBC students pay for this pass via the mandatory student fees collected by UBC. 
+
+A Compass card is the most cost-effective way of using Skytrains and buses, although cash and credit card are also accepted at tap-on points. Compass cards can be purchased at vending machines in Skytrain stations, UBC Bookstore, ferry terminals, and some London Drugs, Save on Foods and 7eleven outlets. For UBC students, the U-Pass can be added to your Compass card to give unlimited access to Skytrain, Canada Line and SeaBus services. 
+
+A useful public transport app is ‘Transit’, which can be downloaded for free. Transport options include Skytrain, buses, bike share (Shaw bikes in the downtown area, or Hopr bikes on campus), and car share (Evo, Modo). 
+
+<insert map showing bus stops>
+
+### Car {-#car}
+
+Car parking is available next to Forestry on Agronomy Road ($20/day). Parking permits can be purchased [here](https://parking.ubc.ca/permits-rates). Designated parking stalls are available for car share services.
+
+Uber or Lyft are ride sharing apps that can be used as an alternative.
+
+### Bike {-#bike}
+
+Public bike racks are available outside of the FSC building. Unfortunately bicycle theft is a problem in Vancouver and at UBC so please keep your bike safe with a lock. The FSC complex also has secured bike racks in room 0711 in the basement. Space is limited, inquire at FCS Reception.
+
+### From Vancouver Island {-#ferry}
+
+The 620 bus connects the transit system from Bridgeport station to the Tsawwassen ferry terminal (in both directions). It departs (from both directions) roughly around the hour, and depending on season/time of day it may have multiple buses that leave in 5-10 minute spacing around the hour. Often waiting for the second bus can be a great option if you want to have a seat/space to work on the go - but ensure there will be another bus or you will be waiting for an hour! From Bridgeport to UBC the most efficient routes are taking the skytrain either to Langara-49th station and then the 49 bus towards UBC, or taking the skytrain one stop further to Oakridge-41st and taking the R4 Rapid Bus towards UBC. These routes are also the best in the other direction. It is all ways a good idea to use Google Maps or Apple Maps to plan your route and see how long it will take you, and what route will be most efficient.
+
+Buses 44, 4 and 14 stop at Waterfront Station, linking up with buses that go to Horseshoe Bay Ferry Terminal. The seaplane terminal is also a short walk from Waterfront Station.
+
+## Getting around UBC {-#navigatingUBC}
+
+You can use the [UBC wayfinder](https://www.maps.ubc.ca/) to locate rooms and buildings on campus. 
+
+The [Forest Sciences Centre (FSC)](https://www.google.com/maps/place/UBC+Faculty+of+Forestry/@49.2608897,-123.2505023,17z/data=!4m6!3m5!1s0x548672cbc1b06175:0xcf03ffb2c3a1dafb!8m2!3d49.2604859!4d-123.2488265!16s%2Fg%2F11bw_6ls11?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D) is the home of the Faculty of Forestry and will likely be where you spend a great deal of your time at UBC. See more [here](#buildingorientation)
+
+### Safety at UBC {-#ubcsafety}
+
+Please visit the [UBC Safety & Prevention website](https://security.ubc.ca/safety-prevention-resources/) for information on staying safe at UBC. 
+
+[Emergency Blue Phones](https://security.ubc.ca/safety-prevention-resources/emergency-blue-phones/) are located across the UBC campus and are operated by UBC Campus Security on a 24/7 basis. The Emergency Blue Phones are a camera system with a button-activated emergency phone which connects directly with a Campus Security phone number. Campus Security encourages the use of this resource in circumstances when:
+
+*A crime is witnessed
+*You feel unsafe and need assistance
+*You are ill or require medical attention
+*You require assistance or directions
+
+[AMS Safewalk](https://www.ams.ubc.ca/support-services/student-services/safewalk/) is a student-run safety service designed for anyone on the UBC campus who is traveling alone. Driving and walking teams are available to accompany individuals to their desired location after dusk. Safewalk prioritizes those who are vulnerable and feel unsafe traveling alone, allowing them to travel with a greater sense of security. The service is intended to give safe means of accompaniment when no other form is available. AMS Safewalk is operated from 8:00PM-2:00AM from September-April and 9:00PM-2:00AM May-August. To make use of Safewalk, either:
+
+*Call us at 604-822-5355
+*Drop by our office at NEST 1314
+
+You will be asked for your location, desired destination, contact number, first name, and student number (if applicable).
+
+
+**If in immediate danger, call 9-1-1.**

@@ -1,0 +1,63 @@
+# Shared Digital Workspaces {-#shareddigital}
+
+## CDL Github {-#github}
+
+The CDL [Github](https://github.com/ConservationDecisionsLab/CDL-lab-handbook) hosts the [Conservation Decisions Lab Handbook](https://conservationdecisionslab.github.io/CDL-lab-handbook/), which should be treated as your primary point of reference during your time with the lab. The lab manual provides a comprehensive overview of lab processes and information pertaining to your progression through your degree and time with the lab. This handbook is  a living document and is hosted on Github so that it can be continuously updated by lab members as information needs to be changed or added. Instructions for adding to the handbook directly can be found in the last section of the handbook, or you can write/rewrite a section and email your changes to Riley or Aidan who will then make the necessary changes on Github.
+
+For those who have not yet been introduced to GitHub, it is a website for developers and programmers to collaboratively work on code. The primary benefit of GitHub is its version control system, which allows for seamless collaboration without compromising the integrity of the original project. The projects on GitHub are examples of open-source software. The [CDL GitHub repository](https://github.com/ConservationDecisionsLab) can also be used by lab members as one would normally use Github for project organization such as storing code, etc.
+
+## Dropbox {-#dropbox}
+
+The [Conservation Decisions Lab Dropbox](https://www.dropbox.com/home/Conservation%20Decisions%20Lab?di=left_nav_browse) is currently used for storing lab documents (e.g., copies of publications, document templates, et cetera) and media. If you do not have access to the lab Dropbox, please talk to Madeline. Also, if you need a paid subscription to Dropox to have more storage space, talk to Tara or Madeline.
+
+## Google Drive {-#googledrive}
+
+Our shared [CDL Google Drive](https://drive.google.com/drive/u/0/folders/1S0HorbfWMeabPMoyvBvCEPGnz0_FGVXy) is used to host shared documents that need to be edited collaboratively. This includes lab meeting schedule & notes, contact lists, JEDI materials, event planning (e.g., conferences, lab events), and lists of publications/conferences/presentations. If you do not have access to the lab Google Drive, please talk to Madeline.
+
+## Shared Network Drive {-#sharednetworkdrive}
+
+The shared network drive can be used to store large spatial and media files in a central, secure location. It is a useful way to back up files to the UBC server, and to allow large files to be shared with others in the lab instead of emailing them. You can encrypt files on the drive to maintain data security. The lab pays for storage (cost increases with quantity stored so please discuss with Tara if planning to use for large amounts of data).
+
+The shared network drive for the lab is called **T Martin lab network drive**, and is stored on the UBC server. It is available to lab members that have a UBC email address and CWL, and can be accessed off-campus via the VPN. Access to this shared drive is managed by Norm Hodges who will require your CWL to ensure your access to the workspace. This drive is capped at 20GB.
+
+Instructions on how to map the network drive can be found [here](https://it.ubc.ca/services/web-servers-storage/teamshare-storage-service/mapping-or-mounting-teamshare-macos). In step 2 of the instructions, login with the domain ‘ead’ and your CWL ID (eg. ead\finnr). You may need to be on ubcsecure wifi network rather than eduroam to connect to the drive.  You can also connect from off campus if you’re on the UBC VPN. If you are having trouble connecting, contact Riley (<riley.finn@ubc.ca>) or Madeline (<madelinewoodley22@gmail.com>) to ensure that you were given access. If this does not solve the issues contact Norm Hodges to help trouble shoot. 
+
+The shared network drive is being considered as a potential platform for data archiving, though this is a work in progress. Please discuss with Tara when preparing to finish your time in the lab to determine whether storing your data here is appropriate.
+
+## Lab Workstation {-#workstation}
+
+The lab workstation, or remote desktop, is a computer that is available for the lab to use when a task requires more power/RAM than is available with our laptops or personal computers. The computer itself sits in the lab room 3202, but can be connected to from anywhere you have access to the UBC VPN.
+
+Please store any files that you need on the [shared drive](sharednetworkdrive) or the H drive rather than on the 3202a workstation/C drive as this system is reserved for running software that demands lots of memory and RAM. No one user should be taking up more than 10GB. Space usage is monitored.
+
+Scheduling time is done through the workstation-booking channel on [Slack](#slack). You will be admitted to the CD Slack channel upon request by the lab manager. When using the remote workstation please be sure to monitor the slack channel as some lab members leave software running over night.
+
+### Remote Desktop Connection {-#remoteconnect}
+
+Connect to the UBC VPN guide on how to connect found here). The application ‘Remote Desktop Connection’ will connect you to the workstation. Access this by searching it in the Start Menu. Enter the link **frst-fcs-3202a.ead.ubc.ca** and your UBC credentials (ensure the domain is EAD\).
+
+Once you have logged in for the first time you can create a shortcut to bypass the above steps. With the Remote Desktop Connection window open, click ‘show options’ and then save as to add the shortcut to your desktop or another location.
+
+#### Useful settings {-#settings}
+
+Settings are available in the Remote Desktop Connection window under ‘show options’. 
+
+By default, when you connect to the workstation it will open up on only one of your screens (assuming you have multiple screens). To expand the workstation across your whole computer, tick ‘use all my monitors’ under the display tab. If the connection bar at the top of the screen gets in your way, you can hide it by unticking the box at the bottom of the display tab. To bring the connection bar back temporarily, use ctrl+alt+home. You can also move and shorten the connection bar.
+
+To link your local drives and folders to the workstation, go to the local resources tab, then ‘more’, and tick ‘drives’. This will mean that all your folders from your regular computer will be available through the workstation (note that this step will not work on UBC-owned computers due to the way they are configured). To link the lab shared drive, map the drive as you did originally (see lab handbook for instructions).
+
+If you are doing a task that requires a lot of power and is causing things to lag, you can reduce the colour depth under the display tab to improve performance.
+
+Only one person can be logged onto the workstation and using applications at any one time. However, multiple people can also have things running in the background whilst being disconnected, and this can happen while someone else is logged in. For example, two lab members can have code running in R on the workstation while another lab member is logged in and using ArcGIS. Note that anything running in the background may slow down work that someone is doing whilst logged in, and vice versa.
+
+To access the task manager (for example, if an application is not responding and you need to end the task), use ctrl+alt+end. Note that ctrl+alt+del will bring up the task manager for your local computer.
+
+The default settings keep the clipboard activated, so you can copy and paste between the local computer and the workstation.
+
+#### Logging out/disconnecting {-#disconnectingremote}
+
+DO NOT CLICK SHUT DOWN when using the workstation. Clicking shut down instead of disconnecting or logging out of the computer will turn the device off completely, meaning someone will have to go into the lab and physically turn it back on. This will not be damaging in any way, just an inconvenience, unless another user is running something in the background, then their work will be lost. 
+
+Disconnecting from the workstation will take you back to your local computer, but the workstation will stay open in the background and whatever tasks you had running will continue. To disconnect, click the cross on the right of the connection bar at the top of the screen.
+
+Logging off is the same as for your local computer, i.e. unsaved work will be lost. Log off by clicking on your name under the Start Menu. Please log off whenever you have finished using the workstation.

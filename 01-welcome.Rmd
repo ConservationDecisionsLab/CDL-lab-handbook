@@ -1,5 +1,8 @@
 # Welcome {-#welcome}
 
+![lab logo](img/CDL logo horizontal - colour.png)
+
+
 Welcome to the [Conservation Decisions Lab](https://www.taramartin.org/) (CDL)! As a team of researchers, graduate students, and educators, led by Dr. Tara Martin, we aspire to use our skills to support biodiversity conservation, cultural revitalization and thriving communities.
 
 This handbook has been designed to be a landing page for all lab members. For incoming team members, this handbook provides a useful overview to how our lab functions, and offers helpful resources to make the transition to Vancouver, UBC and/or our team as smooth as possible! For current team members, this handbook will continue to be and should be treated as a primary point of reference as you move through your time in the lab. 

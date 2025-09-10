@@ -42,15 +42,35 @@ If based in Vancouver, you will spend a great deal of your time in the [Forest S
 
 Pedro Ribeiro (<pedro.ribeiro@ubc.ca>) also offers incoming staff/student/faculty tours of the Forestry building if desired. You can also ask Madeline for a tour of the building if you've not already been offered one.
 
+**Mailing address:** 
+NAME, Conservation Decisions Lab
+C/O Pedro Ribeiro
+Forest Sciences Centre, UBC
+3041-2424 Main Mall 
+Vancouver, B.C. 
+V6T 1Z4
+
+This will go to the FCS reception, so you should talk to Pedro Ribeiro (<pedro.ribeiro@ubc.ca>) prior to shipping anything to that address (especially large or expensive items).
+
 ### Lab Room (FSC 3202) {-#labroom}
 
 The lab room (FSC 3202) is a shared workplace and all lab members should feel welcome to use the space, with the understanding that our research techs (Riley, Aidan, Madeline & Megan) use this room as their shared office. Please be respectful of this by being quiet if folks are working and/or in meetings, cleaning up after yourself, and helping replenish supplies you use often (honour system).
 
 The lab room has a kitchen space with various appliances, including a fridge, kettle, microwave, panini press, drip coffee machine, and espresso machine. Generally, the room is also stocked with milk, coffee (caffeinated & decaf), tea, honey, and chocolate. All lab members are welcome and encouraged to use these supplies, but please contribute by keeping things clean and restocked!
 
-In terms of work-related supplies/equipment, the lab room is equipped with a white-board and projector. The lab room also hosts two high-powered desktop computers which can be helpful when running large datasets and can be accessed remotely. This is available to all lab members, just make sure it is not in use before accessing it. For more information, ask Riley (<riley.finn@ubc.ca>). There are also a host of office supplies and tech accessories in the lab room – cupboards & drawers are labelled, and you can ask the research techs if you require something specific.
+In terms of work-related supplies/equipment, the lab room is equipped with a white-board and two projectors (one portable and one ceiling-mounted). The portable projector can be used for meetings and gatherings as needed (see cabinet labelled "CDL Tech Equipment" in FSC 3202. The ceiling-mounted projector includes an electronic screen, and both are controlled from the panel to the right of the whiteboard. Notify one of the research techs for any issues with the lab projector set up, or contact [UBC AV services](https://it.ubc.ca/got-question-about-it-products-and-support#avhelpdesk).
+
+The lab room also hosts two high-powered desktop computers which can be helpful when running large datasets and can be accessed remotely. This is available to all lab members, just make sure it is not in use before accessing it. For more information, ask Riley (<riley.finn@ubc.ca>). There are various office supplies and tech accessories in the lab room – cupboards & drawers are labelled, and you can ask the research techs if you require something specific.
 
 Finally, the lab room houses our lab library (shelves on the wall above Madeline & Aidan’s workspaces). Folks are welcome to borrow from this library and use the sign-out sheet on the freezer when you borrow/return a book.
+
+#### Specimen Fridge and Freezer {-#specimenfreezer}
+
+There is a specimen freezer in the lab room that is available for storing biological samples. We are hoping to move this to the wet lab space or basement in the near future and will update the location accordingly. The fridge for storing food is under the bench in the kitchen area. Please keep food and samples separate!
+
+### UBC Storage Locker {-#storagelocker}
+
+The lab has a storage locker in the basement of FSC where some of our field equipment is stored. Ask Aidan or Madeline if you require access to this space.
 
 ### Tara's Office (FSC 4607) {-#taraoffice}
 
@@ -66,19 +86,36 @@ All graduate students should receive their own desk in one of the shared student
 
 ### Common Spaces {-#commonspaces}
 
-#### Forestry Graduate Student Lounge (FSC 1715)
+#### Forestry Graduate Student Lounge (FSC 1715) {-#FGSAlounge}
 
 The FGSA has a small student lounge (FSC 1715) on the main floor of the building, toward the end of the long hallway behind the Tim Horton’s Restaurant. This room is exclusively for Forestry grad student use. The lounge has comfortable seating, as well as an eating area and small kitchen. FGSA funds have been used to furnish and maintain this room. Please respect the space and your graduate colleagues by leaving the room cleaner than you found it, particularly in the kitchen area. UBC custodial staff do not clean or maintain the lounge. The lounge door has a coded lock and this room is only for Forestry graduate  students. If you need the code, please email <forestry.cbm@ubc.ca>
 
-#### Forestry Staff Lounge (FSC 4003)
+#### Meeting Rooms {-#meetingrooms}
+
+Meeting rooms and TA pods can be booked through your UBC Outlook Calendar (must be done via computer). A list of rooms that are allowed to be booked self-serve is sent out monthly to your UBC email and includes the tech equipment for each room, currently (2024-10-29) this includes: 
+
+- 2101 Meeting room, 8 people
+- 3003 Meeting room, 10 people
+- 3101 Meeting room, 8 people
+- 4001 Meeting room, 18 people
+- 4101 Meeting room, 8 people
+- 2500A/B/C TA Pods
+
+In your Outlook calendar you simply fill out the “Location” field (search using “Forestry” as the keyword and then check if room is available). To ensure your booking is accepted, it is recommended that you:
+
+- to include a brief descriptor for their meeting (i.e. MSc/PhD committee meeting, research lab meeting, etc.)
+- to include their department name and/or supervisor’s name
+- to include their department admin in the CC/Optional Recipient field to assist with granting access to the meeting space (esp. for FSC 4001)
+
+#### Forestry Staff Lounge (FSC 4003) {-#stafflounge}
 
 The staff lounge is located on the fourth floor in FSC 4003. This space is equipped with a kitchen and seating for use by staff. Please be respectful as this is a shared space. This room is often booked for events, so make sure to keep an eye our for emails from Forestry Reception regarding lounge & kitchen availability.
 
-#### Kitchen & Mail Room (FSC 3039)
+#### Kitchen & Mail Room (FSC 3039) {-#FCSkitchen}
 
 The third floor kitchen (FSC 3039) is available to students, staff and faculty in the Forest & Conservation Sciences Department. This room is equipped with a fridge, sink and microwave for shared use. Please be respectful as this is a shared space. This also serves as the mail room, should staff need to pick up anything on Tara's behalf. Should you require access to this room after 5pm, see [After Hours Access](#afterhoursaccess) for information. 
 
-#### Printing Room (FSC 3005)
+#### Printing Room (FSC 3005) {-#printing}
 
 FSC 3005 is home to a shared printer machine for use by members of the Forest & Conservation Sciences Department. Scanning is free but printing will require a code which charges ink and paper costs to a Worktag associated with each lab. Our printing code is 4-2-6-5-2-0. Please use printing services consciously and let Tara or Madeline know if you anticipate incurring high printing costs. Should you require access to this room after 5pm, see [After Hours Access](#afterhoursaccess) for information. 
 
@@ -86,21 +123,31 @@ FSC 3005 is home to a shared printer machine for use by members of the Forest & 
 
 The FSC building is locked after 5pm - this includes exterior and interior doors. All students and staff should automatically receive after hours access with their UBC cards, but should confirm with Pedro. Shared rooms, such as the third floor printing room and kitchen are also locked at 5pm and are not accessible by key cards. To access these two rooms after hours, you will need to visit the lockbox located outside FSC 3301 (on your left at the end of the hallway from our lab room (FSC 3202), headed East). There you will find a big grey box mounted on the wall. To access the key to the mail and printer rooms, use the black card scanner to scan your UBC card and unlock the lockbox. When you open the cabinet door, the keys you have access will light up in red and the screen outside the lockbox will tell you which rooms they are associated with. For most people, only the one key will light up and will show up as PRINT/KIT/MAIL. Pull this key out and close the cabinet door. Use this key to unlock whichever of the rooms you require and make sure the door is locked when you are finished. Scan your card to open the lockbox and insert the key back in its designated spot (highlighted in red) and close the lockbox door. If you do not return the key, FCS admin will contact you as your name will register as the last person to have accessed the key.
 
+For after hours access issues call Campus Security 604 822 2222.
+
 ## Work Supplies & Technology {-#worksupplies}
 
-Each lab member should ensure they have the necessary work materials/equipment (email Madeline/Tara if you require a work computer, monitor, or other work equipment). 
+Each lab member should ensure they have the necessary work materials/equipment (before purchasing anything new, email Madeline if you require a work computer, monitor, or other work equipment as the lab may have extras available). 
 
 There are several on-campus options for acquiring necessary work supplies (i.e., stationary, tech accessories), including Staples (101-2135 Allison Rd) and the UBC Bookstore (6200 University Boulevard).
 
 Norman Hodges (<norman.hodges@ubc.ca>) keeps an up-to-date record of available laptops for our lab. If you are using a lab-owned computer, Norm will hold admin privileges and oversee maintenance so please direct computer-related questions to him. If you are working remotely, it is possible to request admin privileges but you will need to coordinate this with Norm. 
+Funding can be made available to purchase additional hardware space, RAM, and higher functioning devices if need be; if required, please connect with Tara to discuss. A list of the devices that are most commonly ordered through UBC can be found [here](https://it.ubc.ca/services/desktop-print-services/desktop-and-laptop-setup-and-support/desktop-laptop-and-hardware). 
+
+If/while you are in possession of a lab-owned laptop you are expected to ensure proper care of the device by observing the following best practices (see below). In general, if you’re prompted to update software, don’t ignore the prompts indefinitely.
+
+* On the weekend after the second Tuesday of the month (otherwise known as Microsoft Patch Tuesday), do the following:
+  * Start > Settings > Update & Security > Check for updates, allow the laptop to update and restart. 
+* If a laptop user doesn’t routinely connect to the UBC VPN, they should connect for an hour or so every couple weeks to ensure Windows and Office licenses are updated and to ensure malware protection is updated.
+* Otherwise, just remember the laptop is a fairly expensive piece of equipment. It’s not a hammer or a crowbar :-)
 
 ### Software {-#softwaresupplies}
 
-UBC offers students, staff and faculty a number of software licenses for free, or at a discount. If you require a software that is not offered for free through UBC, please discuss with Tara to determine whether this is something that can be covered. If you are working on a lab-owned computer you may require Norm to download software applications for you as he holds administrative privileges.
+UBC offers students, staff and faculty a number of software licenses for free, or at a discount. If you require a software that is not offered for free through UBC, please discuss with Tara to determine whether this is something that can be covered. If you are working on a lab-owned computer you will need to provide Norm with a list of the software you require as he holds administrative privileges to lab-owned computers and will need to download most software applications on your behalf.
 
 The [UBC On the Hub](https://ubc.onthehub.com/WebStore/Welcome.aspx) website is a good first point of reference to check what licenses are available to you through your UBC affiliation, though there are a number of commonly-used licenses not listed. If you have questions regarding a specific software, Norm (<norman.hodges@ubc.ca>) or Madeline are good points of contact. See below for information on how to access commonly-requested software licenses:
 
-#### Adobe Acrobat
+#### Adobe Acrobat {-#adobe}
 
 UBC no longer covers the cost of Adobe Acrobat Pro and Adobe Acrobat Creative Cloud. For those who need Adobe Acrobat Pro (offers you the ability to read and edit PDFs), Tara is happy to cover that annual cost. You will need request a Worktag from Madeline in order to purchase an annual subscription at [UBC On the Hub](https://ubc.onthehub.com/WebStore/Welcome.aspx). 
 
@@ -112,15 +159,15 @@ Note that the annual cost for users will be:
 - Adobe Acrobat Pro: $38.00 
 - Adobe Creative Cloud: $129.50
 
-#### ArcGIS Pro
+#### ArcGIS Pro {-#ArcGIS}
 
-ArcGIS Pro licenses are offered for free through UBC. Download the software from the [ArcGIS website](https://pro.arcgis.com/en/pro-app/latest/get-started/download-arcgis-pro.htm) (or ask Norm to do this for you if using a UBC-owned computer) and email <gis.forestry@ubc.ca> to request an account. 
+ArcGIS Pro licenses are offered for free through UBC. Download the software from the [ArcGIS website](https://pro.arcgis.com/en/pro-app/latest/get-started/download-arcgis-pro.htm) (or ask Norm to do this for you if using a UBC-owned computer) and email <gis.forestry@ubc.ca> to request an account.  We also encourage the installation of [QGIS](https://qgis.org/download/) as a great free and open source alternative to ArcGIS. 
 
-#### OneDrive
+#### OneDrive {-#onedrive}
 
 OneDrive licenses are offered for free through UBC. See the [IT Website](https://it.ubc.ca/services/web-servers-storage/microsoft-onedrive) for instructions and contact Norm if you have questions.
 
-#### Zoom
+#### Zoom {-#zoom}
 
 Zoom business licenses (unlimited call times) are offered for free through UBC. Download the software from the [Zoom Website](https://zoom.us/download) and visit the [UBC Self Service Portal](https://ubc.service-now.com/selfservice) to submit a request with the UBC IT (Request A Service > Request Access to an IT Service > fill in ticket).
 
@@ -134,7 +181,14 @@ See here to view [statutory holidays](https://hr.ubc.ca/working-ubc/statutory-ho
 
 The FSC building has compost, recycling, and garbage programs which are managed by the University. Bins are located in hallways throughout the building and have signage to inform sorting. Garbage bins in office and lab rooms are emptied by janitorial staff, but compost and recycling must be emptied by room occupants into the relevant hallway bins.
 
-If disposing of hazardous waste (e.g., sharps), please contact Pedro Ribeiro (<pedro.ribeiro@ubc.ca>) or Rolando Descalzo (<rolando.descalzo@ubc.ca>) for guidance on appropriate procedures.
+If disposing of hazardous waste (e.g., sharps), please contact Pedro Ribeiro (<pedro.ribeiro@ubc.ca>) or Rolando Descalzo (<rolando.descalzo@ubc.ca>) for guidance on appropriate procedures. Some items/substances that may be used in the lab and are subject to safe disposal protocols are:
+
+* Sharps (syringes, razors, blades)
+* Animal blood
+* Uncontaminated animal carcasses
+* Introduced species (includes soil and plants)
+
+Sharps disposal containers can be purchased from the Chemistry Store on the corner of Main Mall and University Boulevard using a journal voucher.
 
 If offloading items that are still in working condition but no longer required, there are a couple of avenues for rehoming. For items that have high relevance to other Forestry members, a first step would be to contact Pedro about circulating an email out to Faculty of Forestry mailing lists to gauge interest. Other options include [Rheaply](https://app.rheaply.com/login?returnurl=%2F), which can be signed into with your UBC email, Facebook Marketplace, or a local thrift store.
 
