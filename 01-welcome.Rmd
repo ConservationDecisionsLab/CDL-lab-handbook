@@ -1,6 +1,6 @@
 # Welcome {-#welcome}
 
-![lab logo](img/CDL logo horizontal - colour.png)
+![](img/CDL logo horizontal - colour.png)
 
 
 Welcome to the [Conservation Decisions Lab](https://www.taramartin.org/) (CDL)! As a team of researchers, graduate students, and educators, led by Dr. Tara Martin, we aspire to use our skills to support biodiversity conservation, cultural revitalization and thriving communities.
