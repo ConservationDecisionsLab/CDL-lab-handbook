@@ -66,19 +66,19 @@ All graduate students should receive their own desk in one of the shared student
 
 ### Common Spaces {-#commonspaces}
 
-**Forestry Graduate Student Lounge (FSC 1715)**
+#### Forestry Graduate Student Lounge (FSC 1715)
 
 The FGSA has a small student lounge (FSC 1715) on the main floor of the building, toward the end of the long hallway behind the Tim Horton’s Restaurant. This room is exclusively for Forestry grad student use. The lounge has comfortable seating, as well as an eating area and small kitchen. FGSA funds have been used to furnish and maintain this room. Please respect the space and your graduate colleagues by leaving the room cleaner than you found it, particularly in the kitchen area. UBC custodial staff do not clean or maintain the lounge. The lounge door has a coded lock and this room is only for Forestry graduate  students. If you need the code, please email <forestry.cbm@ubc.ca>
 
-**Forestry Staff Lounge (FSC 4003)**
+#### Forestry Staff Lounge (FSC 4003)
 
 The staff lounge is located on the fourth floor in FSC 4003. This space is equipped with a kitchen and seating for use by staff. Please be respectful as this is a shared space. This room is often booked for events, so make sure to keep an eye our for emails from Forestry Reception regarding lounge & kitchen availability.
 
-**Kitchen & Mail Room (FSC 3039)**
+#### Kitchen & Mail Room (FSC 3039)
 
 The third floor kitchen (FSC 3039) is available to students, staff and faculty in the Forest & Conservation Sciences Department. This room is equipped with a fridge, sink and microwave for shared use. Please be respectful as this is a shared space. This also serves as the mail room, should staff need to pick up anything on Tara's behalf. Should you require access to this room after 5pm, see [After Hours Access](#afterhoursaccess) for information. 
 
-**Printing Room (FSC 3005)**
+#### Printing Room (FSC 3005)
 
 FSC 3005 is home to a shared printer machine for use by members of the Forest & Conservation Sciences Department. Scanning is free but printing will require a code which charges ink and paper costs to a Worktag associated with each lab. Our printing code is 4-2-6-5-2-0. Please use printing services consciously and let Tara or Madeline know if you anticipate incurring high printing costs. Should you require access to this room after 5pm, see [After Hours Access](#afterhoursaccess) for information. 
 
@@ -92,11 +92,37 @@ Each lab member should ensure they have the necessary work materials/equipment (
 
 There are several on-campus options for acquiring necessary work supplies (i.e., stationary, tech accessories), including Staples (101-2135 Allison Rd) and the UBC Bookstore (6200 University Boulevard).
 
-Norman Hodges (<norman.hodges@ubc.ca>) keeps an up-to-date record of available laptops for our lab. If you are using a lab-owned computer, Norm has admin privileges and will oversee maintenance so please direct questions to him. If you are working remotely, it is possible to request admin privileges but you will need to coordinate this with Norm. 
+Norman Hodges (<norman.hodges@ubc.ca>) keeps an up-to-date record of available laptops for our lab. If you are using a lab-owned computer, Norm will hold admin privileges and oversee maintenance so please direct computer-related questions to him. If you are working remotely, it is possible to request admin privileges but you will need to coordinate this with Norm. 
 
 ### Software {-#softwaresupplies}
 
-Download necessary softwares from the [UBC On the Hub](https://ubc.onthehub.com/WebStore/Welcome.aspx) website. Talk to Tara & Madeline if you require a software that is not offered for free through UBC and requires payment. If you are using a lab-owned computer, you will need to let Norm Hodges (<norman.hodges@ubc.ca>) know what software you require so he can use his admin privileges to approve installation. As mentioned above, if you are using a lab-owned computer but work remotely it is possible to request admin privileges for the computer, but you will need to coordinate this with Norm.
+UBC offers students, staff and faculty a number of software licenses for free, or at a discount. If you require a software that is not offered for free through UBC, please discuss with Tara to determine whether this is something that can be covered. If you are working on a lab-owned computer you may require Norm to download software applications for you as he holds administrative privileges.
+
+The [UBC On the Hub](https://ubc.onthehub.com/WebStore/Welcome.aspx) website is a good first point of reference to check what licenses are available to you through your UBC affiliation, though there are a number of commonly-used licenses not listed. If you have questions regarding a specific software, Norm (<norman.hodges@ubc.ca>) or Madeline are good points of contact. See below for information on how to access commonly-requested software licenses:
+
+#### Adobe Acrobat
+
+UBC no longer covers the cost of Adobe Acrobat Pro and Adobe Acrobat Creative Cloud. For those who need Adobe Acrobat Pro (offers you the ability to read and edit PDFs), Tara is happy to cover that annual cost. You will need request a Worktag from Madeline in order to purchase an annual subscription at [UBC On the Hub](https://ubc.onthehub.com/WebStore/Welcome.aspx). 
+
+If you use and need Adobe Creative Cloud, please connect with Tara or Madeline to discuss.
+
+Note that the annual cost for users will be:
+
+- Adobe Acrobat Reader: Free
+- Adobe Acrobat Pro: $38.00 
+- Adobe Creative Cloud: $129.50
+
+#### ArcGIS Pro
+
+ArcGIS Pro licenses are offered for free through UBC. Download the software from the [ArcGIS website](https://pro.arcgis.com/en/pro-app/latest/get-started/download-arcgis-pro.htm) (or ask Norm to do this for you if using a UBC-owned computer) and email <gis.forestry@ubc.ca> to request an account. 
+
+#### OneDrive
+
+OneDrive licenses are offered for free through UBC. See the [IT Website](https://it.ubc.ca/services/web-servers-storage/microsoft-onedrive) for instructions and contact Norm if you have questions.
+
+#### Zoom
+
+Zoom business licenses (unlimited call times) are offered for free through UBC. Download the software from the [Zoom Website](https://zoom.us/download) and visit the [UBC Self Service Portal](https://ubc.service-now.com/selfservice) to submit a request with the UBC IT (Request A Service > Request Access to an IT Service > fill in ticket).
 
 ## Academic Calendar {-#academiccalendar}
 

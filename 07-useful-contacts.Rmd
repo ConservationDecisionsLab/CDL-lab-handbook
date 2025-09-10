@@ -1,15 +1,83 @@
-# Useful Contacts {#contacts .unnumbered}
+# Useful Contacts {-#contacts}
 
-A contact list for all lab members (including the Arcese lab), contacts within the university, and external project-related contacts can be found on the [shared Z drive](#sharednetworkdrive) and on the [shared Dropbox folder](#dropbox). There are many UBC employees that are equipped with knowledge that can make the transition from a new student to an informed student seamless.
+## Conservation Decisions Lab Contacts {-#CDLcontacts}
 
-Contacting the current CDLab manager with inquiries is always welcome and encouraged. Please do not hesitate to ask for guidance in regards to whom to contact with questions or concerns.
+See our [Contact List](https://docs.google.com/spreadsheets/d/1quiYCbANENkMZTp_nWQXqrlF63tJQpt369xL_pI7t1U/edit?gid=1411850798#gid=1411850798), stored in our shared Google Drive, for an up-to-date contact list for lab members as well as collaborators subscribed to our CDL-EXTERNAL mailing list (see below).
 
-Natasha Thompson ([Natasha.thompson\@ubc.ca](mailto:Natasha.thompson@ubc.ca)) is the FCS receptionist -- is the go-to person for general admin related to the department.
+-	Dr. Tara Martin (<tara.martin@ubc.ca>) 
+  - As your supervisor and the lab’s PI, Tara will be your primary contact for matters related to your degree and you will need Tara’s approval when requesting support or supplies
+-	Madeline Woodley (<madelinewoodley22@gmail.com>) 
+  - As the lab manager, Madeline will be a point person; you can come to her with any question and she will help or direct you to someone better suited; it is helpful to CC Madeline when contacting Tara regarding scheduling or finances (so long as it is not confidential) so she can help ensure things are dealt with; also, if you are having trouble contacting Tara regarding a time-sensitive matter, contact Madeline and she can help you get in touch more immediately
+-	Aidan Haigh (<aidanhaigh@gmail.com>) 
+  - As our field coordinator, Aidan can help with all questions related to field equipment and scheduling; if you require use of the boat or truck, let Aidan know and he will coordinate this with Tara
+-	Riley Finn (<riley.finn@ubc.ca>) 
+  - As our senior research tech, Riley is an amazing resource – particularly for questions regarding coding and spatial analyses; having done his undergrad and master’s at UBC, Riley also has a wealth of knowledge about graduate life and UBC/CDL processes
+  
+### CDL Listservs {-#CDLlistserv}
 
-Andrea Chan ([andrea.chan\@ubc.ca](mailto:andrea.chan@ubc.ca)) is an FCS administrator -- Salary, training, hiring paperwork, taxes, graduate research assistant hiring. 
+The CDL listservs are used to communicate about events, resources, and opportunities, either within the lab (**CDL-INTERNAL**), or with the lab and our close collaborators (**CDL-EXTERNAL**). See below for more details pertaining to our two listservs. 
 
-Christine Mutia ([christine.mutia\@ubc.ca](mailto:christine.mutia@ubc.ca)) is our Finance Specialist for FSC -- out of pocket expenses. 
+Access the UBC Mailing Lists dashboard [here](https://lists.ubc.ca/). Once on the lists dashboard, copy and paste **CDL-INTERNAL** or **CDL-EXTERNAL** into the *“Access unlisted lists”* search bar. This will take you to the page for this mailing list. In the top right corner there will be a button (three lines) which contains a dropdown menu. Select *"Subscribe or Unsubscribe"* and you will be brought to the subscription page. Enter your name and preferred email address, choose *'regular subscription'*, and then hit subscribe. You will then need to click the link sent to your preferred inbox to confirm your subscription (Gmail users be sure to check your spam/junk). There is an option to log in with your CWL if you want to register with your UBC email, however some folks have had issues when they have done this so it is recommended you first try subscribing without logging in.
 
-Rosemarie Cheng ([rosemarie.cheng\@ubc.ca](mailto:rosemarie.cheng@ubc.ca)) -- grant management Alice Miao ([alice.miao\@ubc.ca](mailto:alice.miao@ubc.ca)) -- Grant application, NSERC, application and processing of grants. 
+If you prefer, or run into issues, you can email Madeline (<madelinewoodley22@gmail.com>) and ask to be added. Please identify your preferred email and which list(s) you would like to be added to.
 
-Norm Hodges -- IT ([norman.hodges\@ubc.ca](mailto:norman.hodges@ubc.ca))
+**1.	CDL-INTERNAL**
+The CDL-INTERNAL listserv (<CDL-INTERNAL@lists.ubc.ca>) is used to communicate internally, within the Conservation Decisions Lab. This includes anything from scheduling, to sharing resources, to asking questions of the group.
+**2.	CDL-EXTERNAL**
+The CDL-EXTERNAL listserv (<CDL-EXTERNAL@lists.ubc.ca>) is used to communicate with the lab and our collaborators. This generally includes communications about lab meetings and open events, as well as sharing resources and opportunities with our broader network.
+
+
+## Forestry (Forest & Conservation Sciences Department) Contacts {-#FCScontacts}
+
+-	Pedro Ribeiro (<pedro.ribeiro@ubc.ca>); HR Analyst/Administrative Support
+  - Contact for staff appointments & concerns, and questions regarding building and/or department processes
+-	Andrea Chan (<andreachan@ubc.ca>); Administrative Support for FCS Department
+  - Contact for items concerning student appointments & awards
+-	Sylvia Ho (<sylvia.ho@ubc.ca>); Administrator for FCS Department
+  - Tara and Madeline contact Sylvia for higher administrative concerns
+-	Christine Mutia (<christine.mutia@ubc.ca>); Financial Processing Specialist
+  - Contact for questions regarding reimbursement claims or VISA reconciliations (the latter only concerns Tara/Madeline)
+-	Rosemarie Cheng (<rosemarie.cheng@ubc.ca>); Financial Analyst
+  - Tara and Madeline contact Rosemarie for questions concerning grant management
+-	Norm Hodges (<norman.hodges@ubc.ca>) 
+  - Contact for support with UBC-owned computers
+-	UBC/Forestry IT – (<forestry.ithelp@ubc.ca>); best contacted via the UBC Self Service Portal
+  - Contact for general tech support
+-	Diya Gandhi (<divyapadia.gandhi@ubc.ca>); Graduate Admissions Coordinator
+  - Oversees phases of thesis-based graduate degrees, with a particular focus on Master’s degrees; great general resource
+-	Erica Triggs (<erica.triggs@ubc.ca>); Director, Graduate Student Academic Services
+  - Provides graduate student support and oversees phases of graduate degrees, with a particular focus on PhD degrees; great general resource
+  
+### FCS Listservs {#-FCSlistservs}
+
+You will be automatically added to the appropriate email list for Forestry communications, such as newsletters and the Wednesday Seminar Series. If you think you are not receiving these emails, contact Pedro Ribeiro (<pedro.ribeiro@ubc.ca>).
+  
+## UBC Contacts {-#UBCcontacts}
+
+-	UBC AV services – best contacted via the [UBC Self Service Portal](https://ubc.service-now.com/selfservice) 
+  - Contact for audio-visual support (e.g., the projector in the lab room, setting up a zoom account)
+-	Workday Issues/Questions – submit support request through [UBC Self Service Portal](https://ubc.service-now.com/selfservice)
+-	Benefits Coverage – (visit [HR Benefits website](https://hr.ubc.ca/benefits))
+-	Student Health Services  -- (visit [SHS website](https://students.ubc.ca/health/student-health-service/))
+  - Access to mental health services, nurse practitioners, and general physicians
+-	Workplace Accommodation/Support – (<workplace.accessibility@ubc.ca>) 
+-	Sexual Violence Prevention and Response Office (SVPRO) – (<svpro.vancouver@ubc.ca>) 
+
+### External Listservs {-#externallistservs}
+
+#### Biodiversity Research Centre (BRC) Listserv
+
+ The Biodiversity Research Centre is the group of biodiversity UBC Faculty and Research Scientists who are formally members of the BRC, and their research groups. The BRC have many activities - scientific activities including seminars and discussion groups, as well as social events like ice cream socials, holiday parties and Friday afternoon socials. Of particular interest are their weekly Biodiversity Research Seminar Series, held on Wednesdays at 12pm (location changes, check schedule). See their [website](https://biodiversity.ubc.ca/events) for more information.
+You can self-subscribe or contact BRC Administrator Katie Beall (<katie.beall@ubc.ca>) to join the lists. To **self-subscribe** to the Research mailing list, send an email to <listserv@lists.ubc.ca> from your own account with **"subscribe biodiversity-research"** in the body with no quotation marks (and nothing else, make sure to delete your signature!). Follow the same pattern to subscribe to the other lists as needed.
+
+-	<BIODIVERSITY-RESEARCH@lists.ubc.ca> (for BRC announcements)
+-	<BIODIVERSITY-BIRDING@lists.ubc.ca> (for bird lovers and bird watching activities)
+-	<BIODIVERSITY-BUILDING@lists.ubc.ca>  (for building related announcements, usually for occupants
+
+
+
+
+
+
+
+

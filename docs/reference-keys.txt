@@ -1,3 +1,13 @@
+id_-FCSlistservs
+biodiversity-research-centre-brc-listserv
+forestry-graduate-student-lounge-fsc-1715
+forestry-staff-lounge-fsc-4003
+kitchen-mail-room-fsc-3039
+printing-room-fsc-3005
+adobe-acrobat
+arcgis-pro
+onedrive
+zoom
 useful-settings
 other-things-to-know
 logging-outdisconnecting

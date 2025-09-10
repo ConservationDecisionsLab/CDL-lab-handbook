@@ -1,0 +1,21 @@
+# Offboarding {-#offboarding}
+
+When preparing to close your time with the lab, please refer to the relevant offboarding checklist below.
+
+## Students {-#studentoffboarding}
+
+- Please refer to the [Graduate Student Portal](https://forestry.ubc.ca/students/graduate-student-portal/) and the [Graduate Student Handbook](https://forestry.ubc.ca/files/2023/09/Forestry-Gradbook.pdf) to ensure you have completed the necessary requirements to obtain your degree and apply for graduation
+- Ensure Andrea Chan (<andrea.chan@ubc.ca>) is aware of your appointment end date
+- Contact Pedro Ribeiro (<pedro.rebeiro@ubc.ca>) to end your building access
+- Connect with Tara about archiving your data in the lab repository (currently a work in progress)
+- Clear out your office/workspace and return any equipment belonging to UBC or CDL
+- If desired/appropriate, please unsubscribe from lab mailing lists and digital workspaces (or ask Madeline to do this for you)
+
+
+## Staff {-#staffoffboarding}
+
+- Ensure Pedro Ribeiro (<pedro.ribeiro@ubc.ca>) is aware of your appointment end date
+- Contact Pedro to end your building access
+- Connect with Tara about archiving any data you have been responsible for managing, if stored outside of a lab-managed digital workspace
+- Clear out your office/workspace and return any equipment belonging to UBC or CDL
+- If desired/appropriate, please unsubscribe from lab mailing lists and digital workspaces (or ask Madeline to do this for you)
