@@ -24,7 +24,7 @@ Once you’ve cloned repository you are ready to start editing the files!
 
 ### 3. Workflow for Editing the Handbook {-#editingthebook}
 
-#### 3.1 Pull the latest version of repository {-#pull}
+#### 3.1 Pull the Latest Version of Repository {-#pull}
 
 This should always be your first step when you are beginning to work on a new edit for the manual. This step essentially downloads any changes that may have been made by others. You can think of it like manually asking Dropbox for the latest version of a document that was edited by a collaborator, but rather than one specific document, GitHub tracks changes across the entire repository. In GitHub Desktop you can sync your files by clicking on *Fetch origin* (Figure 3). 
 
@@ -98,7 +98,7 @@ Figure 10: Push the change to the remote repository. You can create multiple com
 
 Just like Dropbox can produce conflicted copies when two people are editing the same document, conflicts can occur in Git. To be honest, I’ve never used GitHub collaboratively so I don’t have the best handle on how this works. As long as two people don’t make different edits to the same section of text, GitHub should be able to integrate edits made to different components of the book. There shouldn’t be to many problems with simultaneous editing as, but it will be a learning experience for all of us and we can add what we learn to this section.
 
-### A Comparative example with Dropbox {-#dropboxcompare}
+### A Comparative Example with Dropbox {-#dropboxcompare}
 
 Below is a table that outlines the steps of collaborating on a document through GitHub and compares them to the functionality of Dropbox. Hopefully this example will help elucidate the general workflow of GitHub, and how the steps provide control over each step of making edits.
 

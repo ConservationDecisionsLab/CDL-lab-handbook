@@ -1,6 +1,6 @@
 # Other Training Resources {-#additionalresources}
 
-## Research and data analysis {-#research}
+## Research and Data Analysis {-#research}
 The UBC Library Research Commons offers a variety of [training workshops](https://researchcommons.library.ubc.ca/workshops/) on data analysis and visualization, GIS, research data and citation management, and various software and online tools, including R, Python, and GitHub.
 
 Coursera is an online training resource that can be an option for additional learning. Some suggested courses include:
@@ -20,7 +20,7 @@ The UBC Centre for Teaching, Learning, and Technology offers [Instructional Skil
 ## Communication and Facilitation {-#communications}
 [Compass](https://www.compassscicomm.org/) has some training resources on how to use the [Message Box](https://www.compassscicomm.org/leadership-development/the-message-box/) to help better communicate our science to different audiences. 
 
-## Other professional development training {-#profdevel}
+## Other Professional Development Training {-#profdevel}
 The [UBC Graduate School](https://www.grad.ubc.ca/current-students/professional-development) and the [Postdoctoral Fellows Office](https://www.postdocs.ubc.ca/professional-development-events) offers professional development training opportunities throughout the year. 
 
 Staff also have access to various learning resources from [UBC Human Resources](https://hr.ubc.ca/career-development/workplace-learning-opportunities), and may be eligible for some [professional development funding](https://hr.ubc.ca/career-development/professional-development-funding). 

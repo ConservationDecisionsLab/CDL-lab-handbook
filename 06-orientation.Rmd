@@ -6,7 +6,7 @@ Upon reviewing the entirety of this handbook, there are a number of additional r
 
 Graduate students should review the [Graduate Student Portal](https://forestry.ubc.ca/students/graduate-student-portal/) and the [Graduate Student Handbook](https://forestry.ubc.ca/files/2023/09/Forestry-Gradbook.pdf) created by UBC Forestry. Staff should review the [UBC onboarding checklist](https://hr.ubc.ca/sites/default/files/documents/New_Hire_Onboarding_Checklist.pdf).
 
-## Setting up CWL and FASmail {-#CWLFasmail}
+## Setting Up CWL and FASmail {-#CWLFasmail}
 
 Students will have created a CWL account when applying to UBC, but should ensure their student email accounts are working, if they wish to use them. Contact Forestry IT (<forestry.ithelp@ubc.ca> or using the [UBC Self Service Portal](https://ubc.service-now.com/selfservice?id=kb_article_view&sys_kb_id=1736823d939686105a9f30edfaba1089)) if you encounter problems or have questions.
 
@@ -67,7 +67,7 @@ The lab room also hosts two high-powered desktop computers which can be helpful 
 
 Finally, the lab room houses our lab library (shelves on the wall above Madeline & Aidan’s workspaces). Folks are welcome to borrow from this library and use the sign-out sheet on the freezer when you borrow/return a book.
 
-#### Specimen Fridge and Freezer {-#specimenfreezer}
+#### Specimen Freezer {-#specimenfreezer}
 
 There is a specimen freezer in the lab room that is available for storing biological samples. We are hoping to move this to the wet lab space or basement in the near future and will update the location accordingly. The fridge for storing food is under the bench in the kitchen area. Please keep food and samples separate!
 

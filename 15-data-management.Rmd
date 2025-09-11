@@ -1,8 +1,8 @@
 # Data Management {-#datamgmt}
 
-When planning and conducting research, it is good practice to also think about and develop a system for managing your data. Research data management generally refers to how researchers structure, organize, document, use, preserve, and share data throughout the [research life cycle](https://researchsupport.harvard.edu/research-lifecycle). Good data management can help reduce errors, minimize confusion, and improve the quality of your data and the efficiency of your analysis. Data that are well-organized and documented will also be easier to share and archive for future use, allowing others to understand and make use of your data and/or [reproduce](https://doi.org/10.1002/bes2.1801) your research. 
+When planning and conducting research, it is good practice to also think about and develop a system for managing your data. Research data management generally refers to how researchers structure, organize, document, use, preserve, and share data throughout the [research life cycle](https://researchsupport.harvard.edu/research-lifecycle). Good data management can help reduce errors, minimize confusion, and improve the quality of your data and the efficiency of your analysis. Data that is well-organized and documented will also be easier to share and archive for future use, allowing others to understand and make use of your data and/or [reproduce](https://doi.org/10.1002/bes2.1801) your research. 
 
-## Principles and best practices {-#principles}
+## Principles and Best Practices {-#principles}
 
 How to best organize and manage your data will depend on the type of data and analysis, as well as your (and your collaborators’) preferences. Here are some brief guides and primers on best practices in data management, to help you get started:
 
@@ -45,25 +45,25 @@ See the following for additional resources and tools to help you develop a data 
 
 Once your research has been completed, you are expected to leave an archive of your data and analysis code with the lab, along with any additional documentation needed for others to understand how your data was collected, processed, and analyzed, and how the data should be managed, shared, and/or used in the future. 
 
-### Recommended content {.unlisted .unnumbered}
+### Recommended Content {.unlisted .unnumbered}
 
 When archiving, we strongly recommend following [best practices](#principles) in data management and reproducible code, and ask that you include:
 
 - a copy of the raw (unprocessed) data files, if possible. In many cases, this may consist simply of data collected from field sampling or compiled from expert elicitations or systematic literature reviews
-- where applicable, the source of the data - e.g., image or video files from camera traps or bioacoustic monitoring devices, audio/video recordings of interviews/workshops, copies of survey responses, spatial data files, etc. If (physical) field samples were collected and stored in the lab for future analyses, include an inventory list of the samples, where and when they were collected, and where and how they are stored.
-- the code used to process and analyze the data and generate any figures. If data cleaning/formatting was done manually (i.e., not using R or other programming software), then a detailed description of how input files for the analysis were derived from the raw data files should also be included 
+- where applicable, the source of the data - *e.g.*, image or video files from camera traps or bioacoustic monitoring devices, audio/video recordings of interviews/workshops, copies of survey responses, spatial data files, etc. If (physical) field samples were collected and stored in the lab for future analyses, include an inventory list of the samples, where and when they were collected, and where and how they are stored.
+- the code used to process and analyze the data and generate any figures. If data cleaning/formatting was done manually (*i.e.*, not using R or other programming software), then a detailed description of how input files for the analysis were derived from the raw data files should also be included 
 - a data [dictionary/codebook](#principles) that defines the variables and describes the structure, content, and layout of the dataset. Include the names of individuals that collected the data and the date and location of data collection if these were not already included in the dataset or the in the report/manuscript (see next item),
 - a copy of the final report, thesis or thesis chapter, or scientific manuscript that describes the data collection methods, equipment and materials used, and the analysis. - any additional documentation needed to allow for replication of the study if needed
-- permits or approvals needed for experimental or field data collection, or for any research involving humans (e.g., expert elicitations, interviews, workshops) 
-- data use/ownership agreements (if applicable), copyright licenses (e.g., [Creative Commons](https://creativecommons.org/share-your-work/)), and protocols that govern how the data should be used, managed, stored, or shared in the future.
+- permits or approvals needed for experimental or field data collection, or for any research involving humans (*e.g.*, expert elicitations, interviews, workshops) 
+- data use/ownership agreements (if applicable), copyright licenses (*e.g.*, [Creative Commons](https://creativecommons.org/share-your-work/)), and protocols that govern how the data should be used, managed, stored, or shared in the future.
 
-In addition, we also encourage you to archive copies of field/workshop photos or videos, presentations about the project, and copies of (or links to) any media articles that featured the study. Documents related to project administration, such as grant applications/agreements and contracts, budgets, progress reports, invoices, contact lists, etc. should also be included in the archive in a separate ‘admin’ subfolder.
+In addition, we also encourage you to archive copies of field/workshop photos or videos, presentations about the project, and copies of (or links to) any media articles that featured the study. Documents related to project administration, such as grant applications/agreements and contracts, budgets, progress reports, invoices, contact lists, et cetera should also be included in the archive in a separate ‘admin’ subfolder.
 
 Make sure to include _read me_ files that describe the contents of each subfolder or group of subfolders. Consult the links provided [above](#principles) as well as this [guide from Cornell University](https://data.research.cornell.edu/data-management/sharing/readme/) to learn more about _read me_ files.
 
-### Directory structure {.unlisted .unnumbered}
+### Directory Structure {.unlisted .unnumbered}
 
 Your data and other project documents should be archived in the Conservation Decision Lab’s [shared network drive](#sharednetworkdrive). See below for more information on where to store and how to structure your project archive.
 
-*(to be continued...)*
+*(to be continued...check with Tara before archiving data)*
 

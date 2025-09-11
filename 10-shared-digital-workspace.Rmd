@@ -1,8 +1,8 @@
 # Shared Digital Workspaces {-#shareddigital}
 
-## CDL Github {-#github}
+## Github {-#github}
 
-The CDL [Github](https://github.com/ConservationDecisionsLab/CDL-lab-handbook) hosts the [Conservation Decisions Lab Handbook](https://conservationdecisionslab.github.io/CDL-lab-handbook/), which should be treated as your primary point of reference during your time with the lab. The lab manual provides a comprehensive overview of lab processes and information pertaining to your progression through your degree and time with the lab. This handbook is  a living document and is hosted on Github so that it can be continuously updated by lab members as information needs to be changed or added. Instructions for adding to the handbook directly can be found in the last section of the handbook, or you can write/rewrite a section and email your changes to one of the research techs who will then make the necessary changes on Github.
+The CDL [Github](https://github.com/ConservationDecisionsLab/CDL-lab-handbook) hosts the [Conservation Decisions Lab Handbook](https://conservationdecisionslab.github.io/CDL-lab-handbook/), which should be treated as your primary point of reference during your time with the lab. The lab manual provides a comprehensive overview of lab processes and information pertaining to your progression through your degree and time with the lab. This handbook is  a living document and is hosted on Github so that it can be continuously updated by lab members as information needs to be changed or added. Instructions for adding to the handbook directly can be found in the last section of the handbook (see [here](#howtocontribute)), or you can write/rewrite a section and email your changes to one of the research techs who will then make the necessary changes on Github.
 
 For those who have not yet been introduced to GitHub, it is a website for developers and programmers to collaboratively work on code. The primary benefit of GitHub is its version control system, which allows for seamless collaboration without compromising the integrity of the original project. The projects on GitHub are examples of open-source software. The [CDL GitHub repository](https://github.com/ConservationDecisionsLab) can also be used by lab members as one would normally use Github for project organization such as storing code, et cetera.
 
@@ -38,7 +38,7 @@ Connect to the UBC VPN guide on how to connect found here). The application ‘R
 
 Once you have logged in for the first time you can create a shortcut to bypass the above steps. With the Remote Desktop Connection window open, click ‘show options’ and then save as to add the shortcut to your desktop or another location.
 
-#### Useful settings {-#settings}
+#### Useful Settings {-#settings}
 
 Settings are available in the Remote Desktop Connection window under ‘show options’. 
 
@@ -54,7 +54,7 @@ To access the task manager (for example, if an application is not responding and
 
 The default settings keep the clipboard activated, so you can copy and paste between the local computer and the workstation.
 
-#### Logging out/disconnecting {-#disconnectingremote}
+#### Logging Out/Disconnecting {-#disconnectingremote}
 
 DO NOT CLICK SHUT DOWN when using the workstation. Clicking shut down instead of disconnecting or logging out of the computer will turn the device off completely, meaning someone will have to go into the lab and physically turn it back on. This will not be damaging in any way, just an inconvenience, unless another user is running something in the background, then their work will be lost. 
 

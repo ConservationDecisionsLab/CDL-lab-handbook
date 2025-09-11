@@ -1,6 +1,6 @@
-# Getting To/Around UBC {-#transportation}
+# Navigating UBC {-#transportation}
 
-## Getting to UBC {-#gettingtoUBC}
+## Getting To UBC {-#gettingtoUBC}
 
 ### Bus {-#bus}
 
@@ -28,7 +28,7 @@ The 620 bus connects the transit system from Bridgeport station to the Tsawwasse
 
 Buses 44, 4 and 14 stop at Waterfront Station, linking up with buses that go to Horseshoe Bay Ferry Terminal. The seaplane terminal is also a short walk from Waterfront Station.
 
-## Getting around UBC {-#navigatingUBC}
+## Getting Around UBC {-#navigatingUBC}
 
 You can use the [UBC Wayfinder](https://www.maps.ubc.ca/) to locate rooms and buildings on campus. 
 
