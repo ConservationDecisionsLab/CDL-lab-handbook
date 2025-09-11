@@ -60,7 +60,7 @@ Your admittance to the CDL Slack channel will be granted upon request by either 
 -	**Erica Triggs (<erica.triggs@ubc.ca>); Director, Graduate Student Academic Services**
     - Provides graduate student support and oversees phases of graduate degrees, with a particular focus on PhD degrees; great general resource  
       
-### FCS Listservs {#-FCSlistservs}
+### FCS Listservs {-#FCSlistservs}
 
 You will be automatically added to the appropriate email list for Forestry communications, such as newsletters and the Wednesday Seminar Series. If you think you are not receiving these emails, contact Pedro Ribeiro (<pedro.ribeiro@ubc.ca>).
   
@@ -77,7 +77,7 @@ You will be automatically added to the appropriate email list for Forestry commu
 
 ### External Listservs {-#externallistservs}
 
-#### Biodiversity Research Centre (BRC) Listserv
+#### Biodiversity Research Centre (BRC) Listserv {-#BRClistserv}
 
  The Biodiversity Research Centre is the group of biodiversity UBC Faculty and Research Scientists who are formally members of the BRC, and their research groups. The BRC have many activities - scientific activities including seminars and discussion groups, as well as social events like ice cream socials, holiday parties and Friday afternoon socials. Of particular interest are their weekly Biodiversity Research Seminar Series, held on Wednesdays at 12pm (location changes, check schedule). See their [website](https://biodiversity.ubc.ca/events) for more information.
 You can self-subscribe or contact BRC Administrator Katie Beall (<katie.beall@ubc.ca>) to join the lists. To **self-subscribe** to the Research mailing list, send an email to <listserv@lists.ubc.ca> from your own account with **"subscribe biodiversity-research"** in the body with no quotation marks (and nothing else, make sure to delete your signature!). Follow the same pattern to subscribe to the other lists as needed.
