@@ -8,9 +8,7 @@ Preparing for fieldwork is a very exciting time. When your preparation begins (a
 *	[Conducting Off-Campus Fieldwork | UBC Research + Innovation](https://research.ubc.ca/covid-19/conducting-off-campus-fieldwork)
 *	[Travel and Field Safety l UBC](https://travelfieldsafety.ubc.ca/about/)
 
-A Fieldwork Safety Plan (FSP) is required for all fieldwork and must be submitted to your department for approval before you head out into the field. This approval process can take a few weeks hence it is best to begin thinking about the preparation of this document well in advance. You should receive an email from Pedro prompting you to complete this with the form attached, however you can also access the FSP document [here](https://www.dropbox.com/home/Conservation%20Decisions%20Lab/11_Health%20and%20Safety/01_Safety%20plans) in our lab Dropbox.
-
-Before submitting your plan for approval be sure to glace at the ‘Field Work Safety Plan – Completion checklist’. You can find this checklist [here](https://www.dropbox.com/home/Conservation%20Decisions%20Lab/11_Health%20and%20Safety/01_Safety%20plans). 
+A Fieldwork Safety Plan (FSP) is required for all fieldwork and must be submitted to your department for approval before you head out into the field. This approval process can take a few weeks hence it is best to begin thinking about the preparation of this document well in advance. You should receive an email from Pedro prompting you to complete this with the form attached, however you can also access the FSP document [here](https://www.dropbox.com/scl/fi/pf29994uw8m5x0dlfdap7/Forestry-Fieldwork-Safety-Plan-Template.docx?rlkey=40pgo2faaenrxas7z8g6n1s4o&st=dbuplwec&dl=0) in our lab Dropbox.
 
 Once Tara has signed off on your safety plan you are ready to submit your safety plan to Pedro Ribeiro (<pedro.ribeiro@ubc.ca>) for approval and archiving. 
 
@@ -28,7 +26,7 @@ Similarly, if you will be conducting research involving humans, including survey
 
 ### General Field Equipment {-#fieldequipment}
 
-The CDL field equipment inventory can be found [here](https://www.dropbox.com/home/Conservation%20Decisions%20Lab/01_Equipment?preview=Equipment+inventory.xlsx). This list is currently not up to date, so if you are wondering about what equipment is available please reach out to Aidan for the time being until the list is updated. If you require the use of any equipment please ensure that you alert Aidan prior to your fieldwork excursions to ensure that the equipment is up-to-date on repairs and servicing and is accessible to you (a great deal of our equipment is stored on Salt Spring Island).
+The CDL field equipment inventory can be found [here](https://www.dropbox.com/scl/fi/1v38baayjlbh7exgje8cn/Equipment-Inventory.xlsx?rlkey=4xlzps49ll7nhx2qovq46psxr&st=w873tgat&dl=0). This list is currently not up to date, so if you are wondering about what equipment is available please reach out to Aidan for the time being until the list is updated. If you require the use of any equipment please ensure that you alert Aidan prior to your fieldwork excursions to ensure that the equipment is up-to-date on repairs and servicing and is accessible to you (a great deal of our equipment is stored on Salt Spring Island).
 
 If you require equipment not currently owned by the lab, please connect with Tara to discuss payment options. Depending on the equipment and lab finances, Tara may be willing to purchase equipment that could contribute to the overall function of the lab. Otherwise, this will need to come from the students' grant (*e.g.*, Mitacs research & material costs)
 

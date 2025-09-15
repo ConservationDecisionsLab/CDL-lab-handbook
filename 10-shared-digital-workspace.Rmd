@@ -8,13 +8,13 @@ For those who have not yet been introduced to GitHub, it is a website for develo
 
 ## Dropbox {-#dropbox}
 
-The [Conservation Decisions Lab Dropbox](https://www.dropbox.com/home/Conservation%20Decisions%20Lab?di=left_nav_browse) is currently used for storing lab documents (*e.g.*, copies of publications, document templates, et cetera) and employs web shortcuts, when relevant, to direct lab members to documents hosted in other shared digital workspaces (*e.g.*, CDL Google Drive). The CDL Dropbox also contains a link to the [CDL Photo & Media Archive](https://www.dropbox.com/scl/fo/esrtf4sx8k25wtc1apf9w/AM0fsZAJNt1wrxzRcXrOBHg?rlkey=d93jaq10e3gfittc99ays6ibx&st=bbcw6beb&dl=0) which can be added as an independent folder if storage space allows or accessed as a web shortcut from the main lab Dropbox [here](https://www.dropbox.com/scl/fo/2hyfyzuxhhri89uhegx68/AJbCP4FY9QUj9cUT2qlcxkw?rlkey=26cdprwes3spbzohu8lcfw76l&st=q1q9cobf&dl=0) (see the [Lab Media](#media) section for more information). 
+The [Conservation Decisions Lab Dropbox](https://www.dropbox.com/scl/fo/x2wkmy95sll3969tg4e5b/AIBBQkmcXNEDG-d0h1-o6y8?rlkey=n9cc73t4q9b22x1lqdqyz4ehi&st=c5pom9u1&dl=0) is currently used for storing lab documents (*e.g.*, copies of publications, document templates, et cetera) and employs web shortcuts, when relevant, to direct lab members to documents hosted in other shared digital workspaces (*e.g.*, CDL Google Drive). The CDL Dropbox also contains a link to the [CDL Photo & Media Archive](https://www.dropbox.com/scl/fo/esrtf4sx8k25wtc1apf9w/AM0fsZAJNt1wrxzRcXrOBHg?rlkey=ex8wg3no2uf6ecpib03ux79s1&st=ga4p8ymy&dl=0) which can be added as an independent folder if storage space allows or accessed as a web shortcut from the main lab Dropbox [here](https://www.dropbox.com/scl/fo/2hyfyzuxhhri89uhegx68/AJbCP4FY9QUj9cUT2qlcxkw?rlkey=26cdprwes3spbzohu8lcfw76l&st=2qq4nqe3&dl=0) (see the [Lab Media](#media) section for more information). 
 
 If you do not have access to the lab Dropbox, please talk to Madeline. Also, if you need a paid subscription to Dropox to have more storage space, talk to Tara or Madeline.
 
 ## Google Drive {-#googledrive}
 
-Our shared [CDL Google Drive](https://drive.google.com/drive/u/0/folders/1S0HorbfWMeabPMoyvBvCEPGnz0_FGVXy) is used to host shared documents that need to be edited collaboratively. This includes lab meeting schedule & notes, contact lists, JEDI materials, event planning (*e.g.*, conferences, lab events), and lists of publications/conferences/presentations. Documents stored here can also be accessed from web shortcuts in the [CDL Dropbox](https://www.dropbox.com/home/Conservation%20Decisions%20Lab) to help make searching for information more intuitive and streamlined.
+Our shared [CDL Google Drive](https://drive.google.com/drive/u/0/folders/1S0HorbfWMeabPMoyvBvCEPGnz0_FGVXy) is used to host shared documents that need to be edited collaboratively. This includes lab meeting schedule & notes, contact lists, JEDI materials, event planning (*e.g.*, conferences, lab events), and lists of publications/conferences/presentations. Documents stored here can also be accessed from web shortcuts in the [CDL Dropbox](https://www.dropbox.com/scl/fo/x2wkmy95sll3969tg4e5b/AIBBQkmcXNEDG-d0h1-o6y8?rlkey=n9cc73t4q9b22x1lqdqyz4ehi&st=vxqum69l&dl=0) to help make searching for information more intuitive and streamlined.
 
 If you do not have access to the lab Google Drive, please talk to Madeline.
 
@@ -32,7 +32,7 @@ The shared network drive is being considered as a potential platform for data ar
 
 The lab workstation, or remote desktop, is a computer that is available for the lab to use when a task requires more power/RAM than is available with our laptops or personal computers. The computer itself sits in the lab room 3202, but can be connected to from anywhere you have access to the UBC VPN.
 
-Please store any files that you need on the [shared drive](sharednetworkdrive) or the H drive rather than on the 3202a workstation/C drive as this system is reserved for running software that demands lots of memory and RAM. No one user should be taking up more than 10GB. Space usage is monitored.
+Please store any files that you need on the [shared drive](#sharednetworkdrive) or the H drive rather than on the 3202a workstation/C drive as this system is reserved for running software that demands lots of memory and RAM. No one user should be taking up more than 10GB. Space usage is monitored.
 
 Scheduling time is done through the workstation-booking channel on [Slack](#slack). You will be admitted to the CDL Slack channel upon request by the lab manager. When using the remote workstation please be sure to monitor the slack channel as some lab members leave software running over night.
 

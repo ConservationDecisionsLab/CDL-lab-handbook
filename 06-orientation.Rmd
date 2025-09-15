@@ -4,7 +4,7 @@
 
 Upon reviewing the entirety of this handbook, there are a number of additional reference materials that will be important to review during onboarding. 
 
-Graduate students should review the [Graduate Student Portal](https://forestry.ubc.ca/students/graduate-student-portal/) and the [Graduate Student Handbook](https://forestry.ubc.ca/files/2023/09/Forestry-Gradbook.pdf) created by UBC Forestry. Staff should review the [UBC Onboarding Checklist](https://hr.ubc.ca/sites/default/files/documents/New_Hire_Onboarding_Checklist.pdf). Staff will also need to complete the [Forest & Conservation Sciences | New Worker Onboarding & Training Form](https://www.dropbox.com/home/Conservation%20Decisions%20Lab/00_Admin/UBC%20Onboarding?preview=FCS-Onboarding-POTR-Document+Fillable.pdf).
+Graduate students should review the [Graduate Student Portal](https://forestry.ubc.ca/students/graduate-student-portal/) and the [Graduate Student Handbook](https://forestry.ubc.ca/files/2023/09/Forestry-Gradbook.pdf) created by UBC Forestry. Staff should review the [UBC Onboarding Checklist](https://hr.ubc.ca/sites/default/files/documents/New_Hire_Onboarding_Checklist.pdf). Staff will also need to complete the [Forest & Conservation Sciences | New Worker Onboarding & Training Form](https://www.dropbox.com/scl/fi/scj3js90otp7pw2o78fmn/FCS-Onboarding-POTR-Document-Fillable.pdf?rlkey=1pfsi7jvzz2657kgrnbj7bmgt&st=ahbneocc&dl=0).
 
 ## Setting Up CWL and FASmail {-#CWLFasmail}
 
@@ -59,13 +59,13 @@ This will go to the FCS reception, so you should talk to Pedro Ribeiro (<pedro.r
 
 The lab room (FSC 3202) is a shared workplace and all lab members should feel welcome to use the space, with the understanding that our research techs (Riley, Aidan, & Madeline) use this room as their shared office. Please be respectful of this by being quiet if folks are working and/or in meetings, cleaning up after yourself, and helping replenish supplies you use often (honour system).
 
-The lab room has a kitchen space with various appliances, including a fridge, kettle, microwave, panini press, drip coffee machine, and espresso machine (find espresso machine instructions [here](https://www.dropbox.com/scl/fi/ces256a7eodueeqvplf5q/Espresso_Machine_Instructions_Final.pdf?rlkey=ggtsjr9c40x7di2xl1j0fljxy&st=srjtktrv&dl=0)). Generally, the room is also stocked with milk, coffee (caffeinated & decaf), tea, honey, and chocolate. All lab members are welcome and encouraged to use these supplies, but please contribute by keeping things clean and restocked!
+The lab room has a kitchen space with various appliances, including a fridge, kettle, microwave, panini press, drip coffee machine, and espresso machine (find espresso machine instructions [here](https://www.dropbox.com/scl/fi/ces256a7eodueeqvplf5q/Espresso_Machine_Instructions_Final.pdf?rlkey=ggtsjr9c40x7di2xl1j0fljxy&st=e7p9tvik&dl=0)). Generally, the room is also stocked with milk, coffee (caffeinated & decaf), tea, honey, and chocolate. All lab members are welcome and encouraged to use these supplies, but please contribute by keeping things clean and restocked!
 
 In terms of work-related supplies/equipment, the lab room is equipped with a white-board and two projectors (one portable and one ceiling-mounted). The portable projector can be used for meetings and gatherings as needed (see cabinet labelled *"CDL Tech Equipment"* in FSC 3202. The ceiling-mounted projector includes an electronic screen, and both are controlled from the panel to the right of the whiteboard. Notify one of the research techs for any issues with the lab projector set up, or contact [UBC AV services](https://it.ubc.ca/got-question-about-it-products-and-support#avhelpdesk).
 
 The lab room also hosts two high-powered desktop computers which can be helpful when running large datasets and can be accessed remotely. This is available to all lab members, just make sure it is not in use before accessing it. For more information, ask Riley (<riley.finn@ubc.ca>). There are various office supplies and tech accessories in the lab room – cupboards & drawers are labelled, and you can ask the research techs if you require something specific.
 
-Finally, the lab room houses our lab library (shelves on the wall above Madeline & Aidan’s workspaces). Folks are welcome to borrow from this library (see inventory [here](https://www.dropbox.com/home/Conservation%20Decisions%20Lab/06_Equipment/03_Library?preview=Lab+Room+Library+Inventory.xlsx)) and use the sign-out sheet on the freezer when you borrow/return a book.
+Finally, the lab room houses our lab library (shelves on the wall above Madeline & Aidan’s workspaces). Folks are welcome to borrow from this library (see inventory [here](https://www.dropbox.com/scl/fi/2xa1qbforgg6e9zwjzkff/Lab-Room-Library-Inventory.xlsx?rlkey=z7egcad3fe43illro5b8vkqya&st=mk0btcj4&dl=0)) and use the sign-out sheet on the freezer when you borrow/return a book.
 
 #### Specimen Freezer {-#specimenfreezer}
 
