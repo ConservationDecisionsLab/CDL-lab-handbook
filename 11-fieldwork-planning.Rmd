@@ -40,9 +40,10 @@ The field truck is available for use by lab members for fieldwork (at a cost to 
 
 There is a UBC fuel card that should be used to fill up the vehicle, and is kept in a plastic sleeve in the glovebox. The purchase will then be charged to the designated project fund by Madeline.
 
-When using the vehicle, please remember the following:
-- Fill with fuel at end of use (a use may be multiple days)
-- Use fuel card in glovebox to fill up and send photos of gas receipts to Madeline
+When using the vehicle, please remember the following: 
+
+- Fill with fuel at end of use (a use may be multiple days)  
+- Use fuel card in glovebox to fill up and send photos of gas receipts to Madeline  
 - Keep record of vehicle use (*i.e.*, trip details) and send this to Madeline
 
 ### Research Vessel {-#researchvessel}
