@@ -35,7 +35,7 @@ knitr::include_graphics(here::here("img/cdl-lab-banner.jpg"))
 
 This document acts as a comprehensive reference material for members of the Conservation Decisions Lab. This document should be reviewed in its entirety when you first join the lab and from then on used as a first point of reference for any questions that might come up during your time with the lab.
 
-Section headings are listed on the contents bar, shown on the left of your screen. Please note that hidden sub-headings become visible when you click on a heading. When looking for a specific piece of information, it may be helpful to use the CTRL+F (or CMD+F for Mac users) function to search for a specific word or phrase in the document.
+Section headings are listed on the contents bar, shown on the left of your screen. Please note that hidden sub-headings become visible when you click on a heading. When looking for a specific piece of information, it may be helpful to use the search function to search for a specific word or phrase in the document (magnifying glass symbol on top menu bar).
 
 If lab members feel there is information missing from this handbook, please feel welcome to add content to the handbook yourself (see the [How to Contribute](#howtocontribute) section) or contact Madeline (<madelinewoodley22@gmail.com>).
 

@@ -15,7 +15,9 @@ The US Fish and Wildlife Service offers both [online resources](https://www.fws.
 [Compass Resource Management](https://compassrm.com/) also has a website on [Structured Decision Making](https://www.structureddecisionmaking.org/)
 
 ## Teaching and Learning {-#teaching}
-The UBC Centre for Teaching, Learning, and Technology offers [Instructional Skills Workshops for Grads and Postdocs](https://ctlt.ubc.ca/programs/all-our-programs/instructional-skills-workshops/), along with other teaching and learning [programs](https://ctlt.ubc.ca/programs/graduate-student-ta-programs/) and [resources](https://ctlt.ubc.ca/resources/)
+The UBC Centre for Teaching, Learning, and Technology offers [Instructional Skills Workshops for Grads and Postdocs](https://ctlt.ubc.ca/programs/all-our-programs/instructional-skills-workshops/), along with other teaching and learning [programs](https://ctlt.ubc.ca/programs/graduate-student-ta-programs/) and [resources](https://ctlt.ubc.ca/resources/). 
+
+CDL students have also created a [working list of graduate courses](https://docs.google.com/spreadsheets/d/1p8UpsdUrruuVVpqvXhSPxyLCDusfHkg4dFRiiZyZvJ0/edit?usp=drive_link) past students have taken that might be of interest to future students.
 
 ## Communication and Facilitation {-#communications}
 [Compass](https://www.compassscicomm.org/) has some training resources on how to use the [Message Box](https://www.compassscicomm.org/leadership-development/the-message-box/) to help better communicate our science to different audiences. 

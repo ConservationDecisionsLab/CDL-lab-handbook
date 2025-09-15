@@ -1,0 +1,22 @@
+# CDL Publications & Outputs {-#outputs}
+
+During their time with the lab, CDL members are asked to keep a record of all publications, presentations, and media features/outputs they are a part of. This is good practice for CV management and will come in useful for future funding/job applications for individuals and the lab. See the following sections for details on how to record outputs, depending on the output type.
+
+## Journal Publications {-#publications}
+
+Lab members are asked to help maintain an up-to-date record of journal publications during their time with the lab. Please add a formatted reference entry for any and all publications you are an author on to this [CDL Publications](https://docs.google.com/document/d/1nvJrgwO3Pj3GYOIfDn-S-pChBMC9YjJfCccEJaep8zc/edit?tab=t.0) document in the lab Google Drive. The document is organized year, so you should be able to see if someone else has added this publication to the list already (*i.e.*, in cases of fellow lab member co-authors). 
+
+In addition, lab members are asked to upload a PDF version of the journal publication to the [Publication PDFs](https://www.dropbox.com/scl/fo/hjoebqgu23xj7z0bwvfhm/AKGjrvEBO3yNRBwva1jI2yE?rlkey=074ttjxpz8y0y5efdshw2wfyk&st=n3lx748p&dl=0) folder in the CDL Dropbox (stored in 07_Publications & Media > Journal Publications). For publications with three or more authors, please use the following naming convention for publication PDFs: **[First author's last name] et al [Publication year]** (*e.g.*, Martin et al 2025). For papers with one author, omit the "et al", and for papers with two authors omit the "et al" and instead include the last names of both authors separated by an "&" (*e.g.*, Martin & Arcese 2025).
+
+## Presentations {-#presentations}
+
+Lab members are asked to help maintain an up-to-date record of talks & presentations on their work during their time in the lab (*e.g.*, conference presentations, guest lectures, etc.). Please add your name to the [CDL Presentations](https://docs.google.com/document/d/1B_GuNJQwQUgGBdLxhoxdIEuTFxtP_YnGGWwap2H5DoM/edit?tab=t.0) document in the CDL Google Drive and add entries, organized by presentation type (see document for reference).
+
+In addition, lab members are asked to upload a PowerPoint version of their presentation (if appropriate/permitted) to the [Presentation PowerPoints](https://www.dropbox.com/home/Conservation%20Decisions%20Lab/07_Publications%20%26%20Media/Presentations) folder in the CDL Dropbox (stored in 07_Publications & Media > Presentations).
+
+
+## News & Media Features {-#newsfeatures}
+
+During their time in the lab, CDL members are asked to help maintain an up-to-date record of any news & media features of their work. Please add your name to the [CDL News & Media](https://docs.google.com/document/d/1UE1JLU0pGdSrWRpUD1VYAXYZQqvoaB-8enRzZ6CnECU/edit?tab=t.0) document in the CDL Google Drive and add entries, organized by media type (*e.g.* podcast, newspaper article, radio interview, etc.). 
+
+If possible, please also add a copy of the feature (*e.g.*, PDF or photo of article, webshortcut to interview, etc.) to the [relevant folder](https://www.dropbox.com/scl/fo/7dlzqa8qz67hfn0rykfmp/AAEr4vnskl7yWvgkCQrTJls?rlkey=anp95fkw6k3x22rn4gr4l66a2&st=mqrr22fv&dl=0) in the CDL Dropbox (stored in 07_Publications & Media > News & Media).

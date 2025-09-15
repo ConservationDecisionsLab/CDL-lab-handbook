@@ -8,11 +8,15 @@ For those who have not yet been introduced to GitHub, it is a website for develo
 
 ## Dropbox {-#dropbox}
 
-The [Conservation Decisions Lab Dropbox](https://www.dropbox.com/home/Conservation%20Decisions%20Lab?di=left_nav_browse) is currently used for storing lab documents (*e.g.*, copies of publications, document templates, et cetera) and media. If you do not have access to the lab Dropbox, please talk to Madeline. Also, if you need a paid subscription to Dropox to have more storage space, talk to Tara or Madeline.
+The [Conservation Decisions Lab Dropbox](https://www.dropbox.com/home/Conservation%20Decisions%20Lab?di=left_nav_browse) is currently used for storing lab documents (*e.g.*, copies of publications, document templates, et cetera) and employs web shortcuts, when relevant, to direct lab members to documents hosted in other shared digital workspaces (*e.g.*, CDL Google Drive). The CDL Dropbox also contains a link to the [CDL Photo & Media Archive]()https://www.dropbox.com/scl/fo/esrtf4sx8k25wtc1apf9w/AM0fsZAJNt1wrxzRcXrOBHg?rlkey=d93jaq10e3gfittc99ays6ibx&st=bbcw6beb&dl=0 which can be added as an independent folder if storage space allows or accessed as a web shortcut from the main lab Dropbox [here](https://www.dropbox.com/scl/fo/2hyfyzuxhhri89uhegx68/AJbCP4FY9QUj9cUT2qlcxkw?rlkey=26cdprwes3spbzohu8lcfw76l&st=q1q9cobf&dl=0) (see the [Lab Media](#media) section for more information). 
+
+If you do not have access to the lab Dropbox, please talk to Madeline. Also, if you need a paid subscription to Dropox to have more storage space, talk to Tara or Madeline.
 
 ## Google Drive {-#googledrive}
 
-Our shared [CDL Google Drive](https://drive.google.com/drive/u/0/folders/1S0HorbfWMeabPMoyvBvCEPGnz0_FGVXy) is used to host shared documents that need to be edited collaboratively. This includes lab meeting schedule & notes, contact lists, JEDI materials, event planning (*e.g.*, conferences, lab events), and lists of publications/conferences/presentations. If you do not have access to the lab Google Drive, please talk to Madeline.
+Our shared [CDL Google Drive](https://drive.google.com/drive/u/0/folders/1S0HorbfWMeabPMoyvBvCEPGnz0_FGVXy) is used to host shared documents that need to be edited collaboratively. This includes lab meeting schedule & notes, contact lists, JEDI materials, event planning (*e.g.*, conferences, lab events), and lists of publications/conferences/presentations. Documents stored here can also be accessed from web shortcuts in the [CDL Dropbox](https://www.dropbox.com/home/Conservation%20Decisions%20Lab) to help make searching for information more intuitive and streamlined.
+
+If you do not have access to the lab Google Drive, please talk to Madeline.
 
 ## Shared Network Drive {-#sharednetworkdrive}
 
