@@ -8,9 +8,9 @@ Paid parental leave is largely dependent on research funding source and the Facu
 
 Those funded by NSERC grants are invited to review parental leave policies [here](https://www.nserc-crsng.gc.ca/NSERC-CRSNG/policies-politiques/Wleave-Fconges_eng.asp). Depending on the grantee’s circumstances, the options include:
 
-*extending the period for using the current grant funds by up to two years
-*adding up to two years of funding at the same level as the current grant
-*deferring the submission of a renewal application
+* extending the period for using the current grant funds by up to two years  
+* adding up to two years of funding at the same level as the current grant  
+* deferring the submission of a renewal application
 
 **Mitacs**  
 
